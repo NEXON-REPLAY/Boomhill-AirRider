@@ -1,0 +1,431 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__00_ADiffuseMap_eaf27116",
+   "name": "myRoom/village_M01/건물00_ADiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__00_DiffuseMap_323446d7",
+   "name": "myRoom/village_M01/절벽00_DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__00DiffuseMap_f71bb042",
+   "name": "myRoom/village_M01/화단00DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__A_1_DiffuseMap_21f94b87",
+   "name": "myRoom/village_M01/광장_건물A_1_DiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__A_DiffuseMap_4fddbca9",
+   "name": "myRoom/village_M01/광장_바닥A_DiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__A_DiffuseMap_7a440e53",
+   "name": "myRoom/village_M01/광장_오브젝트A_DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__A_DiffuseMap_bc61ec95",
+   "name": "myRoom/village_M01/광장_건물A_DiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__ad_board_a",
+   "name": "myRoom/village_M01/ad_board_a",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__ad_board_b",
+   "name": "myRoom/village_M01/ad_board_b",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__ad_board_c",
+   "name": "myRoom/village_M01/ad_board_c",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__ad_board_d",
+   "name": "myRoom/village_M01/ad_board_d",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__ADiffuseMap_7e9133a8",
+   "name": "myRoom/village_M01/건물_ADiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__B01DiffuseMap_81b016cf",
+   "name": "myRoom/village_M01/건물_B01DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__B_DiffuseMap_0a9df865",
+   "name": "myRoom/village_M01/광장_건물B_DiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__B_DiffuseMap_526da29a",
+   "name": "myRoom/village_M01/광장_바닥B_DiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__b_fade02",
+   "name": "myRoom/village_M01/b_fade02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__b_fade02_a02",
+   "name": "myRoom/village_M01/b_fade02_a02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__BDiffuseMap_743957f6",
+   "name": "myRoom/village_M01/건물_BDiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__C-_DiffuseMap_cfbf4ca7",
+   "name": "myRoom/village_M01/C-화단DiffuseMap",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__C_01DiffuseMap_a10419e3",
+   "name": "myRoom/village_M01/C바닥타일01DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__C_02DiffuseMap_32107dc5",
+   "name": "myRoom/village_M01/C바닥타일02DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__CDiffuseMap_0c681cde",
+   "name": "myRoom/village_M01/건물_CDiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__DDiffuseMap_84ef2647",
+   "name": "myRoom/village_M01/건물_DDiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__DiffuseMap_32fd8296",
+   "name": "myRoom/village_M01/화단DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__DiffuseMap_75b28253",
+   "name": "myRoom/village_M01/광장_건물_학교_DiffuseMap",
+   "sheet": {
+    "h": 1024,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__DiffuseMap_98815cf5",
+   "name": "myRoom/village_M01/광장_마을회관DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__ef_show_c01",
+   "name": "myRoom/village_M01/ef_show_c01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__eff_green001",
+   "name": "myRoom/village_M01/eff_green001",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__eff_pink001",
+   "name": "myRoom/village_M01/eff_pink001",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__feet00_1",
+   "name": "myRoom/village_M01/feet00_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__map_a",
+   "name": "myRoom/village_M01/map_a",
+   "sheet": {
+    "h": 423,
+    "w": 368
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__map_b",
+   "name": "myRoom/village_M01/map_b",
+   "sheet": {
+    "h": 423,
+    "w": 368
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__NR__-05DiffuseMap_80114ffd",
+   "name": "myRoom/village_M01/NR_빌리지바닥-05DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__NR___A02DiffuseMap_1a19aa09",
+   "name": "myRoom/village_M01/NR_건물_A02DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__plaza_attention_c_O_plaza",
+   "name": "myRoom/village_M01/plaza_attention_c_O_plaza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__plaza_show_c_O_plaza",
+   "name": "myRoom/village_M01/plaza_show_c_O_plaza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__plaza_trasign_c_O_plaza",
+   "name": "myRoom/village_M01/plaza_trasign_c_O_plaza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__road00DiffuseMap",
+   "name": "myRoom/village_M01/road00DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__RoadObj-_DiffuseMap_d510d203",
+   "name": "myRoom/village_M01/RoadObj-마을바닥DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__RoadObj-B__DiffuseMap_35b39fcd",
+   "name": "myRoom/village_M01/RoadObj-B_절벽DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__RoadObj__DiffuseMap_f0239623",
+   "name": "myRoom/village_M01/RoadObj_풍차DiffuseMap",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__RoadObj_F__DiffuseMap_d0a2a53f",
+   "name": "myRoom/village_M01/RoadObj_F_절벽DiffuseMap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__shop1",
+   "name": "myRoom/village_M01/shop1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__sign01_O_plaza",
+   "name": "myRoom/village_M01/sign01_O_plaza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__small_tree_body",
+   "name": "myRoom/village_M01/small_tree_body",
+   "sheet": {
+    "h": 512,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__tierashop01_O_plaza",
+   "name": "myRoom/village_M01/tierashop01_O_plaza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "myRoom__village_M01__tierashop_O_plaza",
+   "name": "myRoom/village_M01/tierashop_O_plaza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "080_myroom",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "마이룸"
+}

@@ -1,0 +1,1331 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "etc__dirty_env",
+   "name": "etc/dirty_env",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__inazuma",
+   "name": "etc/inazuma",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__jilpoongDiffuse",
+   "name": "etc/jilpoongDiffuse",
+   "sheet": {
+    "h": 2,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__jilpoongSpecular",
+   "name": "etc/jilpoongSpecular",
+   "sheet": {
+    "h": 2,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__lensFlare",
+   "name": "etc/lensFlare",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_1714c48b",
+   "name": "etc/level/노랑1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_2498a752",
+   "name": "etc/level/무지개1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_38b2e10a",
+   "name": "etc/level/초록1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_42416255",
+   "name": "etc/level/검정1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_58a4cb59",
+   "name": "etc/level/스타검정1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_58c87fac",
+   "name": "etc/level/파랑1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_637dea47",
+   "name": "etc/level/빨강1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_8bb94816",
+   "name": "etc/level/스타무지개1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_9fe510cc",
+   "name": "etc/level/스타노랑1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_bd1fe00b",
+   "name": "etc/level/스타빨강1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_c44f0b82",
+   "name": "etc/level/스타초록1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__1_c528f856",
+   "name": "etc/level/스타파랑1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_0968fe39",
+   "name": "etc/level/무지개2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_5b30506b",
+   "name": "etc/level/스타파랑2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_8fa9d1eb",
+   "name": "etc/level/파랑2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_9cb83c5e",
+   "name": "etc/level/초록2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_afcf795c",
+   "name": "etc/level/스타빨강2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_c0a6fec2",
+   "name": "etc/level/스타초록2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_cc0e6a02",
+   "name": "etc/level/스타검정2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_e2bfc28a",
+   "name": "etc/level/스타무지개2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_ee384b8b",
+   "name": "etc/level/빨강2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_f3840771",
+   "name": "etc/level/검정2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_fd52eb6a",
+   "name": "etc/level/노랑2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__2_ffccb59e",
+   "name": "etc/level/스타노랑2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_23cc7982",
+   "name": "etc/level/검정3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_33dc3577",
+   "name": "etc/level/스타파랑3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_38827a54",
+   "name": "etc/level/노랑3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_3fb971de",
+   "name": "etc/level/스타무지개3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_4c4fe40e",
+   "name": "etc/level/빨강3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_52e9d736",
+   "name": "etc/level/스타빨강3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_557fd305",
+   "name": "etc/level/스타노랑3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_6bafea7f",
+   "name": "etc/level/파랑3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_91846a28",
+   "name": "etc/level/초록3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_957c5c5a",
+   "name": "etc/level/스타검정3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_bfa16c45",
+   "name": "etc/level/스타초록3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__3_e607e339",
+   "name": "etc/level/무지개3",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_093b3aef",
+   "name": "etc/level/노랑4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_278b8e69",
+   "name": "etc/level/스타초록4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_8cc8f685",
+   "name": "etc/level/스타검정4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_8fe69b9d",
+   "name": "etc/level/파랑4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_99b53472",
+   "name": "etc/level/스타파랑4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_9a5adaa1",
+   "name": "etc/level/스타무지개4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_a072fe97",
+   "name": "etc/level/무지개4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_cb600112",
+   "name": "etc/level/스타빨강4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_cc13378d",
+   "name": "etc/level/스타노랑4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_d8bc50fd",
+   "name": "etc/level/검정4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_efa6b406",
+   "name": "etc/level/빨강4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__4_f9fa87c3",
+   "name": "etc/level/초록4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_0fc1a0f3",
+   "name": "etc/level/무지개5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_2704d1f0",
+   "name": "etc/level/스타빨강5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_2ed2cb57",
+   "name": "etc/level/빨강5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_6427c55f",
+   "name": "etc/level/스타파랑5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_6f5adef3",
+   "name": "etc/level/파랑5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_8737fcb8",
+   "name": "etc/level/스타검정5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_9bd3af44",
+   "name": "etc/level/스타노랑5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_bf29c61c",
+   "name": "etc/level/스타초록5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_c74b6aac",
+   "name": "etc/level/검정5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_d3cfb2d7",
+   "name": "etc/level/초록5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level__5_ded7e7b2",
+   "name": "etc/level/스타무지개5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__level____6db283f8",
+   "name": "etc/level/하양",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__Noise",
+   "name": "etc/Noise",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__normal",
+   "name": "etc/normal",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__rain",
+   "name": "etc/rain",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__snow",
+   "name": "etc/snow",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__toon",
+   "name": "etc/toon",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__warpedDiffuse",
+   "name": "etc/warpedDiffuse",
+   "sheet": {
+    "h": 2,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "etc__warpedSpecular",
+   "name": "etc/warpedSpecular",
+   "sheet": {
+    "h": 2,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect__01_68803508",
+   "name": "stuff/award/effect/혜성_01",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect__2_6252822a",
+   "name": "stuff/award/effect/오라하단2_파랑",
+   "sheet": {
+    "h": 64,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect____1c0d6cd2",
+   "name": "stuff/award/effect/별알파",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect____2025ca0b",
+   "name": "stuff/award/effect/막대사탕",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect____24a9e332",
+   "name": "stuff/award/effect/쇽웨이브",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect____a49e5c9f",
+   "name": "stuff/award/effect/전광",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect____a70838ec",
+   "name": "stuff/award/effect/사탕",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect____f0b896b2",
+   "name": "stuff/award/effect/세모알파",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__award__effect__wiri_04",
+   "name": "stuff/award/effect/wiri_04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__backPack____6fe2b9d6",
+   "name": "stuff/backPack/악마날개",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__backPack____c8686b83",
+   "name": "stuff/backPack/천사날개",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__00_2156c73d",
+   "name": "stuff/balloon/고대숲테마풍선00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__00_4f8d7187",
+   "name": "stuff/balloon/스카이테마풍선00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__00_eb4c13b0",
+   "name": "stuff/balloon/죽바테마풍선00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__01_07db0ef3",
+   "name": "stuff/balloon/죽바테마풍선01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__01_d2bfb685",
+   "name": "stuff/balloon/고대숲테마풍선01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__01_d2f2f95e",
+   "name": "stuff/balloon/스카이테마풍선01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__2_aebf3703",
+   "name": "stuff/balloon/2인승보상풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____05fa222e",
+   "name": "stuff/balloon/좌절금지",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____11a1b03f",
+   "name": "stuff/balloon/불사조풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____11c47f8d",
+   "name": "stuff/balloon/튜브풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____61577be0",
+   "name": "stuff/balloon/해적대포풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____6e58d71d",
+   "name": "stuff/balloon/단풍잎풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____706570c0",
+   "name": "stuff/balloon/여자풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____791637a0",
+   "name": "stuff/balloon/남자풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____7ef09892",
+   "name": "stuff/balloon/개굴풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____7f8b6f1f",
+   "name": "stuff/balloon/윷놀이풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____c5538c37",
+   "name": "stuff/balloon/홍시",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____d12efc03",
+   "name": "stuff/balloon/운전대풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____dc301910",
+   "name": "stuff/balloon/보름달풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____e47e5bf3",
+   "name": "stuff/balloon/문어",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____f0e61e7b",
+   "name": "stuff/balloon/크루저풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon____f468bdd5",
+   "name": "stuff/balloon/날개풍선",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__balloon__hand",
+   "name": "stuff/balloon/hand",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__cap____0c2de51d",
+   "name": "stuff/cap/천사링",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__cap____3e9e6f79",
+   "name": "stuff/cap/악마뿔",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__decal__w_dizini",
+   "name": "stuff/decal/w_dizini",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__1_68c2d349",
+   "name": "stuff/etc/종료_1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc____2a6b7239",
+   "name": "stuff/etc/눈물보석",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc____5ab8af04",
+   "name": "stuff/etc/좌표",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__blue",
+   "name": "stuff/etc/blue",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__forestDust",
+   "name": "stuff/etc/forestDust",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__green",
+   "name": "stuff/etc/green",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__mark",
+   "name": "stuff/etc/mark",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__Rarrow",
+   "name": "stuff/etc/Rarrow",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__red",
+   "name": "stuff/etc/red",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__sun",
+   "name": "stuff/etc/sun",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__etc__v_question00",
+   "name": "stuff/etc/v_question00",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle__00_2df51118",
+   "name": "stuff/goggle/스쿠터고글00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____155342da",
+   "name": "stuff/goggle/토끼고글",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____4adc7d35",
+   "name": "stuff/goggle/라이방고글",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____6415cac3",
+   "name": "stuff/goggle/물안경",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____8d0bea9e",
+   "name": "stuff/goggle/할리고글",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____9875f8de",
+   "name": "stuff/goggle/용접마스크",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____b9ee24a8",
+   "name": "stuff/goggle/비행고글",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____e23e9da7",
+   "name": "stuff/goggle/날개고글",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__goggle____f45f72f1",
+   "name": "stuff/goggle/탐험가고글",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__handGearL____9f60aca3",
+   "name": "stuff/handGearL/묘목",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__handGearL____c676e8ba",
+   "name": "stuff/handGearL/태극기",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__handGearL__ar",
+   "name": "stuff/handGearL/ar",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__headBand__1_86490e47",
+   "name": "stuff/headBand/햇살밴드1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__headBand____ba9e83c7",
+   "name": "stuff/headBand/번개",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__headPhone__01_57658a75",
+   "name": "stuff/headPhone/헤드셋01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__headPhone____4ae351be",
+   "name": "stuff/headPhone/카메라",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__jewel__01_1119a032",
+   "name": "stuff/jewel/제나01",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__machineGun__mgun_0",
+   "name": "stuff/machineGun/mgun_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__machineGun__mgun_1",
+   "name": "stuff/machineGun/mgun_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__machineGun__pgun_1",
+   "name": "stuff/machineGun/pgun_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__machineGun__sgun_1",
+   "name": "stuff/machineGun/sgun_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__manteau__black",
+   "name": "stuff/manteau/black",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__manteau__blue",
+   "name": "stuff/manteau/blue",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__manteau__green",
+   "name": "stuff/manteau/green",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__manteau__red",
+   "name": "stuff/manteau/red",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__manteau__white",
+   "name": "stuff/manteau/white",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stuff__manteau__yellow",
+   "name": "stuff/manteau/yellow",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "100_etc",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "기타"
+}

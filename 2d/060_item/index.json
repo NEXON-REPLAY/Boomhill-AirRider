@@ -1,0 +1,1520 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "item__angel__00_edb3c818",
+   "name": "item/angel/별00",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__angel__03_f8670b57",
+   "name": "item/angel/별03",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__angel__angel3",
+   "name": "item/angel/angel3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__angel__Feather02",
+   "name": "item/angel/Feather02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__angel__line_exp_G",
+   "name": "item/angel/line_exp_G",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__angel__ro-boom-1-G",
+   "name": "item/angel/ro-boom-1-G",
+   "sheet": {
+    "h": 128,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__bee__ex",
+   "name": "item/bee/ex",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__bee__glove",
+   "name": "item/bee/glove",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__bee__light",
+   "name": "item/bee/light",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__bee__pung",
+   "name": "item/bee/pung",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__booster__00_371391f6",
+   "name": "item/booster/부스터00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__booster__phoenix_fire02",
+   "name": "item/booster/phoenix_fire02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__bullet__tan",
+   "name": "item/bullet/tan",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__blood",
+   "name": "item/chaseGun/blood",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__bullet_hole",
+   "name": "item/chaseGun/bullet_hole",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__bullet_hole1",
+   "name": "item/chaseGun/bullet_hole1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__bullet_hole2",
+   "name": "item/chaseGun/bullet_hole2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__bullet_hole3",
+   "name": "item/chaseGun/bullet_hole3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__bullet_hole4",
+   "name": "item/chaseGun/bullet_hole4",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__disring-fire",
+   "name": "item/chaseGun/disring-fire",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__exp_parti02",
+   "name": "item/chaseGun/exp_parti02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Firering_red",
+   "name": "item/chaseGun/Firering_red",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__glass01",
+   "name": "item/chaseGun/glass01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__glass02",
+   "name": "item/chaseGun/glass02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_001",
+   "name": "item/chaseGun/Raiden_Ex_001",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_002",
+   "name": "item/chaseGun/Raiden_Ex_002",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_003",
+   "name": "item/chaseGun/Raiden_Ex_003",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_004",
+   "name": "item/chaseGun/Raiden_Ex_004",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_005",
+   "name": "item/chaseGun/Raiden_Ex_005",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_006",
+   "name": "item/chaseGun/Raiden_Ex_006",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_007",
+   "name": "item/chaseGun/Raiden_Ex_007",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_008",
+   "name": "item/chaseGun/Raiden_Ex_008",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_009",
+   "name": "item/chaseGun/Raiden_Ex_009",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_010",
+   "name": "item/chaseGun/Raiden_Ex_010",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_011",
+   "name": "item/chaseGun/Raiden_Ex_011",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_012",
+   "name": "item/chaseGun/Raiden_Ex_012",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_013",
+   "name": "item/chaseGun/Raiden_Ex_013",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_014",
+   "name": "item/chaseGun/Raiden_Ex_014",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_015",
+   "name": "item/chaseGun/Raiden_Ex_015",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_016",
+   "name": "item/chaseGun/Raiden_Ex_016",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__Raiden_Ex_017",
+   "name": "item/chaseGun/Raiden_Ex_017",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__SPARKS_PUFF1",
+   "name": "item/chaseGun/SPARKS_PUFF1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__chaseGun__splash",
+   "name": "item/chaseGun/splash",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__cloud__02_b3fcce31",
+   "name": "item/cloud/구름02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__cloud____e4822800",
+   "name": "item/cloud/구름_던지기",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp____4ceb64f6",
+   "name": "item/emp/번개",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp____7e955159",
+   "name": "item/emp/광선빨",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp__red_ring",
+   "name": "item/emp/red_ring",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp__ufo",
+   "name": "item/emp/ufo",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp__ufo2_61637ace",
+   "name": "item/emp/ufo2_빛_원",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp__ufo2____02_7f65d4b3",
+   "name": "item/emp/ufo2_빛_원02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__emp__ufo2_b24dd784",
+   "name": "item/emp/ufo2_빛_반원",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ghost__00_cbbff868",
+   "name": "item/ghost/스텔스00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ghost__03_463e81b0",
+   "name": "item/ghost/빔03",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ghost____f1314a43",
+   "name": "item/ghost/스텔스",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__itemCube__1_23714cb6",
+   "name": "item/itemCube/아이템박스_1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__itemCube____26033ec2",
+   "name": "item/itemCube/아이템박스",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__itemCube__Electrocution_Glare",
+   "name": "item/itemCube/Electrocution_Glare",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__itemCube__star-1",
+   "name": "item/itemCube/star-1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__itemCube__Water_Ball_01",
+   "name": "item/itemCube/Water_Ball_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lock__bs",
+   "name": "item/lock/bs",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lock__key",
+   "name": "item/lock/key",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lock__lock_t",
+   "name": "item/lock/lock_t",
+   "sheet": {
+    "h": 64,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__coin02",
+   "name": "item/lucci/coin02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus0_zz_52bada1c",
+   "name": "item/lucci/plus0@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus10_zz_c3ed1271",
+   "name": "item/lucci/plus10@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus1_zz_ba5cdd8b",
+   "name": "item/lucci/plus1@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus2_zz_38d4b2a4",
+   "name": "item/lucci/plus2@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus3_zz_c37f837d",
+   "name": "item/lucci/plus3@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus4_zz_175fc370",
+   "name": "item/lucci/plus4@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__lucci__plus5_zz_25802c28",
+   "name": "item/lucci/plus5@zz",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__-1_80a12e2a",
+   "name": "item/magnet/자석-1",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__03_dac9407c",
+   "name": "item/magnet/자석03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__06_03_5a8cdd64",
+   "name": "item/magnet/부스터휙06_03",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet____5d3619bc",
+   "name": "item/magnet/뽁뽁이",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__crosshaira",
+   "name": "item/magnet/crosshaira",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__crosshairb",
+   "name": "item/magnet/crosshairb",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__crosshairc",
+   "name": "item/magnet/crosshairc",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__lighting512",
+   "name": "item/magnet/lighting512",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__magnet__spin",
+   "name": "item/magnet/spin",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__glass01",
+   "name": "item/mine/glass01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__glass02",
+   "name": "item/mine/glass02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__light",
+   "name": "item/mine/light",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__mine",
+   "name": "item/mine/mine",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__pung",
+   "name": "item/mine/pung",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__ro-boom-1",
+   "name": "item/mine/ro-boom-1",
+   "sheet": {
+    "h": 128,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__mine__ro-boom-r",
+   "name": "item/mine/ro-boom-r",
+   "sheet": {
+    "h": 128,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__gplus20_zz_e8bb9a92",
+   "name": "item/plus/gplus20@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__gplus30_zz_a85e8897",
+   "name": "item/plus/gplus30@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__gplus50_zz_7da58fd4",
+   "name": "item/plus/gplus50@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__hpplus20_zz_a60bd5f7",
+   "name": "item/plus/hpplus20@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__hpplus30_zz_bea56933",
+   "name": "item/plus/hpplus30@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__hpplus50_zz_c5f880cc",
+   "name": "item/plus/hpplus50@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__lplus1_zz_e4b50771",
+   "name": "item/plus/lplus1@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__tgplus20_zz_d13524fd",
+   "name": "item/plus/tgplus20@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__tgplus30_zz_bed2828a",
+   "name": "item/plus/tgplus30@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__tgplus50_zz_ee933ebc",
+   "name": "item/plus/tgplus50@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__thpplus20_zz_497d6a06",
+   "name": "item/plus/thpplus20@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__thpplus30_zz_d5e2e903",
+   "name": "item/plus/thpplus30@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__thpplus50_zz_27cd696c",
+   "name": "item/plus/thpplus50@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__plus__tlplus1_zz_b9b47aa5",
+   "name": "item/plus/tlplus1@zz",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__prizeEffect__2_c7a6f6e4",
+   "name": "item/prizeEffect/연기조각2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__prizeEffect__o_89f5b71f",
+   "name": "item/prizeEffect/보상_o",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__prizeEffect__pirate_box",
+   "name": "item/prizeEffect/pirate_box",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__prizeEffect__r_d287617d",
+   "name": "item/prizeEffect/보상_r",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__prizeEffect__rb_e6bd5fb6",
+   "name": "item/prizeEffect/보상_rb",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__01_bcf1f4be",
+   "name": "item/rocket/번개_01",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__1",
+   "name": "item/rocket/1",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__2",
+   "name": "item/rocket/2",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__glass01-02",
+   "name": "item/rocket/glass01-02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__glass02-02",
+   "name": "item/rocket/glass02-02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__glass03",
+   "name": "item/rocket/glass03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__glass04",
+   "name": "item/rocket/glass04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__ro-boom-1",
+   "name": "item/rocket/ro-boom-1",
+   "sheet": {
+    "h": 128,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__ro-boom-4",
+   "name": "item/rocket/ro-boom-4",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__rocket-1",
+   "name": "item/rocket/rocket-1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__rocket-1_rage",
+   "name": "item/rocket/rocket-1_rage",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocket__rocket-boom-01",
+   "name": "item/rocket/rocket-boom-01",
+   "sheet": {
+    "h": 32,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__fire-boom00",
+   "name": "item/rocketCruise/fire-boom00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__fire__00_0d045f24",
+   "name": "item/rocketCruise/fire_돔00",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__fire____00_dcb208c2",
+   "name": "item/rocketCruise/fire_돔_파장00",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__fire_Ring",
+   "name": "item/rocketCruise/fire_Ring",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__hammer_hole",
+   "name": "item/rocketCruise/hammer_hole",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__Noise",
+   "name": "item/rocketCruise/Noise",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__Noise1",
+   "name": "item/rocketCruise/Noise1",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__redsheet",
+   "name": "item/rocketCruise/redsheet",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__rocket-eye",
+   "name": "item/rocketCruise/rocket-eye",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__rope128",
+   "name": "item/rocketCruise/rope128",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__sib_2",
+   "name": "item/rocketCruise/sib_2",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__smoke",
+   "name": "item/rocketCruise/smoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__spin",
+   "name": "item/rocketCruise/spin",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__rocketCruise__star",
+   "name": "item/rocketCruise/star",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__shield__02_e9b89b47",
+   "name": "item/shield/별02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__shield____647add3d",
+   "name": "item/shield/실드",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__shield__blue-glow",
+   "name": "item/shield/blue-glow",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__shield__line_exp_G",
+   "name": "item/shield/line_exp_G",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__shield__ro-boom-1-G",
+   "name": "item/shield/ro-boom-1-G",
+   "sheet": {
+    "h": 128,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__trap__mine00",
+   "name": "item/trap/mine00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__Dust_Debris03",
+   "name": "item/twister/Dust_Debris03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__star",
+   "name": "item/twister/star",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__T01",
+   "name": "item/twister/T01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__T02",
+   "name": "item/twister/T02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__T03",
+   "name": "item/twister/T03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__T04",
+   "name": "item/twister/T04",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__twister__w008",
+   "name": "item/twister/w008",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ufo__2_992d859a",
+   "name": "item/ufo/천사2_빔",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ufo____eeef2751",
+   "name": "item/ufo/광선파",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ufo__blue_ring02",
+   "name": "item/ufo/blue_ring02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ufo__swave",
+   "name": "item/ufo/swave",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ufo__ufo2_6a791196",
+   "name": "item/ufo/ufo2_빔",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__ufo__ufo2__1_fd5e1a12",
+   "name": "item/ufo/ufo2_빔1",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterFly__-1_00b0eb08",
+   "name": "item/waterFly/물방울-1",
+   "sheet": {
+    "h": 256,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterFly__-2_f80e4000",
+   "name": "item/waterFly/물방울-2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterFly__01-1_f487ee39",
+   "name": "item/waterFly/물벼락01-1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterFly__01_1e77e943",
+   "name": "item/waterFly/물벼락01",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterFly____6832da32",
+   "name": "item/waterFly/물파리",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterFly__b2",
+   "name": "item/waterFly/b2",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__-2_16fd3847",
+   "name": "item/waterRocket/물방울-2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__01-1_0feaaca1",
+   "name": "item/waterRocket/물벼락01-1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket____3dd76f50",
+   "name": "item/waterRocket/물폭탄바닥잔상",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__env",
+   "name": "item/waterRocket/env",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__rocket-4",
+   "name": "item/waterRocket/rocket-4",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__w-boom",
+   "name": "item/waterRocket/w-boom",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__water_17dd0b89",
+   "name": "item/waterRocket/water_돔",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__water_273121b1",
+   "name": "item/waterRocket/water_돔_파장",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__waterRocket0",
+   "name": "item/waterRocket/waterRocket0",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__waterRocket1",
+   "name": "item/waterRocket/waterRocket1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "item__waterRocket__waterRocket2",
+   "name": "item/waterRocket/waterRocket2",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "060_item",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "아이템"
+}

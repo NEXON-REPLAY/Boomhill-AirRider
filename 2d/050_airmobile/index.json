@@ -1,0 +1,2294 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__0__default_0",
+   "name": "airMobile/baranC1/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__0__default_1",
+   "name": "airMobile/baranC1/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__c1_ch_0",
+   "name": "airMobile/baranC1/1/c1_ch_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__c1_ch_1",
+   "name": "airMobile/baranC1/1/c1_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__c1_ch_2",
+   "name": "airMobile/baranC1/1/c1_ch_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__c1_sh_0",
+   "name": "airMobile/baranC1/1/c1_sh_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__c1_sh_1",
+   "name": "airMobile/baranC1/1/c1_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__default_0",
+   "name": "airMobile/baranC1/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__1__default_1",
+   "name": "airMobile/baranC1/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__2__c1_ce_0",
+   "name": "airMobile/baranC1/2/c1_ce_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__2__c1_ce_1",
+   "name": "airMobile/baranC1/2/c1_ce_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__2__c1_pe_0",
+   "name": "airMobile/baranC1/2/c1_pe_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__2__c1_pe_1",
+   "name": "airMobile/baranC1/2/c1_pe_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__2__default_1",
+   "name": "airMobile/baranC1/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__3__c1_pw_1",
+   "name": "airMobile/baranC1/3/c1_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__3__c1_sw_1",
+   "name": "airMobile/baranC1/3/c1_sw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranC1__3__default_1",
+   "name": "airMobile/baranC1/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranE2__0__default_1",
+   "name": "airMobile/baranE2/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranE2__1__default_1",
+   "name": "airMobile/baranE2/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranE2__1__default_2",
+   "name": "airMobile/baranE2/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranE2__2__default_1",
+   "name": "airMobile/baranE2/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranE2__3__default_1",
+   "name": "airMobile/baranE2/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__baranE2__3__default_2",
+   "name": "airMobile/baranE2/3/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__bat__0__default_1",
+   "name": "airMobile/bat/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__bat__0__default_2",
+   "name": "airMobile/bat/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__bat__1__default_1",
+   "name": "airMobile/bat/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__bat__2__default_1",
+   "name": "airMobile/bat/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__bat__3__default_1",
+   "name": "airMobile/bat/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__0__default_0",
+   "name": "airMobile/boss_01/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__0__default_1",
+   "name": "airMobile/boss_01/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__1__01_cc771f07",
+   "name": "airMobile/boss_01/해적선보스1/해적선_01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__1__02_5bae6120",
+   "name": "airMobile/boss_01/해적선보스1/해적선_02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__1__03_c18845a2",
+   "name": "airMobile/boss_01/해적선보스1/해적선_03",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__1__1_a9f88207",
+   "name": "airMobile/boss_01/해적선보스1/해적선보스1",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__1__default_1",
+   "name": "airMobile/boss_01/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__1__default_2",
+   "name": "airMobile/boss_01/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__2__daoship02_907caabb",
+   "name": "airMobile/boss_01/해적선보스2/daoship02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__2__daoship_a01_1c723b8b",
+   "name": "airMobile/boss_01/해적선보스2/daoship_a01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__2__default_0",
+   "name": "airMobile/boss_01/2/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__2__default_1",
+   "name": "airMobile/boss_01/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__2__ef_cave_boutb_a924ddbc",
+   "name": "airMobile/boss_01/해적선보스2/ef_cave_boutb",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__3__default_0",
+   "name": "airMobile/boss_01/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__3__default_1",
+   "name": "airMobile/boss_01/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__3__ship03_76b1291e",
+   "name": "airMobile/boss_01/해적선보스3/ship03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__3__ship_fed69458",
+   "name": "airMobile/boss_01/해적선보스3/ship",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01_______0251089e",
+   "name": "airMobile/boss_01/고래보스/고래보스",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01_______61feea32",
+   "name": "airMobile/boss_01/상어보스/보스상어",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__UFO__pirate_ufo_2c22902c",
+   "name": "airMobile/boss_01/해적UFO/pirate_ufo_빔",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__UFO__pirate_ufo_2c22902c_f18134",
+   "name": "airMobile/boss_01/해적UFO/pirate_ufo_빔",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__UFO__pirate_ufo_da9f9dfa",
+   "name": "airMobile/boss_01/해적UFO/pirate_ufo",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__UFO__pirate_ufo_Diffusemap_c9248f56",
+   "name": "airMobile/boss_01/해적UFO/pirate_ufo_Diffusemap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__boss_01__UFO__pirate_ufo_Diffusemap_c9248f56_8f85d4",
+   "name": "airMobile/boss_01/해적UFO/pirate_ufo_Diffusemap",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__common__material__kart",
+   "name": "airMobile/common/material/kart",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__common__material__noise",
+   "name": "airMobile/common/material/noise",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__common__material__simple",
+   "name": "airMobile/common/material/simple",
+   "sheet": {
+    "h": 1,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__common__null",
+   "name": "airMobile/common/null",
+   "sheet": {
+    "h": 2,
+    "w": 2
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__common__shadow",
+   "name": "airMobile/common/shadow",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__0__default_1",
+   "name": "airMobile/dolphinC1/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__1__c1_ch_0",
+   "name": "airMobile/dolphinC1/1/c1_ch_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__1__c1_ch_1",
+   "name": "airMobile/dolphinC1/1/c1_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__1__c1_ch_2",
+   "name": "airMobile/dolphinC1/1/c1_ch_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__1__c1_sh_1",
+   "name": "airMobile/dolphinC1/1/c1_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__1__default_0",
+   "name": "airMobile/dolphinC1/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__1__default_1",
+   "name": "airMobile/dolphinC1/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__2__c1_ce_1",
+   "name": "airMobile/dolphinC1/2/c1_ce_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__2__c1_pe_1",
+   "name": "airMobile/dolphinC1/2/c1_pe_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__2__default_1",
+   "name": "airMobile/dolphinC1/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__3__c1_pw_0",
+   "name": "airMobile/dolphinC1/3/c1_pw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__3__c1_pw_1",
+   "name": "airMobile/dolphinC1/3/c1_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__3__c1_sw_0",
+   "name": "airMobile/dolphinC1/3/c1_sw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__3__c1_sw_1",
+   "name": "airMobile/dolphinC1/3/c1_sw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__3__default_0",
+   "name": "airMobile/dolphinC1/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinC1__3__default_1",
+   "name": "airMobile/dolphinC1/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinE2__0__default_1",
+   "name": "airMobile/dolphinE2/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinE2__1__default_1",
+   "name": "airMobile/dolphinE2/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinE2__2__default_1",
+   "name": "airMobile/dolphinE2/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__dolphinE2__3__default_1",
+   "name": "airMobile/dolphinE2/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__0__default_1",
+   "name": "airMobile/ellaC1/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__1__c1_ch_0",
+   "name": "airMobile/ellaC1/1/c1_ch_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__1__c1_ch_1",
+   "name": "airMobile/ellaC1/1/c1_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__1__c1_ch_2",
+   "name": "airMobile/ellaC1/1/c1_ch_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__1__c1_sh_1",
+   "name": "airMobile/ellaC1/1/c1_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__1__default_1",
+   "name": "airMobile/ellaC1/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__2__c1_ce_0",
+   "name": "airMobile/ellaC1/2/c1_ce_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__2__c1_ce_1",
+   "name": "airMobile/ellaC1/2/c1_ce_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__2__c1_pe_0",
+   "name": "airMobile/ellaC1/2/c1_pe_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__2__c1_pe_1",
+   "name": "airMobile/ellaC1/2/c1_pe_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__2__default_1",
+   "name": "airMobile/ellaC1/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__3__c1_pw_1",
+   "name": "airMobile/ellaC1/3/c1_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__3__c1_sw_1",
+   "name": "airMobile/ellaC1/3/c1_sw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaC1__3__default_1",
+   "name": "airMobile/ellaC1/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaE2__0__default_1",
+   "name": "airMobile/ellaE2/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaE2__1__default_1",
+   "name": "airMobile/ellaE2/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaE2__2__default_1",
+   "name": "airMobile/ellaE2/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__ellaE2__3__default_1",
+   "name": "airMobile/ellaE2/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__0__default_0",
+   "name": "airMobile/GreatPan/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__0__default_1",
+   "name": "airMobile/GreatPan/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__1__default_0",
+   "name": "airMobile/GreatPan/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__1__default_1",
+   "name": "airMobile/GreatPan/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__1__default_2",
+   "name": "airMobile/GreatPan/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__2__default_1",
+   "name": "airMobile/GreatPan/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__3__default_0",
+   "name": "airMobile/GreatPan/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__GreatPan__3__default_1",
+   "name": "airMobile/GreatPan/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__0__default_1",
+   "name": "airMobile/leadC1/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__c1_ch_0",
+   "name": "airMobile/leadC1/1/c1_ch_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__c1_ch_1",
+   "name": "airMobile/leadC1/1/c1_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__c1_ch_2",
+   "name": "airMobile/leadC1/1/c1_ch_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__c1_sh_0",
+   "name": "airMobile/leadC1/1/c1_sh_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__c1_sh_1",
+   "name": "airMobile/leadC1/1/c1_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__default_0",
+   "name": "airMobile/leadC1/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__1__default_1",
+   "name": "airMobile/leadC1/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__2__c1_ce_0",
+   "name": "airMobile/leadC1/2/c1_ce_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__2__c1_ce_1",
+   "name": "airMobile/leadC1/2/c1_ce_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__2__c1_pe_0",
+   "name": "airMobile/leadC1/2/c1_pe_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__2__c1_pe_1",
+   "name": "airMobile/leadC1/2/c1_pe_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__2__default_1",
+   "name": "airMobile/leadC1/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__3__c1_pw_0",
+   "name": "airMobile/leadC1/3/c1_pw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__3__c1_pw_1",
+   "name": "airMobile/leadC1/3/c1_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__3__c1_sw_0",
+   "name": "airMobile/leadC1/3/c1_sw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__3__c1_sw_1",
+   "name": "airMobile/leadC1/3/c1_sw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__3__default_0",
+   "name": "airMobile/leadC1/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadC1__3__default_1",
+   "name": "airMobile/leadC1/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__0__default_1",
+   "name": "airMobile/leadE2/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__1__default_1",
+   "name": "airMobile/leadE2/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__1__default_2",
+   "name": "airMobile/leadE2/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__1__e2_fh_0",
+   "name": "airMobile/leadE2/1/e2_fh_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__1__e2_fh_1",
+   "name": "airMobile/leadE2/1/e2_fh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__1__e2_fh_2",
+   "name": "airMobile/leadE2/1/e2_fh_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__2__default_1",
+   "name": "airMobile/leadE2/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__2__e2_se_0",
+   "name": "airMobile/leadE2/2/e2_se_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__2__e2_se_1",
+   "name": "airMobile/leadE2/2/e2_se_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__3__default_1",
+   "name": "airMobile/leadE2/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__3__e2_aw_0",
+   "name": "airMobile/leadE2/3/e2_aw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__leadE2__3__e2_aw_1",
+   "name": "airMobile/leadE2/3/e2_aw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__0__default_0",
+   "name": "airMobile/practice00/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__0__default_1",
+   "name": "airMobile/practice00/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__1__default_0",
+   "name": "airMobile/practice00/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__1__default_1",
+   "name": "airMobile/practice00/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__1__default_2",
+   "name": "airMobile/practice00/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__2__default_0",
+   "name": "airMobile/practice00/2/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__2__default_1",
+   "name": "airMobile/practice00/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__3__default_0",
+   "name": "airMobile/practice00/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__practice00__3__default_1",
+   "name": "airMobile/practice00/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__0__default_0",
+   "name": "airMobile/RedFish/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__0__default_1",
+   "name": "airMobile/RedFish/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__0__default_2",
+   "name": "airMobile/RedFish/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__1__default_1",
+   "name": "airMobile/RedFish/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__2__default_1",
+   "name": "airMobile/RedFish/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__3__default_0",
+   "name": "airMobile/RedFish/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__RedFish__3__default_1",
+   "name": "airMobile/RedFish/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__redPhoenix__0__default_0",
+   "name": "airMobile/redPhoenix/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__redPhoenix__0__default_1",
+   "name": "airMobile/redPhoenix/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__redPhoenix__0__default_2",
+   "name": "airMobile/redPhoenix/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__redPhoenix__1__default_1",
+   "name": "airMobile/redPhoenix/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__redPhoenix__2__default_1",
+   "name": "airMobile/redPhoenix/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__redPhoenix__3__default_1",
+   "name": "airMobile/redPhoenix/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__0__default_1",
+   "name": "airMobile/SkyFlying/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__0__default_2",
+   "name": "airMobile/SkyFlying/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__1__default_0",
+   "name": "airMobile/SkyFlying/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__1__default_1",
+   "name": "airMobile/SkyFlying/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__2__default_1",
+   "name": "airMobile/SkyFlying/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__3__default_0",
+   "name": "airMobile/SkyFlying/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__SkyFlying__3__default_1",
+   "name": "airMobile/SkyFlying/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__0__default_1",
+   "name": "airMobile/sylphC1/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__c1_ch_0",
+   "name": "airMobile/sylphC1/1/c1_ch_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__c1_ch_1",
+   "name": "airMobile/sylphC1/1/c1_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__c1_ch_2",
+   "name": "airMobile/sylphC1/1/c1_ch_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__c1_sh_0",
+   "name": "airMobile/sylphC1/1/c1_sh_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__c1_sh_1",
+   "name": "airMobile/sylphC1/1/c1_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__default_0",
+   "name": "airMobile/sylphC1/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__1__default_1",
+   "name": "airMobile/sylphC1/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__2__c1_ce_0",
+   "name": "airMobile/sylphC1/2/c1_ce_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__2__c1_ce_1",
+   "name": "airMobile/sylphC1/2/c1_ce_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__2__c1_pe_0",
+   "name": "airMobile/sylphC1/2/c1_pe_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__2__c1_pe_1",
+   "name": "airMobile/sylphC1/2/c1_pe_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__2__default_1",
+   "name": "airMobile/sylphC1/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__3__c1_pw_0",
+   "name": "airMobile/sylphC1/3/c1_pw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__3__c1_pw_1",
+   "name": "airMobile/sylphC1/3/c1_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__3__c1_sw_0",
+   "name": "airMobile/sylphC1/3/c1_sw_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__3__c1_sw_1",
+   "name": "airMobile/sylphC1/3/c1_sw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__3__default_0",
+   "name": "airMobile/sylphC1/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphC1__3__default_1",
+   "name": "airMobile/sylphC1/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__0__default_1",
+   "name": "airMobile/sylphE2/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__1__default_1",
+   "name": "airMobile/sylphE2/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__1__default_2",
+   "name": "airMobile/sylphE2/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__1__e2_ch_1",
+   "name": "airMobile/sylphE2/1/e2_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__1__e2_fh_1",
+   "name": "airMobile/sylphE2/1/e2_fh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__1__e2_sh_1",
+   "name": "airMobile/sylphE2/1/e2_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__2__default_1",
+   "name": "airMobile/sylphE2/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__2__e2_pe",
+   "name": "airMobile/sylphE2/2/e2_pe",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__2__e2_se_1",
+   "name": "airMobile/sylphE2/2/e2_se_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__3__default_1",
+   "name": "airMobile/sylphE2/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__3__e2_aw",
+   "name": "airMobile/sylphE2/3/e2_aw",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__3__e2_pw_1",
+   "name": "airMobile/sylphE2/3/e2_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__sylphE2__3__e2_sw",
+   "name": "airMobile/sylphE2/3/e2_sw",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_practice00__0__default_1",
+   "name": "airMobile/twin_practice00/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_practice00__0__default_2",
+   "name": "airMobile/twin_practice00/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_practice00__2__default_1",
+   "name": "airMobile/twin_practice00/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_SkyFlying__0__default_1",
+   "name": "airMobile/twin_SkyFlying/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_SkyFlying__1__default_1",
+   "name": "airMobile/twin_SkyFlying/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_SkyFlying__2__default_0",
+   "name": "airMobile/twin_SkyFlying/2/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_SkyFlying__2__default_1",
+   "name": "airMobile/twin_SkyFlying/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_SkyFlying__3__default_1",
+   "name": "airMobile/twin_SkyFlying/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_special00__0__default_0",
+   "name": "airMobile/twin_special00/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_special00__0__default_1",
+   "name": "airMobile/twin_special00/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_special00__0__default_2",
+   "name": "airMobile/twin_special00/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_special00__1__default_1",
+   "name": "airMobile/twin_special00/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_special00__2__default_1",
+   "name": "airMobile/twin_special00/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__twin_special00__3__default_1",
+   "name": "airMobile/twin_special00/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__0__default_0",
+   "name": "airMobile/whiteJumbo/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__0__default_1",
+   "name": "airMobile/whiteJumbo/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__0__default_2",
+   "name": "airMobile/whiteJumbo/0/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__1__default_1",
+   "name": "airMobile/whiteJumbo/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__2__default_1",
+   "name": "airMobile/whiteJumbo/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__3__default_0",
+   "name": "airMobile/whiteJumbo/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__whiteJumbo__3__default_1",
+   "name": "airMobile/whiteJumbo/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__0__default_0",
+   "name": "airMobile/windbeetle/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__0__default_1",
+   "name": "airMobile/windbeetle/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__1__default_0",
+   "name": "airMobile/windbeetle/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__1__default_1",
+   "name": "airMobile/windbeetle/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__1__default_2",
+   "name": "airMobile/windbeetle/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__2__default_1",
+   "name": "airMobile/windbeetle/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__3__default_0",
+   "name": "airMobile/windbeetle/3/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windbeetle__3__default_1",
+   "name": "airMobile/windbeetle/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windturtle__0__default_0",
+   "name": "airMobile/windturtle/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windturtle__0__default_1",
+   "name": "airMobile/windturtle/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windturtle__1__default_1",
+   "name": "airMobile/windturtle/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windturtle__2__default_1",
+   "name": "airMobile/windturtle/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__windturtle__3__default_1",
+   "name": "airMobile/windturtle/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__0__default_0",
+   "name": "airMobile/zetaC1/0/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__0__default_1",
+   "name": "airMobile/zetaC1/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__c1_ch_0",
+   "name": "airMobile/zetaC1/1/c1_ch_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__c1_ch_1",
+   "name": "airMobile/zetaC1/1/c1_ch_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__c1_ch_2",
+   "name": "airMobile/zetaC1/1/c1_ch_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__c1_sh_0",
+   "name": "airMobile/zetaC1/1/c1_sh_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__c1_sh_1",
+   "name": "airMobile/zetaC1/1/c1_sh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__default_0",
+   "name": "airMobile/zetaC1/1/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__1__default_1",
+   "name": "airMobile/zetaC1/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__2__c1_ce_0",
+   "name": "airMobile/zetaC1/2/c1_ce_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__2__c1_ce_1",
+   "name": "airMobile/zetaC1/2/c1_ce_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__2__c1_pe_0",
+   "name": "airMobile/zetaC1/2/c1_pe_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__2__c1_pe_1",
+   "name": "airMobile/zetaC1/2/c1_pe_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__2__default_1",
+   "name": "airMobile/zetaC1/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__3__c1_pw_1",
+   "name": "airMobile/zetaC1/3/c1_pw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__3__c1_sw_1",
+   "name": "airMobile/zetaC1/3/c1_sw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaC1__3__default_1",
+   "name": "airMobile/zetaC1/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__0__default_1",
+   "name": "airMobile/zetaE2/0/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__1__default_1",
+   "name": "airMobile/zetaE2/1/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__1__default_2",
+   "name": "airMobile/zetaE2/1/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__1__e2_fh_1",
+   "name": "airMobile/zetaE2/1/e2_fh_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__2__default_1",
+   "name": "airMobile/zetaE2/2/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__2__e2_se_1",
+   "name": "airMobile/zetaE2/2/e2_se_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__3__default_1",
+   "name": "airMobile/zetaE2/3/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "airMobile__zetaE2__3__e2_aw_1",
+   "name": "airMobile/zetaE2/3/e2_aw_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "050_airmobile",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "에어모빌 텍스처"
+}

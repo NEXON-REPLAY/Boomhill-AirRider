@@ -1,0 +1,3248 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "dialog__addFriend__dot",
+   "name": "dialog/addFriend/dot",
+   "sheet": {
+    "h": 7,
+    "w": 7
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__attendDialog__lucci",
+   "name": "dialog/attendDialog/lucci",
+   "sheet": {
+    "h": 85,
+    "w": 89
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__attendDialog__rp",
+   "name": "dialog/attendDialog/rp",
+   "sheet": {
+    "h": 85,
+    "w": 89
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__attendDialog__stamp",
+   "name": "dialog/attendDialog/stamp",
+   "sheet": {
+    "h": 70,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__1_44fa1770",
+   "name": "dialog/buyItemAll/모두구입1",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__1_8f1e84d9",
+   "name": "dialog/buyItemAll/지우기1",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__1_e305d113",
+   "name": "dialog/buyItemAll/강퇴_1",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__2_6899b8b9",
+   "name": "dialog/buyItemAll/강퇴_2",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__2_bfb968cf",
+   "name": "dialog/buyItemAll/모두구입2",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__3_362cba8d",
+   "name": "dialog/buyItemAll/강퇴_3",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__4_3ebef15e",
+   "name": "dialog/buyItemAll/강퇴_4",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__down_1",
+   "name": "dialog/buyItemAll/down_1",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__down_2",
+   "name": "dialog/buyItemAll/down_2",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__down_3",
+   "name": "dialog/buyItemAll/down_3",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__dropDownButton",
+   "name": "dialog/buyItemAll/dropDownButton",
+   "sheet": {
+    "h": 32,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__message",
+   "name": "dialog/buyItemAll/message",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__up_1",
+   "name": "dialog/buyItemAll/up_1",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__up_2",
+   "name": "dialog/buyItemAll/up_2",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__buyItemAll__up_3",
+   "name": "dialog/buyItemAll/up_3",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__CardChange__next",
+   "name": "dialog/CardChange/next",
+   "sheet": {
+    "h": 38,
+    "w": 52
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__1_06f0d55d",
+   "name": "dialog/collectionDialog/창닫기1",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__1_1fd267c3",
+   "name": "dialog/collectionDialog/빼기1",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__2_6681e00b",
+   "name": "dialog/collectionDialog/빼기2",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__2_dd2d4e8e",
+   "name": "dialog/collectionDialog/창닫기2",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__3_678d6980",
+   "name": "dialog/collectionDialog/빼기3",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__4_e63d3abf",
+   "name": "dialog/collectionDialog/빼기4",
+   "sheet": {
+    "h": 24,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog____bc25b975",
+   "name": "dialog/collectionDialog/블릿",
+   "sheet": {
+    "h": 9,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__book1",
+   "name": "dialog/collectionDialog/book1",
+   "sheet": {
+    "h": 510,
+    "w": 443
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__book2",
+   "name": "dialog/collectionDialog/book2",
+   "sheet": {
+    "h": 510,
+    "w": 443
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__book3",
+   "name": "dialog/collectionDialog/book3",
+   "sheet": {
+    "h": 183,
+    "w": 443
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__book4",
+   "name": "dialog/collectionDialog/book4",
+   "sheet": {
+    "h": 183,
+    "w": 443
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__button_close_1",
+   "name": "dialog/collectionDialog/button_close_1",
+   "sheet": {
+    "h": 41,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__button_close_2",
+   "name": "dialog/collectionDialog/button_close_2",
+   "sheet": {
+    "h": 41,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__L_09c83b6b",
+   "name": "dialog/collectionDialog/카드틀비활성_L",
+   "sheet": {
+    "h": 375,
+    "w": 293
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__m_cc00c87c",
+   "name": "dialog/collectionDialog/카드틀_m",
+   "sheet": {
+    "h": 151,
+    "w": 118
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__collectionDialog__xbtn1",
+   "name": "dialog/collectionDialog/xbtn1",
+   "sheet": {
+    "h": 14,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__backColor",
+   "name": "dialog/coupleInfoDialog/backColor",
+   "sheet": {
+    "h": 51,
+    "w": 201
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__backFrame",
+   "name": "dialog/coupleInfoDialog/backFrame",
+   "sheet": {
+    "h": 134,
+    "w": 213
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__button1",
+   "name": "dialog/coupleInfoDialog/button1",
+   "sheet": {
+    "h": 35,
+    "w": 92
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__button2",
+   "name": "dialog/coupleInfoDialog/button2",
+   "sheet": {
+    "h": 35,
+    "w": 92
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__button3",
+   "name": "dialog/coupleInfoDialog/button3",
+   "sheet": {
+    "h": 35,
+    "w": 92
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__button4",
+   "name": "dialog/coupleInfoDialog/button4",
+   "sheet": {
+    "h": 35,
+    "w": 92
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__coverPattern",
+   "name": "dialog/coupleInfoDialog/coverPattern",
+   "sheet": {
+    "h": 51,
+    "w": 201
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__coupleInfoDialog__partnerIcon",
+   "name": "dialog/coupleInfoDialog/partnerIcon",
+   "sheet": {
+    "h": 25,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__couponDialog__cominsoon",
+   "name": "dialog/couponDialog/cominsoon",
+   "sheet": {
+    "h": 95,
+    "w": 381
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__couponDialog__del2",
+   "name": "dialog/couponDialog/del2",
+   "sheet": {
+    "h": 14,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__createRoom__create_bg",
+   "name": "dialog/createRoom/create_bg",
+   "sheet": {
+    "h": 327,
+    "w": 344
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__createRoom__mode_over",
+   "name": "dialog/createRoom/mode_over",
+   "sheet": {
+    "h": 42,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_02723188",
+   "name": "dialog/garageDialog/장비창_에어모빌_에어모빌1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_4329b98c",
+   "name": "dialog/garageDialog/장비창_사용중_캐릭터1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_4b441d6f",
+   "name": "dialog/garageDialog/장비창_기타_페인트1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_66cc92d5",
+   "name": "dialog/garageDialog/장비창_에어모빌_장착아이템1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_7994f985",
+   "name": "dialog/garageDialog/장비창_에어모빌_파츠1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_8123b379",
+   "name": "dialog/garageDialog/장비창_캐릭터_엑세서리1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_8de66f82",
+   "name": "dialog/garageDialog/장비창_기타_펫1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_976f7463",
+   "name": "dialog/garageDialog/장비창_사용중_기타1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_a5dee808",
+   "name": "dialog/garageDialog/장비창_캐릭터_의상1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_b23483c3",
+   "name": "dialog/garageDialog/장비창_에어모빌_엑세서리1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_d422acf3",
+   "name": "dialog/garageDialog/쩜선_장비창1",
+   "sheet": {
+    "h": 1,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__1_d8b164f4",
+   "name": "dialog/garageDialog/장비창_사용중_에어모빌1",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_251a626f",
+   "name": "dialog/garageDialog/장비창_캐릭터_엑세서리2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_2b3160a3",
+   "name": "dialog/garageDialog/장비창_캐릭터_의상2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_63b60a17",
+   "name": "dialog/garageDialog/장비창_기타_페인트2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_67363091",
+   "name": "dialog/garageDialog/쩜선_장비창2",
+   "sheet": {
+    "h": 1,
+    "w": 299
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_760b5dcf",
+   "name": "dialog/garageDialog/장비창_기타_펫2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_93dc0e28",
+   "name": "dialog/garageDialog/장비창_사용중_기타2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_9b3a52d2",
+   "name": "dialog/garageDialog/장비창_에어모빌_에어모빌2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_a81b1193",
+   "name": "dialog/garageDialog/장비창_에어모빌_엑세서리2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_adc8fe7e",
+   "name": "dialog/garageDialog/장비창_사용중_캐릭터2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_cb3ad1f9",
+   "name": "dialog/garageDialog/장비창_에어모빌_파츠2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_cf5b4f44",
+   "name": "dialog/garageDialog/장비창_에어모빌_장착아이템2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__2_e676a064",
+   "name": "dialog/garageDialog/장비창_사용중_에어모빌2",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog____012f82e7",
+   "name": "dialog/garageDialog/무제한슬롯",
+   "sheet": {
+    "h": 97,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__cardClicked",
+   "name": "dialog/garageDialog/cardClicked",
+   "sheet": {
+    "h": 97,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__garage_bg",
+   "name": "dialog/garageDialog/garage_bg",
+   "sheet": {
+    "h": 505,
+    "w": 385
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__icon_13440661",
+   "name": "dialog/garageDialog/icon_장비창_사용중",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__icon_137ade5d",
+   "name": "dialog/garageDialog/icon_캐릭터",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__icon_16848cb6",
+   "name": "dialog/garageDialog/icon_에어모빌",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__icon_71a13ead",
+   "name": "dialog/garageDialog/icon_기타",
+   "sheet": {
+    "h": 50,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__icon_9ce43f55",
+   "name": "dialog/garageDialog/icon_구분라인",
+   "sheet": {
+    "h": 2,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__tab_panel1",
+   "name": "dialog/garageDialog/tab_panel1",
+   "sheet": {
+    "h": 359,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__tab_panel2",
+   "name": "dialog/garageDialog/tab_panel2",
+   "sheet": {
+    "h": 359,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__tab_panel3",
+   "name": "dialog/garageDialog/tab_panel3",
+   "sheet": {
+    "h": 359,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__garageDialog__tab_panel4",
+   "name": "dialog/garageDialog/tab_panel4",
+   "sheet": {
+    "h": 359,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__itemExpired__1_12125d29",
+   "name": "dialog/itemExpired/정보창이미지박스1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__100__1_453039d2",
+   "name": "dialog/lobbyDialog/미션100_방만들기1",
+   "sheet": {
+    "h": 76,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__100__1_e4530009",
+   "name": "dialog/lobbyDialog/미션100_바로시작하기1",
+   "sheet": {
+    "h": 76,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__100__2_18a09764",
+   "name": "dialog/lobbyDialog/미션100_바로시작하기2",
+   "sheet": {
+    "h": 76,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__100__2_e3a956bf",
+   "name": "dialog/lobbyDialog/미션100_방만들기2",
+   "sheet": {
+    "h": 76,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__100__3_1d708a15",
+   "name": "dialog/lobbyDialog/미션100_바로시작하기3",
+   "sheet": {
+    "h": 76,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__100__3_a030bef7",
+   "name": "dialog/lobbyDialog/미션100_방만들기3",
+   "sheet": {
+    "h": 76,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1_0bae48f2",
+   "name": "dialog/lobbyDialog/1인승전용아이콘",
+   "sheet": {
+    "h": 14,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1_1_ef2f9ad2",
+   "name": "dialog/lobbyDialog/1인승전용아이콘1",
+   "sheet": {
+    "h": 14,
+    "w": 14
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1disable_01981111",
+   "name": "dialog/lobbyDialog/빨강1disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1disable_567911f7",
+   "name": "dialog/lobbyDialog/무지개1disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1disable_ca3becfd",
+   "name": "dialog/lobbyDialog/초록1disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1disable_f0c9ea1d",
+   "name": "dialog/lobbyDialog/검정1disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1disable_f10083c1",
+   "name": "dialog/lobbyDialog/노랑1disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__1disable_fdad019b",
+   "name": "dialog/lobbyDialog/파랑1disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__4disable_13ba89f2",
+   "name": "dialog/lobbyDialog/노랑4disable",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog____07b2ec80",
+   "name": "dialog/lobbyDialog/룸리스트",
+   "sheet": {
+    "h": 200,
+    "w": 400
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__blue1",
+   "name": "dialog/lobbyDialog/blue1",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__blue2",
+   "name": "dialog/lobbyDialog/blue2",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__blue3",
+   "name": "dialog/lobbyDialog/blue3",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__blue4",
+   "name": "dialog/lobbyDialog/blue4",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__createRoom1_kr_8251a448",
+   "name": "dialog/lobbyDialog/createRoom1@kr",
+   "sheet": {
+    "h": 76,
+    "w": 101
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__createRoom2_kr_b3ec3544",
+   "name": "dialog/lobbyDialog/createRoom2@kr",
+   "sheet": {
+    "h": 76,
+    "w": 101
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__createRoom3_kr_29b6d25e",
+   "name": "dialog/lobbyDialog/createRoom3@kr",
+   "sheet": {
+    "h": 76,
+    "w": 101
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__orange1",
+   "name": "dialog/lobbyDialog/orange1",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__orange2",
+   "name": "dialog/lobbyDialog/orange2",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__orange3",
+   "name": "dialog/lobbyDialog/orange3",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__red1",
+   "name": "dialog/lobbyDialog/red1",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__red2",
+   "name": "dialog/lobbyDialog/red2",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__lobbyDialog__red3",
+   "name": "dialog/lobbyDialog/red3",
+   "sheet": {
+    "h": 47,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__1_0f50234b",
+   "name": "dialog/messengerDialog/위화살표1",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__1_4976947f",
+   "name": "dialog/messengerDialog/길드_참여하기버튼1",
+   "sheet": {
+    "h": 26,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__1_f732c6b8",
+   "name": "dialog/messengerDialog/아래화살표1",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__2_2064fcd8",
+   "name": "dialog/messengerDialog/길드_참여하기버튼2",
+   "sheet": {
+    "h": 26,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__2_e7e072ec",
+   "name": "dialog/messengerDialog/아래화살표2",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__2_ebd79106",
+   "name": "dialog/messengerDialog/위화살표2",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__3_990b81b6",
+   "name": "dialog/messengerDialog/아래화살표3",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__3_ce2da309",
+   "name": "dialog/messengerDialog/위화살표3",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__3_d42ac267",
+   "name": "dialog/messengerDialog/길드_참여하기버튼3",
+   "sheet": {
+    "h": 26,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__4_17a95118",
+   "name": "dialog/messengerDialog/위화살표4",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__4_779c0a97",
+   "name": "dialog/messengerDialog/아래화살표4",
+   "sheet": {
+    "h": 23,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__5_d6220fbb",
+   "name": "dialog/messengerDialog/노랑5",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog____de13779d",
+   "name": "dialog/messengerDialog/에어친구추가아이콘",
+   "sheet": {
+    "h": 21,
+    "w": 21
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__addFriend",
+   "name": "dialog/messengerDialog/addFriend",
+   "sheet": {
+    "h": 16,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__messengerDialog__addGroup",
+   "name": "dialog/messengerDialog/addGroup",
+   "sheet": {
+    "h": 16,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt0_1",
+   "name": "dialog/msrChatDialog/chatButt0_1",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt0_2",
+   "name": "dialog/msrChatDialog/chatButt0_2",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt0_3",
+   "name": "dialog/msrChatDialog/chatButt0_3",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt1_2",
+   "name": "dialog/msrChatDialog/chatButt1_2",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt1_3",
+   "name": "dialog/msrChatDialog/chatButt1_3",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt2_2",
+   "name": "dialog/msrChatDialog/chatButt2_2",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__msrChatDialog__chatButt2_3",
+   "name": "dialog/msrChatDialog/chatButt2_3",
+   "sheet": {
+    "h": 40,
+    "w": 85
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__0_2ea2c044",
+   "name": "dialog/optionDialog/키보드0",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__1_aa6da486",
+   "name": "dialog/optionDialog/키보드1",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__2_ef3096c0",
+   "name": "dialog/optionDialog/키보드2",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__3_d58fc77d",
+   "name": "dialog/optionDialog/키보드3",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__4_f0756bdd",
+   "name": "dialog/optionDialog/키보드4",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__5_f2fcd581",
+   "name": "dialog/optionDialog/키보드5",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__6_5b8fe410",
+   "name": "dialog/optionDialog/키보드6",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__7_f6bd6912",
+   "name": "dialog/optionDialog/키보드7",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__8_02c3e61d",
+   "name": "dialog/optionDialog/키보드8",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__9_7bd9a6a0",
+   "name": "dialog/optionDialog/키보드9",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____0c7f330d",
+   "name": "dialog/optionDialog/오른손키",
+   "sheet": {
+    "h": 144,
+    "w": 361
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____0ef7de5e",
+   "name": "dialog/optionDialog/왼손키",
+   "sheet": {
+    "h": 144,
+    "w": 361
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____208a91d2",
+   "name": "dialog/optionDialog/그래픽셈플",
+   "sheet": {
+    "h": 140,
+    "w": 140
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____5a34e337",
+   "name": "dialog/optionDialog/점선",
+   "sheet": {
+    "h": 7,
+    "w": 361
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____64a7d516",
+   "name": "dialog/optionDialog/사운드그래프",
+   "sheet": {
+    "h": 9,
+    "w": 181
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____835b4866",
+   "name": "dialog/optionDialog/밝기그래프",
+   "sheet": {
+    "h": 9,
+    "w": 203
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____a90001fb",
+   "name": "dialog/optionDialog/라디오버튼",
+   "sheet": {
+    "h": 12,
+    "w": 12
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog____f6d24c17",
+   "name": "dialog/optionDialog/밝기그래프_비활성",
+   "sheet": {
+    "h": 9,
+    "w": 203
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__optionDialog__option_bg",
+   "name": "dialog/optionDialog/option_bg",
+   "sheet": {
+    "h": 262,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__partyDialog__chiefMark",
+   "name": "dialog/partyDialog/chiefMark",
+   "sheet": {
+    "h": 18,
+    "w": 19
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__partyDialog__memberWindow",
+   "name": "dialog/partyDialog/memberWindow",
+   "sheet": {
+    "h": 41,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__partyDialog__myWindow",
+   "name": "dialog/partyDialog/myWindow",
+   "sheet": {
+    "h": 41,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__partyDialog__myWindowGrow",
+   "name": "dialog/partyDialog/myWindowGrow",
+   "sheet": {
+    "h": 41,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__partyDialog__myWindowReflection",
+   "name": "dialog/partyDialog/myWindowReflection",
+   "sheet": {
+    "h": 41,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__140",
+   "name": "dialog/questInfoDialog/140",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__170",
+   "name": "dialog/questInfoDialog/170",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__171",
+   "name": "dialog/questInfoDialog/171",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__190",
+   "name": "dialog/questInfoDialog/190",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__227",
+   "name": "dialog/questInfoDialog/227",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__230",
+   "name": "dialog/questInfoDialog/230",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__231",
+   "name": "dialog/questInfoDialog/231",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__232",
+   "name": "dialog/questInfoDialog/232",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__234",
+   "name": "dialog/questInfoDialog/234",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__242",
+   "name": "dialog/questInfoDialog/242",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__243",
+   "name": "dialog/questInfoDialog/243",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__249",
+   "name": "dialog/questInfoDialog/249",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__250",
+   "name": "dialog/questInfoDialog/250",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__251",
+   "name": "dialog/questInfoDialog/251",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__252",
+   "name": "dialog/questInfoDialog/252",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__269",
+   "name": "dialog/questInfoDialog/269",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__dot",
+   "name": "dialog/questInfoDialog/dot",
+   "sheet": {
+    "h": 9,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__progress_1",
+   "name": "dialog/questInfoDialog/progress_1",
+   "sheet": {
+    "h": 41,
+    "w": 235
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__progress_2",
+   "name": "dialog/questInfoDialog/progress_2",
+   "sheet": {
+    "h": 41,
+    "w": 235
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__progress_3",
+   "name": "dialog/questInfoDialog/progress_3",
+   "sheet": {
+    "h": 41,
+    "w": 235
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__progress_4",
+   "name": "dialog/questInfoDialog/progress_4",
+   "sheet": {
+    "h": 41,
+    "w": 235
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__random_5",
+   "name": "dialog/questInfoDialog/random_5",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__questInfoDialog__reward",
+   "name": "dialog/questInfoDialog/reward",
+   "sheet": {
+    "h": 59,
+    "w": 45
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__119",
+   "name": "dialog/rewardDialog/119",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__125",
+   "name": "dialog/rewardDialog/125",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__138",
+   "name": "dialog/rewardDialog/138",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__140",
+   "name": "dialog/rewardDialog/140",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__171",
+   "name": "dialog/rewardDialog/171",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__172",
+   "name": "dialog/rewardDialog/172",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__175",
+   "name": "dialog/rewardDialog/175",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__179",
+   "name": "dialog/rewardDialog/179",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__181",
+   "name": "dialog/rewardDialog/181",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__184",
+   "name": "dialog/rewardDialog/184",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__185",
+   "name": "dialog/rewardDialog/185",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__186",
+   "name": "dialog/rewardDialog/186",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__188",
+   "name": "dialog/rewardDialog/188",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__19",
+   "name": "dialog/rewardDialog/19",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__190",
+   "name": "dialog/rewardDialog/190",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__194",
+   "name": "dialog/rewardDialog/194",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__195",
+   "name": "dialog/rewardDialog/195",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__197",
+   "name": "dialog/rewardDialog/197",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__200",
+   "name": "dialog/rewardDialog/200",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__202",
+   "name": "dialog/rewardDialog/202",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__211",
+   "name": "dialog/rewardDialog/211",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__213",
+   "name": "dialog/rewardDialog/213",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__227",
+   "name": "dialog/rewardDialog/227",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__230",
+   "name": "dialog/rewardDialog/230",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__231",
+   "name": "dialog/rewardDialog/231",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__232",
+   "name": "dialog/rewardDialog/232",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__242",
+   "name": "dialog/rewardDialog/242",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__243",
+   "name": "dialog/rewardDialog/243",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__245",
+   "name": "dialog/rewardDialog/245",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__249",
+   "name": "dialog/rewardDialog/249",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__25",
+   "name": "dialog/rewardDialog/25",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__250",
+   "name": "dialog/rewardDialog/250",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__251",
+   "name": "dialog/rewardDialog/251",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__263",
+   "name": "dialog/rewardDialog/263",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__264",
+   "name": "dialog/rewardDialog/264",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__266",
+   "name": "dialog/rewardDialog/266",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__269",
+   "name": "dialog/rewardDialog/269",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__28",
+   "name": "dialog/rewardDialog/28",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__31",
+   "name": "dialog/rewardDialog/31",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__34",
+   "name": "dialog/rewardDialog/34",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__37",
+   "name": "dialog/rewardDialog/37",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__40",
+   "name": "dialog/rewardDialog/40",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__41",
+   "name": "dialog/rewardDialog/41",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__42",
+   "name": "dialog/rewardDialog/42",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__44",
+   "name": "dialog/rewardDialog/44",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__46",
+   "name": "dialog/rewardDialog/46",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__57",
+   "name": "dialog/rewardDialog/57",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__60",
+   "name": "dialog/rewardDialog/60",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__66",
+   "name": "dialog/rewardDialog/66",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__78",
+   "name": "dialog/rewardDialog/78",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__backlight_zz_181d93e4",
+   "name": "dialog/rewardDialog/backlight@zz",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__blue_l_zz_5b033722",
+   "name": "dialog/rewardDialog/blue_l@zz",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__chip_l_zz_22bad681",
+   "name": "dialog/rewardDialog/chip_l@zz",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__coin01",
+   "name": "dialog/rewardDialog/coin01",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__comment",
+   "name": "dialog/rewardDialog/comment",
+   "sheet": {
+    "h": 12,
+    "w": 244
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__dr_rBack",
+   "name": "dialog/rewardDialog/dr_rBack",
+   "sheet": {
+    "h": 89,
+    "w": 280
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rewardDialog__rp_mchips_zz_2c47c808",
+   "name": "dialog/rewardDialog/rp_mchips@zz",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__19",
+   "name": "dialog/riderSchoolDialog/19",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_0c369849",
+   "name": "dialog/riderSchoolDialog/개인전부스터1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_0c58f957",
+   "name": "dialog/riderSchoolDialog/기본조작1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_20fb94d3",
+   "name": "dialog/riderSchoolDialog/물산탄1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_25dfcab9",
+   "name": "dialog/riderSchoolDialog/회피1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_34882410",
+   "name": "dialog/riderSchoolDialog/체이싱회피1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_3d67c7ca",
+   "name": "dialog/riderSchoolDialog/팀전부스터1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_3ddafda2",
+   "name": "dialog/riderSchoolDialog/체이싱기본1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_50092fce",
+   "name": "dialog/riderSchoolDialog/미사일과회피1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_58aaefb7",
+   "name": "dialog/riderSchoolDialog/글러브1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_58fc8ca8",
+   "name": "dialog/riderSchoolDialog/부스터획득1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_5f50198a",
+   "name": "dialog/riderSchoolDialog/슬립스트림1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_7e60d9d2",
+   "name": "dialog/riderSchoolDialog/아이템전대결1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_a0451720",
+   "name": "dialog/riderSchoolDialog/분노모드1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__1_a2b4ed89",
+   "name": "dialog/riderSchoolDialog/에어드리프트1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__25",
+   "name": "dialog/riderSchoolDialog/25",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__28",
+   "name": "dialog/riderSchoolDialog/28",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__2_1_89e4cb8a",
+   "name": "dialog/riderSchoolDialog/2인승슈터1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__2_1_a3d31df8",
+   "name": "dialog/riderSchoolDialog/2인승드라이버1",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__2_6b0f957f",
+   "name": "dialog/riderSchoolDialog/2인승슈터",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__2_8c8e598a",
+   "name": "dialog/riderSchoolDialog/2인승드라이버",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__31",
+   "name": "dialog/riderSchoolDialog/31",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__34",
+   "name": "dialog/riderSchoolDialog/34",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__37",
+   "name": "dialog/riderSchoolDialog/37",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__80",
+   "name": "dialog/riderSchoolDialog/80",
+   "sheet": {
+    "h": 92,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____088169d4",
+   "name": "dialog/riderSchoolDialog/체이싱회피",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____0bd3601a",
+   "name": "dialog/riderSchoolDialog/물산탄",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____3677f2b7",
+   "name": "dialog/riderSchoolDialog/개인전부스터",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____3c305156",
+   "name": "dialog/riderSchoolDialog/미사일과회피",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____4dd7bb79",
+   "name": "dialog/riderSchoolDialog/팀전부스터",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____4de61426",
+   "name": "dialog/riderSchoolDialog/에어드리프트",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____541d3416",
+   "name": "dialog/riderSchoolDialog/슬립스트림",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____5ec7e47c",
+   "name": "dialog/riderSchoolDialog/은",
+   "sheet": {
+    "h": 26,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____85bad835",
+   "name": "dialog/riderSchoolDialog/금",
+   "sheet": {
+    "h": 26,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____8f447ef1",
+   "name": "dialog/riderSchoolDialog/동",
+   "sheet": {
+    "h": 26,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____b5ca8953",
+   "name": "dialog/riderSchoolDialog/아이템전대결",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____b9ba6b84",
+   "name": "dialog/riderSchoolDialog/부스터획득",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____bb5e2135",
+   "name": "dialog/riderSchoolDialog/회피",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____c4a11305",
+   "name": "dialog/riderSchoolDialog/기본조작",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____cbd6d348",
+   "name": "dialog/riderSchoolDialog/분노모드",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____ebf066ac",
+   "name": "dialog/riderSchoolDialog/번호",
+   "sheet": {
+    "h": 46,
+    "w": 430
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____efe79a2e",
+   "name": "dialog/riderSchoolDialog/%",
+   "sheet": {
+    "h": 20,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____fccb999b",
+   "name": "dialog/riderSchoolDialog/글러브",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog____fea1dc0a",
+   "name": "dialog/riderSchoolDialog/체이싱기본",
+   "sheet": {
+    "h": 55,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__basic",
+   "name": "dialog/riderSchoolDialog/basic",
+   "sheet": {
+    "h": 6,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__chasing",
+   "name": "dialog/riderSchoolDialog/chasing",
+   "sheet": {
+    "h": 6,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__emptyDot",
+   "name": "dialog/riderSchoolDialog/emptyDot",
+   "sheet": {
+    "h": 16,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__item",
+   "name": "dialog/riderSchoolDialog/item",
+   "sheet": {
+    "h": 6,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__speed",
+   "name": "dialog/riderSchoolDialog/speed",
+   "sheet": {
+    "h": 6,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__wing1",
+   "name": "dialog/riderSchoolDialog/wing1",
+   "sheet": {
+    "h": 13,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__riderSchoolDialog__wing2",
+   "name": "dialog/riderSchoolDialog/wing2",
+   "sheet": {
+    "h": 13,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__rowSetTable__buyIcon",
+   "name": "dialog/rowSetTable/buyIcon",
+   "sheet": {
+    "h": 24,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx____b368b2dc",
+   "name": "dialog/selectTrackEx/북마크표시",
+   "sheet": {
+    "h": 14,
+    "w": 65
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx____d02cf369",
+   "name": "dialog/selectTrackEx/대기실_트랙카드이미지큰것",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__cardClicked",
+   "name": "dialog/selectTrackEx/cardClicked",
+   "sheet": {
+    "h": 97,
+    "w": 177
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomAll",
+   "name": "dialog/selectTrackEx/randomAll",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomAll1",
+   "name": "dialog/selectTrackEx/randomAll1",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomBookmark",
+   "name": "dialog/selectTrackEx/randomBookmark",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomBookmark1",
+   "name": "dialog/selectTrackEx/randomBookmark1",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomHot",
+   "name": "dialog/selectTrackEx/randomHot",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomHot1",
+   "name": "dialog/selectTrackEx/randomHot1",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomNew",
+   "name": "dialog/selectTrackEx/randomNew",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomNew1",
+   "name": "dialog/selectTrackEx/randomNew1",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomSpeed",
+   "name": "dialog/selectTrackEx/randomSpeed",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__randomSpeed1",
+   "name": "dialog/selectTrackEx/randomSpeed1",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__thumb",
+   "name": "dialog/selectTrackEx/thumb",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__selectTrackEx__track_bg",
+   "name": "dialog/selectTrackEx/track_bg",
+   "sheet": {
+    "h": 509,
+    "w": 388
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__squareList____042b04e6",
+   "name": "dialog/squareList/원활",
+   "sheet": {
+    "h": 13,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__squareList____51477428",
+   "name": "dialog/squareList/보통",
+   "sheet": {
+    "h": 13,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__squareList____62ad63a2",
+   "name": "dialog/squareList/빈",
+   "sheet": {
+    "h": 13,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__squareList____a1f8d042",
+   "name": "dialog/squareList/혼잡",
+   "sheet": {
+    "h": 13,
+    "w": 24
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__teamSelect____3ec7bfe5",
+   "name": "dialog/teamSelect/엘로우",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__teamSelect____4128b037",
+   "name": "dialog/teamSelect/그린",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__teamSelect____abec1c40",
+   "name": "dialog/teamSelect/레드",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__teamSelect____cc20787e",
+   "name": "dialog/teamSelect/블루",
+   "sheet": {
+    "h": 71,
+    "w": 169
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__teamSelect__team_bg",
+   "name": "dialog/teamSelect/team_bg",
+   "sheet": {
+    "h": 302,
+    "w": 385
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog____3217f775",
+   "name": "dialog/timeAttackDialog/사용중",
+   "sheet": {
+    "h": 14,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog__challenge_button",
+   "name": "dialog/timeAttackDialog/challenge_button",
+   "sheet": {
+    "h": 43,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog__comingsoon",
+   "name": "dialog/timeAttackDialog/comingsoon",
+   "sheet": {
+    "h": 168,
+    "w": 232
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog__mybest_txt",
+   "name": "dialog/timeAttackDialog/mybest_txt",
+   "sheet": {
+    "h": 10,
+    "w": 48
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog__timeAttack_txt",
+   "name": "dialog/timeAttackDialog/timeAttack_txt",
+   "sheet": {
+    "h": 14,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog__white_point",
+   "name": "dialog/timeAttackDialog/white_point",
+   "sheet": {
+    "h": 9,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackDialog__worldbest_txt",
+   "name": "dialog/timeAttackDialog/worldbest_txt",
+   "sheet": {
+    "h": 10,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__1_0f664adc",
+   "name": "dialog/timeAttackResultDialog/다시시도_1",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__1_80ba665f",
+   "name": "dialog/timeAttackResultDialog/메인메뉴_1",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__2_7a7e7195",
+   "name": "dialog/timeAttackResultDialog/메인메뉴_2",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__2_9a672834",
+   "name": "dialog/timeAttackResultDialog/다시시도_2",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__3_1bb180a7",
+   "name": "dialog/timeAttackResultDialog/메인메뉴_3",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__3_c8769152",
+   "name": "dialog/timeAttackResultDialog/다시시도_3",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__4_754508e5",
+   "name": "dialog/timeAttackResultDialog/메인메뉴_4",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__timeAttackResultDialog__4_c397dd3b",
+   "name": "dialog/timeAttackResultDialog/다시시도_4",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__1_b05dc533",
+   "name": "dialog/userInfo/새로고침아이콘1",
+   "sheet": {
+    "h": 20,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__2_a1e9e87f",
+   "name": "dialog/userInfo/새로고침아이콘2",
+   "sheet": {
+    "h": 20,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__3_62b4e0cf",
+   "name": "dialog/userInfo/새로고침아이콘3",
+   "sheet": {
+    "h": 20,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__arrowIcon",
+   "name": "dialog/userInfo/arrowIcon",
+   "sheet": {
+    "h": 8,
+    "w": 6
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__big_dot",
+   "name": "dialog/userInfo/big_dot",
+   "sheet": {
+    "h": 9,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__btn1",
+   "name": "dialog/userInfo/btn1",
+   "sheet": {
+    "h": 34,
+    "w": 137
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__btn2",
+   "name": "dialog/userInfo/btn2",
+   "sheet": {
+    "h": 34,
+    "w": 137
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__card_bg",
+   "name": "dialog/userInfo/card_bg",
+   "sheet": {
+    "h": 62,
+    "w": 278
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__cardComment",
+   "name": "dialog/userInfo/cardComment",
+   "sheet": {
+    "h": 23,
+    "w": 142
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__cardInfo_1",
+   "name": "dialog/userInfo/cardInfo_1",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__cardInfo_2",
+   "name": "dialog/userInfo/cardInfo_2",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__cardInfo_4",
+   "name": "dialog/userInfo/cardInfo_4",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__comment",
+   "name": "dialog/userInfo/comment",
+   "sheet": {
+    "h": 10,
+    "w": 221
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__emptyCard",
+   "name": "dialog/userInfo/emptyCard",
+   "sheet": {
+    "h": 153,
+    "w": 120
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__equipInfo_1",
+   "name": "dialog/userInfo/equipInfo_1",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__equipInfo_2",
+   "name": "dialog/userInfo/equipInfo_2",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__equipInfo_4",
+   "name": "dialog/userInfo/equipInfo_4",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__ggim1",
+   "name": "dialog/userInfo/ggim1",
+   "sheet": {
+    "h": 17,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__ggim2",
+   "name": "dialog/userInfo/ggim2",
+   "sheet": {
+    "h": 17,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__ggim3",
+   "name": "dialog/userInfo/ggim3",
+   "sheet": {
+    "h": 17,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__ggimComment",
+   "name": "dialog/userInfo/ggimComment",
+   "sheet": {
+    "h": 13,
+    "w": 243
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__preview_bg",
+   "name": "dialog/userInfo/preview_bg",
+   "sheet": {
+    "h": 236,
+    "w": 274
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__riderInfo_1",
+   "name": "dialog/userInfo/riderInfo_1",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__riderInfo_3",
+   "name": "dialog/userInfo/riderInfo_3",
+   "sheet": {
+    "h": 88,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__small_dot",
+   "name": "dialog/userInfo/small_dot",
+   "sheet": {
+    "h": 6,
+    "w": 6
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__tab_panel1",
+   "name": "dialog/userInfo/tab_panel1",
+   "sheet": {
+    "h": 407,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__tab_panel2",
+   "name": "dialog/userInfo/tab_panel2",
+   "sheet": {
+    "h": 407,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__tab_panel3",
+   "name": "dialog/userInfo/tab_panel3",
+   "sheet": {
+    "h": 407,
+    "w": 77
+   }
+  },
+  {
+   "frames": 1,
+   "id": "dialog__userInfo__userInfo_bg",
+   "name": "dialog/userInfo/userInfo_bg",
+   "sheet": {
+    "h": 407,
+    "w": 474
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "030_dialog",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "대화 상자"
+}

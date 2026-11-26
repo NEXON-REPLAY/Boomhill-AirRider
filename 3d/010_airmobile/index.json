@@ -1,0 +1,303 @@
+{
+ "category": "3d_airmobile",
+ "game": "airrider",
+ "items": [
+  {
+   "bytes": 117144,
+   "file": "010_airmobile/baranC1.glb",
+   "id": "baranC1",
+   "label": "바란 C1",
+   "name": "baranC1",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/baranC1.webp"
+  },
+  {
+   "bytes": 149236,
+   "file": "010_airmobile/baranE2.glb",
+   "id": "baranE2",
+   "label": "바란 E2",
+   "name": "baranE2",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/baranE2.webp"
+  },
+  {
+   "bytes": 93368,
+   "file": "010_airmobile/bat.glb",
+   "id": "bat",
+   "label": "뱀파이어",
+   "name": "bat",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/bat.webp"
+  },
+  {
+   "bytes": 152212,
+   "file": "010_airmobile/boss_01.glb",
+   "id": "boss_01",
+   "label": "미션 100 보스",
+   "name": "boss_01",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/boss_01.webp"
+  },
+  {
+   "bytes": 116604,
+   "file": "010_airmobile/dolphinC1.glb",
+   "id": "dolphinC1",
+   "label": "돌핀 C1",
+   "name": "dolphinC1",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/dolphinC1.webp"
+  },
+  {
+   "bytes": 123408,
+   "file": "010_airmobile/dolphinE2.glb",
+   "id": "dolphinE2",
+   "label": "돌핀 E2",
+   "name": "dolphinE2",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/dolphinE2.webp"
+  },
+  {
+   "bytes": 151052,
+   "file": "010_airmobile/ellaC1.glb",
+   "id": "ellaC1",
+   "label": "엘라 C1",
+   "name": "ellaC1",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/ellaC1.webp"
+  },
+  {
+   "bytes": 165916,
+   "file": "010_airmobile/ellaE2.glb",
+   "id": "ellaE2",
+   "label": "엘라 E2",
+   "name": "ellaE2",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/ellaE2.webp"
+  },
+  {
+   "bytes": 96488,
+   "file": "010_airmobile/GreatPan.glb",
+   "id": "GreatPan",
+   "name": "GreatPan",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/GreatPan.webp"
+  },
+  {
+   "bytes": 139636,
+   "file": "010_airmobile/leadC1.glb",
+   "id": "leadC1",
+   "label": "리드 C1",
+   "name": "leadC1",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/leadC1.webp"
+  },
+  {
+   "bytes": 151520,
+   "file": "010_airmobile/leadE2.glb",
+   "id": "leadE2",
+   "label": "리드 E2",
+   "name": "leadE2",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/leadE2.webp"
+  },
+  {
+   "bytes": 152212,
+   "file": "010_airmobile/pirate_01.glb",
+   "id": "pirate_01",
+   "label": "다크 우드",
+   "name": "pirate_01",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/pirate_01.webp"
+  },
+  {
+   "bytes": 118268,
+   "file": "010_airmobile/practice00.glb",
+   "id": "practice00",
+   "label": "세이버",
+   "name": "practice00",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/practice00.webp"
+  },
+  {
+   "bytes": 86676,
+   "file": "010_airmobile/RedFish.glb",
+   "id": "RedFish",
+   "label": "레드 피쉬",
+   "name": "RedFish",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/RedFish.webp"
+  },
+  {
+   "bytes": 172872,
+   "file": "010_airmobile/redPhoenix.glb",
+   "id": "redPhoenix",
+   "label": "레드 피닉스",
+   "name": "redPhoenix",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/redPhoenix.webp"
+  },
+  {
+   "bytes": 89580,
+   "file": "010_airmobile/SkyFlying.glb",
+   "id": "SkyFlying",
+   "label": "스카이 플라잉",
+   "name": "SkyFlying",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/SkyFlying.webp"
+  },
+  {
+   "bytes": 106372,
+   "file": "010_airmobile/sylphC1.glb",
+   "id": "sylphC1",
+   "label": "실프 C1",
+   "name": "sylphC1",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/sylphC1.webp"
+  },
+  {
+   "bytes": 141844,
+   "file": "010_airmobile/sylphE2.glb",
+   "id": "sylphE2",
+   "label": "실프 E2",
+   "name": "sylphE2",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/sylphE2.webp"
+  },
+  {
+   "bytes": 132404,
+   "file": "010_airmobile/twin_practice00.glb",
+   "id": "twin_practice00",
+   "label": "2인승 세이버",
+   "name": "twin_practice00",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/twin_practice00.webp"
+  },
+  {
+   "bytes": 147992,
+   "file": "010_airmobile/twin_practice01.glb",
+   "id": "twin_practice01",
+   "name": "twin_practice01",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/twin_practice01.webp"
+  },
+  {
+   "bytes": 94100,
+   "file": "010_airmobile/twin_SkyFlying.glb",
+   "id": "twin_SkyFlying",
+   "label": "스카이플라잉-T",
+   "name": "twin_SkyFlying",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/twin_SkyFlying.webp"
+  },
+  {
+   "bytes": 188948,
+   "file": "010_airmobile/twin_special00.glb",
+   "id": "twin_special00",
+   "label": "테라노-T",
+   "name": "twin_special00",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/twin_special00.webp"
+  },
+  {
+   "bytes": 128980,
+   "file": "010_airmobile/whiteJumbo.glb",
+   "id": "whiteJumbo",
+   "label": "화이트 점보",
+   "name": "whiteJumbo",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/whiteJumbo.webp"
+  },
+  {
+   "bytes": 146164,
+   "file": "010_airmobile/windbeetle.glb",
+   "id": "windbeetle",
+   "label": "윈드 비틀",
+   "name": "windbeetle",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/windbeetle.webp"
+  },
+  {
+   "bytes": 156356,
+   "file": "010_airmobile/windturtle.glb",
+   "id": "windturtle",
+   "label": "윈드 터틀",
+   "name": "windturtle",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/windturtle.webp"
+  },
+  {
+   "bytes": 130080,
+   "file": "010_airmobile/zetaC1.glb",
+   "id": "zetaC1",
+   "label": "제타 C1",
+   "name": "zetaC1",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/zetaC1.webp"
+  },
+  {
+   "bytes": 175768,
+   "file": "010_airmobile/zetaE2.glb",
+   "id": "zetaE2",
+   "label": "제타 E2",
+   "name": "zetaE2",
+   "stats": {
+    "textures": 4
+   },
+   "thumb": "010_airmobile/zetaE2.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "에어모빌"
+}

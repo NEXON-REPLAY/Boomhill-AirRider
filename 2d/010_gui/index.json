@@ -1,0 +1,4679 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__001_cd728c20",
+   "name": "gui/chaseGauge/섬광001",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__01_29bbd885",
+   "name": "gui/chaseGauge/체이싱게이지01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__01_6b0b236a",
+   "name": "gui/chaseGauge/분노기관총기본01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__01_81bbcc7f",
+   "name": "gui/chaseGauge/분노기관총애니01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__01_ea87e3d8",
+   "name": "gui/chaseGauge/기관총애니01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__02_05542fa9",
+   "name": "gui/chaseGauge/체이싱게이지02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__02_5d18ce04",
+   "name": "gui/chaseGauge/분노기관총애니02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__02_8594915c",
+   "name": "gui/chaseGauge/혜성_빨강02",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__02_f382e0da",
+   "name": "gui/chaseGauge/기관총애니02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__03_143a1e10",
+   "name": "gui/chaseGauge/분노기관총애니03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__03_af35faac",
+   "name": "gui/chaseGauge/기관총애니03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__04_64420c50",
+   "name": "gui/chaseGauge/분노기관총애니04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__05_043d4938",
+   "name": "gui/chaseGauge/분노기관총애니05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__06_979ae55f",
+   "name": "gui/chaseGauge/분노기관총애니06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__1_0eb86aea",
+   "name": "gui/chaseGauge/체이싱게이지깜빡1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__2_02_alpha_a5e53add",
+   "name": "gui/chaseGauge/체이싱게이지2_02_alpha",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__2_66e58bdc",
+   "name": "gui/chaseGauge/체이싱게이지깜빡2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__2_6db0e615",
+   "name": "gui/chaseGauge/분노미사일2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__2_9f836307",
+   "name": "gui/chaseGauge/미사일2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__2___01_4fa16fed",
+   "name": "gui/chaseGauge/체이싱게이지2인승_드라이버01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__2___01_885ecc7c",
+   "name": "gui/chaseGauge/체이싱게이지2인승_슈터01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__3_02_33b3be5b",
+   "name": "gui/chaseGauge/미사일_3_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__3_62ccd2ab",
+   "name": "gui/chaseGauge/분노미사일3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__3_90885d16",
+   "name": "gui/chaseGauge/미사일_3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__3_a2df6fe7",
+   "name": "gui/chaseGauge/체이싱게이지깜빡3",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__3_fa414359",
+   "name": "gui/chaseGauge/미사일3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__4_9dd83504",
+   "name": "gui/chaseGauge/체이싱게이지깜빡4",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge____3dd99fd5",
+   "name": "gui/chaseGauge/트윈게이지",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge____774fae4c",
+   "name": "gui/chaseGauge/체이싱게이지",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge____a2ab9954",
+   "name": "gui/chaseGauge/기관총",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__alpha",
+   "name": "gui/chaseGauge/alpha",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__alpha04",
+   "name": "gui/chaseGauge/alpha04",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__alpha05",
+   "name": "gui/chaseGauge/alpha05",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__alpha06",
+   "name": "gui/chaseGauge/alpha06",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__c_blue_g_alpha",
+   "name": "gui/chaseGauge/c_blue_g_alpha",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb00",
+   "name": "gui/chaseGauge/fb00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb01",
+   "name": "gui/chaseGauge/fb01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb02",
+   "name": "gui/chaseGauge/fb02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb03",
+   "name": "gui/chaseGauge/fb03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb04",
+   "name": "gui/chaseGauge/fb04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb05",
+   "name": "gui/chaseGauge/fb05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb06",
+   "name": "gui/chaseGauge/fb06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb07",
+   "name": "gui/chaseGauge/fb07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb08",
+   "name": "gui/chaseGauge/fb08",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb09",
+   "name": "gui/chaseGauge/fb09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb10",
+   "name": "gui/chaseGauge/fb10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb11",
+   "name": "gui/chaseGauge/fb11",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb12",
+   "name": "gui/chaseGauge/fb12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fb13",
+   "name": "gui/chaseGauge/fb13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0001",
+   "name": "gui/chaseGauge/fires_0001",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0002",
+   "name": "gui/chaseGauge/fires_0002",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0003",
+   "name": "gui/chaseGauge/fires_0003",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0004",
+   "name": "gui/chaseGauge/fires_0004",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0005",
+   "name": "gui/chaseGauge/fires_0005",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0006",
+   "name": "gui/chaseGauge/fires_0006",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0007",
+   "name": "gui/chaseGauge/fires_0007",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0008",
+   "name": "gui/chaseGauge/fires_0008",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0009",
+   "name": "gui/chaseGauge/fires_0009",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0010",
+   "name": "gui/chaseGauge/fires_0010",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0011",
+   "name": "gui/chaseGauge/fires_0011",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0012",
+   "name": "gui/chaseGauge/fires_0012",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0013",
+   "name": "gui/chaseGauge/fires_0013",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0014",
+   "name": "gui/chaseGauge/fires_0014",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0015",
+   "name": "gui/chaseGauge/fires_0015",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__fires_0016",
+   "name": "gui/chaseGauge/fires_0016",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__furyTemp",
+   "name": "gui/chaseGauge/furyTemp",
+   "sheet": {
+    "h": 75,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_001",
+   "name": "gui/chaseGauge/g-blue_001",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_002",
+   "name": "gui/chaseGauge/g-blue_002",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_003",
+   "name": "gui/chaseGauge/g-blue_003",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_004",
+   "name": "gui/chaseGauge/g-blue_004",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_005",
+   "name": "gui/chaseGauge/g-blue_005",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_006",
+   "name": "gui/chaseGauge/g-blue_006",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_007",
+   "name": "gui/chaseGauge/g-blue_007",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_008",
+   "name": "gui/chaseGauge/g-blue_008",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_009",
+   "name": "gui/chaseGauge/g-blue_009",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-blue_010",
+   "name": "gui/chaseGauge/g-blue_010",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_001",
+   "name": "gui/chaseGauge/g-chase_off_001",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_002",
+   "name": "gui/chaseGauge/g-chase_off_002",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_003",
+   "name": "gui/chaseGauge/g-chase_off_003",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_004",
+   "name": "gui/chaseGauge/g-chase_off_004",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_005",
+   "name": "gui/chaseGauge/g-chase_off_005",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_006",
+   "name": "gui/chaseGauge/g-chase_off_006",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_007",
+   "name": "gui/chaseGauge/g-chase_off_007",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_008",
+   "name": "gui/chaseGauge/g-chase_off_008",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_009",
+   "name": "gui/chaseGauge/g-chase_off_009",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__g-chase_off_010",
+   "name": "gui/chaseGauge/g-chase_off_010",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__glowline",
+   "name": "gui/chaseGauge/glowline",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_001",
+   "name": "gui/chaseGauge/hf04_001",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_002",
+   "name": "gui/chaseGauge/hf04_002",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_003",
+   "name": "gui/chaseGauge/hf04_003",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_004",
+   "name": "gui/chaseGauge/hf04_004",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_005",
+   "name": "gui/chaseGauge/hf04_005",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_006",
+   "name": "gui/chaseGauge/hf04_006",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_007",
+   "name": "gui/chaseGauge/hf04_007",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_008",
+   "name": "gui/chaseGauge/hf04_008",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_009",
+   "name": "gui/chaseGauge/hf04_009",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_010",
+   "name": "gui/chaseGauge/hf04_010",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_011",
+   "name": "gui/chaseGauge/hf04_011",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_012",
+   "name": "gui/chaseGauge/hf04_012",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_013",
+   "name": "gui/chaseGauge/hf04_013",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_014",
+   "name": "gui/chaseGauge/hf04_014",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_015",
+   "name": "gui/chaseGauge/hf04_015",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_016",
+   "name": "gui/chaseGauge/hf04_016",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_017",
+   "name": "gui/chaseGauge/hf04_017",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_018",
+   "name": "gui/chaseGauge/hf04_018",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_019",
+   "name": "gui/chaseGauge/hf04_019",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hf04_020",
+   "name": "gui/chaseGauge/hf04_020",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__hud_fire",
+   "name": "gui/chaseGauge/hud_fire",
+   "sheet": {
+    "h": 1024,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__myHPBar",
+   "name": "gui/chaseGauge/myHPBar",
+   "sheet": {
+    "h": 212,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__opa_alpha",
+   "name": "gui/chaseGauge/opa_alpha",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__opa_alpha_driver",
+   "name": "gui/chaseGauge/opa_alpha_driver",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__opa_alpha_new",
+   "name": "gui/chaseGauge/opa_alpha_new",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__opa_alpha_shotter",
+   "name": "gui/chaseGauge/opa_alpha_shotter",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_a",
+   "name": "gui/chaseGauge/red_a",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_b",
+   "name": "gui/chaseGauge/red_b",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow001",
+   "name": "gui/chaseGauge/red_flow001",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow002",
+   "name": "gui/chaseGauge/red_flow002",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow003",
+   "name": "gui/chaseGauge/red_flow003",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow004",
+   "name": "gui/chaseGauge/red_flow004",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow005",
+   "name": "gui/chaseGauge/red_flow005",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow006",
+   "name": "gui/chaseGauge/red_flow006",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow007",
+   "name": "gui/chaseGauge/red_flow007",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow008",
+   "name": "gui/chaseGauge/red_flow008",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow009",
+   "name": "gui/chaseGauge/red_flow009",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow010",
+   "name": "gui/chaseGauge/red_flow010",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow011",
+   "name": "gui/chaseGauge/red_flow011",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow012",
+   "name": "gui/chaseGauge/red_flow012",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow013",
+   "name": "gui/chaseGauge/red_flow013",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow014",
+   "name": "gui/chaseGauge/red_flow014",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow015",
+   "name": "gui/chaseGauge/red_flow015",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__red_flow016",
+   "name": "gui/chaseGauge/red_flow016",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_off_red01",
+   "name": "gui/chaseGauge/Sjet_off_red01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_off_red02",
+   "name": "gui/chaseGauge/Sjet_off_red02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_off_red03",
+   "name": "gui/chaseGauge/Sjet_off_red03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_off_red04",
+   "name": "gui/chaseGauge/Sjet_off_red04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_p001",
+   "name": "gui/chaseGauge/Sjet_p001",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_p002",
+   "name": "gui/chaseGauge/Sjet_p002",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_p003",
+   "name": "gui/chaseGauge/Sjet_p003",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_p004",
+   "name": "gui/chaseGauge/Sjet_p004",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_p005",
+   "name": "gui/chaseGauge/Sjet_p005",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Sjet_red00",
+   "name": "gui/chaseGauge/Sjet_red00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Teambonus",
+   "name": "gui/chaseGauge/Teambonus",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__chaseGauge__Teambonus_w",
+   "name": "gui/chaseGauge/Teambonus_w",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__frame__frame",
+   "name": "gui/frame/frame",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__frame__garageframe",
+   "name": "gui/frame/garageframe",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__frame__msrFrame",
+   "name": "gui/frame/msrFrame",
+   "sheet": {
+    "h": 482,
+    "w": 511
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__frame__neoFrame01",
+   "name": "gui/frame/neoFrame01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__frame__partyFrame",
+   "name": "gui/frame/partyFrame",
+   "sheet": {
+    "h": 290,
+    "w": 91
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__alpha",
+   "name": "gui/G-gauge/alpha",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__alpha02",
+   "name": "gui/G-gauge/alpha02",
+   "sheet": {
+    "h": 2,
+    "w": 2
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__alpha03",
+   "name": "gui/G-gauge/alpha03",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__alpha03_new",
+   "name": "gui/G-gauge/alpha03_new",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__alpha04",
+   "name": "gui/G-gauge/alpha04",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__G-gauge",
+   "name": "gui/G-gauge/G-gauge",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__G-gauge2009",
+   "name": "gui/G-gauge/G-gauge2009",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_001",
+   "name": "gui/G-gauge/g-green_001",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_002",
+   "name": "gui/G-gauge/g-green_002",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_003",
+   "name": "gui/G-gauge/g-green_003",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_004",
+   "name": "gui/G-gauge/g-green_004",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_005",
+   "name": "gui/G-gauge/g-green_005",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_006",
+   "name": "gui/G-gauge/g-green_006",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_007",
+   "name": "gui/G-gauge/g-green_007",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_008",
+   "name": "gui/G-gauge/g-green_008",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_009",
+   "name": "gui/G-gauge/g-green_009",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-green_010",
+   "name": "gui/G-gauge/g-green_010",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_001",
+   "name": "gui/G-gauge/g-red_001",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_002",
+   "name": "gui/G-gauge/g-red_002",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_003",
+   "name": "gui/G-gauge/g-red_003",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_004",
+   "name": "gui/G-gauge/g-red_004",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_005",
+   "name": "gui/G-gauge/g-red_005",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_006",
+   "name": "gui/G-gauge/g-red_006",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_007",
+   "name": "gui/G-gauge/g-red_007",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_008",
+   "name": "gui/G-gauge/g-red_008",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_009",
+   "name": "gui/G-gauge/g-red_009",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-red_010",
+   "name": "gui/G-gauge/g-red_010",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_001",
+   "name": "gui/G-gauge/g-yellow_001",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_002",
+   "name": "gui/G-gauge/g-yellow_002",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_003",
+   "name": "gui/G-gauge/g-yellow_003",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_004",
+   "name": "gui/G-gauge/g-yellow_004",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_005",
+   "name": "gui/G-gauge/g-yellow_005",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_006",
+   "name": "gui/G-gauge/g-yellow_006",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_007",
+   "name": "gui/G-gauge/g-yellow_007",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_008",
+   "name": "gui/G-gauge/g-yellow_008",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_009",
+   "name": "gui/G-gauge/g-yellow_009",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__g-yellow_010",
+   "name": "gui/G-gauge/g-yellow_010",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__phoenix",
+   "name": "gui/G-gauge/phoenix",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__Sjet_blue",
+   "name": "gui/G-gauge/Sjet_blue",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__Sjet_blue00",
+   "name": "gui/G-gauge/Sjet_blue00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__Sjet_red",
+   "name": "gui/G-gauge/Sjet_red",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__G-gauge__Sjet_red00",
+   "name": "gui/G-gauge/Sjet_red00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__0_0",
+   "name": "gui/gameTips/0_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__0_1",
+   "name": "gui/gameTips/0_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__10_0",
+   "name": "gui/gameTips/10_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__10_1",
+   "name": "gui/gameTips/10_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__11_0",
+   "name": "gui/gameTips/11_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__11_1",
+   "name": "gui/gameTips/11_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__12_0",
+   "name": "gui/gameTips/12_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__12_1",
+   "name": "gui/gameTips/12_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__13_0",
+   "name": "gui/gameTips/13_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__13_1",
+   "name": "gui/gameTips/13_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__14_0",
+   "name": "gui/gameTips/14_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__14_1",
+   "name": "gui/gameTips/14_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__15_0",
+   "name": "gui/gameTips/15_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__15_1",
+   "name": "gui/gameTips/15_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__16_0",
+   "name": "gui/gameTips/16_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__16_1",
+   "name": "gui/gameTips/16_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__17_0",
+   "name": "gui/gameTips/17_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__17_1",
+   "name": "gui/gameTips/17_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__18_0",
+   "name": "gui/gameTips/18_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__18_1",
+   "name": "gui/gameTips/18_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__1_0",
+   "name": "gui/gameTips/1_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__1_1",
+   "name": "gui/gameTips/1_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__2_0",
+   "name": "gui/gameTips/2_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__2_1",
+   "name": "gui/gameTips/2_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__3_0",
+   "name": "gui/gameTips/3_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__3_1",
+   "name": "gui/gameTips/3_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__4_0",
+   "name": "gui/gameTips/4_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__4_1",
+   "name": "gui/gameTips/4_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__5_0",
+   "name": "gui/gameTips/5_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__5_1",
+   "name": "gui/gameTips/5_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__7_0",
+   "name": "gui/gameTips/7_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__7_1",
+   "name": "gui/gameTips/7_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__8_0",
+   "name": "gui/gameTips/8_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__8_1",
+   "name": "gui/gameTips/8_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__9_0",
+   "name": "gui/gameTips/9_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__gameTips__9_1",
+   "name": "gui/gameTips/9_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__0",
+   "name": "gui/hud/0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__1",
+   "name": "gui/hud/1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__1c",
+   "name": "gui/hud/1c",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__1cw",
+   "name": "gui/hud/1cw",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__2",
+   "name": "gui/hud/2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__2c",
+   "name": "gui/hud/2c",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__2cw",
+   "name": "gui/hud/2cw",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__3",
+   "name": "gui/hud/3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__3c",
+   "name": "gui/hud/3c",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__3cw",
+   "name": "gui/hud/3cw",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__4",
+   "name": "gui/hud/4",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__5",
+   "name": "gui/hud/5",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__6",
+   "name": "gui/hud/6",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__7",
+   "name": "gui/hud/7",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__8",
+   "name": "gui/hud/8",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__9",
+   "name": "gui/hud/9",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__arrow",
+   "name": "gui/hud/arrow",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__cbar",
+   "name": "gui/hud/cbar",
+   "sheet": {
+    "h": 4,
+    "w": 4
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__chaseHitCount",
+   "name": "gui/hud/chaseHitCount",
+   "sheet": {
+    "h": 23,
+    "w": 228
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__chaseHitHit",
+   "name": "gui/hud/chaseHitHit",
+   "sheet": {
+    "h": 23,
+    "w": 76
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__digit",
+   "name": "gui/hud/digit",
+   "sheet": {
+    "h": 128,
+    "w": 500
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_01",
+   "name": "gui/hud/dnex_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_02",
+   "name": "gui/hud/dnex_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_03",
+   "name": "gui/hud/dnex_03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_04",
+   "name": "gui/hud/dnex_04",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_05",
+   "name": "gui/hud/dnex_05",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_06",
+   "name": "gui/hud/dnex_06",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_07",
+   "name": "gui/hud/dnex_07",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_08",
+   "name": "gui/hud/dnex_08",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_09",
+   "name": "gui/hud/dnex_09",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_10",
+   "name": "gui/hud/dnex_10",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_11",
+   "name": "gui/hud/dnex_11",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_12",
+   "name": "gui/hud/dnex_12",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_13",
+   "name": "gui/hud/dnex_13",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_14",
+   "name": "gui/hud/dnex_14",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_15",
+   "name": "gui/hud/dnex_15",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_16",
+   "name": "gui/hud/dnex_16",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_17",
+   "name": "gui/hud/dnex_17",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__dnex_18",
+   "name": "gui/hud/dnex_18",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__down",
+   "name": "gui/hud/down",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__down_w",
+   "name": "gui/hud/down_w",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__driver_large",
+   "name": "gui/hud/driver_large",
+   "sheet": {
+    "h": 260,
+    "w": 170
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__driver_small",
+   "name": "gui/hud/driver_small",
+   "sheet": {
+    "h": 260,
+    "w": 170
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__grid",
+   "name": "gui/hud/grid",
+   "sheet": {
+    "h": 8,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__HIT",
+   "name": "gui/hud/HIT",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__hud",
+   "name": "gui/hud/hud",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__hud2",
+   "name": "gui/hud/hud2",
+   "sheet": {
+    "h": 360,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__hud_alert",
+   "name": "gui/hud/hud_alert",
+   "sheet": {
+    "h": 305,
+    "w": 291
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__line_exp",
+   "name": "gui/hud/line_exp",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__mask",
+   "name": "gui/hud/mask",
+   "sheet": {
+    "h": 210,
+    "w": 210
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__mask2",
+   "name": "gui/hud/mask2",
+   "sheet": {
+    "h": 210,
+    "w": 210
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__me01",
+   "name": "gui/hud/me01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__me02",
+   "name": "gui/hud/me02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__me03",
+   "name": "gui/hud/me03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__mihit",
+   "name": "gui/hud/mihit",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__mihit_alpha",
+   "name": "gui/hud/mihit_alpha",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__minimap",
+   "name": "gui/hud/minimap",
+   "sheet": {
+    "h": 210,
+    "w": 210
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__minimap_base",
+   "name": "gui/hud/minimap_base",
+   "sheet": {
+    "h": 210,
+    "w": 210
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__mission100",
+   "name": "gui/hud/mission100",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__myView",
+   "name": "gui/hud/myView",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__n_hit",
+   "name": "gui/hud/n_hit",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__nameBack",
+   "name": "gui/hud/nameBack",
+   "sheet": {
+    "h": 40,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__namePanelHP",
+   "name": "gui/hud/namePanelHP",
+   "sheet": {
+    "h": 21,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__namePanelHP_me",
+   "name": "gui/hud/namePanelHP_me",
+   "sheet": {
+    "h": 43,
+    "w": 150
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__namingtag",
+   "name": "gui/hud/namingtag",
+   "sheet": {
+    "h": 16,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__pingsmall",
+   "name": "gui/hud/pingsmall",
+   "sheet": {
+    "h": 16,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__rader",
+   "name": "gui/hud/rader",
+   "sheet": {
+    "h": 200,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__revenge",
+   "name": "gui/hud/revenge",
+   "sheet": {
+    "h": 18,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__revengeName",
+   "name": "gui/hud/revengeName",
+   "sheet": {
+    "h": 52,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__shooter_large",
+   "name": "gui/hud/shooter_large",
+   "sheet": {
+    "h": 260,
+    "w": 170
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__shooter_small",
+   "name": "gui/hud/shooter_small",
+   "sheet": {
+    "h": 260,
+    "w": 170
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight01",
+   "name": "gui/hud/sight01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight_aim",
+   "name": "gui/hud/sight_aim",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight_disable",
+   "name": "gui/hud/sight_disable",
+   "sheet": {
+    "h": 124,
+    "w": 163
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight_gunOver",
+   "name": "gui/hud/sight_gunOver",
+   "sheet": {
+    "h": 100,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight_rocket1",
+   "name": "gui/hud/sight_rocket1",
+   "sheet": {
+    "h": 225,
+    "w": 225
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight_rocket2",
+   "name": "gui/hud/sight_rocket2",
+   "sheet": {
+    "h": 151,
+    "w": 152
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sight_rotate",
+   "name": "gui/hud/sight_rotate",
+   "sheet": {
+    "h": 58,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightAni_1",
+   "name": "gui/hud/sightAni_1",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightAni_2",
+   "name": "gui/hud/sightAni_2",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightAni_3",
+   "name": "gui/hud/sightAni_3",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightAni_4",
+   "name": "gui/hud/sightAni_4",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightAni_5",
+   "name": "gui/hud/sightAni_5",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightAni_6",
+   "name": "gui/hud/sightAni_6",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightReleaseAni_1",
+   "name": "gui/hud/sightReleaseAni_1",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightReleaseAni_2",
+   "name": "gui/hud/sightReleaseAni_2",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightReleaseAni_4",
+   "name": "gui/hud/sightReleaseAni_4",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightReleaseAni_5",
+   "name": "gui/hud/sightReleaseAni_5",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sightReleaseAni_6",
+   "name": "gui/hud/sightReleaseAni_6",
+   "sheet": {
+    "h": 180,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__sonar",
+   "name": "gui/hud/sonar",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__speedHud",
+   "name": "gui/hud/speedHud",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__tag",
+   "name": "gui/hud/tag",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__wrongway_screen",
+   "name": "gui/hud/wrongway_screen",
+   "sheet": {
+    "h": 384,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__you01",
+   "name": "gui/hud/you01",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__you02",
+   "name": "gui/hud/you02",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__hud__you03",
+   "name": "gui/hud/you03",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot____94a44a4b",
+   "name": "gui/itemSlot/슬롯체인지_수정",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__0",
+   "name": "gui/itemSlot/dog/0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__1",
+   "name": "gui/itemSlot/dog/1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__10",
+   "name": "gui/itemSlot/dog/10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__11",
+   "name": "gui/itemSlot/dog/11",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__11_2",
+   "name": "gui/itemSlot/dog/11_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__11_3",
+   "name": "gui/itemSlot/dog/11_3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__12",
+   "name": "gui/itemSlot/dog/12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__13",
+   "name": "gui/itemSlot/dog/13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__14",
+   "name": "gui/itemSlot/dog/14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__15",
+   "name": "gui/itemSlot/dog/15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__16",
+   "name": "gui/itemSlot/dog/16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__17",
+   "name": "gui/itemSlot/dog/17",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__18",
+   "name": "gui/itemSlot/dog/18",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__2",
+   "name": "gui/itemSlot/dog/2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__3",
+   "name": "gui/itemSlot/dog/3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__4",
+   "name": "gui/itemSlot/dog/4",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__5",
+   "name": "gui/itemSlot/dog/5",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__7",
+   "name": "gui/itemSlot/dog/7",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__8",
+   "name": "gui/itemSlot/dog/8",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__dog__9",
+   "name": "gui/itemSlot/dog/9",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__0_2",
+   "name": "gui/itemSlot/level1/0_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__10_2",
+   "name": "gui/itemSlot/level1/10_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_2",
+   "name": "gui/itemSlot/level1/11_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_3",
+   "name": "gui/itemSlot/level1/11_3",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_4",
+   "name": "gui/itemSlot/level1/11_4",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_5",
+   "name": "gui/itemSlot/level1/11_5",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_6",
+   "name": "gui/itemSlot/level1/11_6",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_7",
+   "name": "gui/itemSlot/level1/11_7",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__11_8",
+   "name": "gui/itemSlot/level1/11_8",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__12_2",
+   "name": "gui/itemSlot/level1/12_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__13_0",
+   "name": "gui/itemSlot/level1/13_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__13_1",
+   "name": "gui/itemSlot/level1/13_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__13_2",
+   "name": "gui/itemSlot/level1/13_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__14_2",
+   "name": "gui/itemSlot/level1/14_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__15_2",
+   "name": "gui/itemSlot/level1/15_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__16_2",
+   "name": "gui/itemSlot/level1/16_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__17_2",
+   "name": "gui/itemSlot/level1/17_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__1_2",
+   "name": "gui/itemSlot/level1/1_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__2_2",
+   "name": "gui/itemSlot/level1/2_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__3_2",
+   "name": "gui/itemSlot/level1/3_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__4_0",
+   "name": "gui/itemSlot/level1/4_0",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__4_1",
+   "name": "gui/itemSlot/level1/4_1",
+   "sheet": {
+    "h": 72,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__4_2",
+   "name": "gui/itemSlot/level1/4_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__5_2",
+   "name": "gui/itemSlot/level1/5_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__7_2",
+   "name": "gui/itemSlot/level1/7_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__8_2",
+   "name": "gui/itemSlot/level1/8_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__level1__9_2",
+   "name": "gui/itemSlot/level1/9_2",
+   "sheet": {
+    "h": 96,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__itemSlot__unkown",
+   "name": "gui/itemSlot/unkown",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__-_25bead0b",
+   "name": "gui/livecam/라이브캠_크루즈-그린팀",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__-_81b09dcf",
+   "name": "gui/livecam/라이브캠_크루즈-블루팀",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__-_9f72b3cf",
+   "name": "gui/livecam/라이브캠_크루즈-레드팀",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__-_e1b2aeca",
+   "name": "gui/livecam/라이브캠_크루즈-엘로우팀",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__01cruise_missile",
+   "name": "gui/livecam/01cruise_missile",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__02cruise_missile",
+   "name": "gui/livecam/02cruise_missile",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__03cruise_missile",
+   "name": "gui/livecam/03cruise_missile",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__1",
+   "name": "gui/livecam/1",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__2",
+   "name": "gui/livecam/2",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__blue_text5_ddd6de5e",
+   "name": "gui/livecam/blue text5",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__CAM1",
+   "name": "gui/livecam/CAM1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__CAM2",
+   "name": "gui/livecam/CAM2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__CAM2_sc",
+   "name": "gui/livecam/CAM2_sc",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__cam_01",
+   "name": "gui/livecam/cam_01",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__cam_02",
+   "name": "gui/livecam/cam_02",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__cam_03",
+   "name": "gui/livecam/cam_03",
+   "sheet": {
+    "h": 512,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__cruiser_a1a_57d4bd31",
+   "name": "gui/livecam/cruiser a1a",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__cruiser_a1b_805bd1b4",
+   "name": "gui/livecam/cruiser a1b",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__cruiser_b1_fb6ba614",
+   "name": "gui/livecam/cruiser b1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__finish",
+   "name": "gui/livecam/finish",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__finish_sc",
+   "name": "gui/livecam/finish_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gantiufo",
+   "name": "gui/livecam/gantiufo",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gantiufo_sc",
+   "name": "gui/livecam/gantiufo_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gbee",
+   "name": "gui/livecam/gbee",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gbee_sc",
+   "name": "gui/livecam/gbee_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gcruiser",
+   "name": "gui/livecam/gcruiser",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gcruiser_sc",
+   "name": "gui/livecam/gcruiser_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__glock",
+   "name": "gui/livecam/glock",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__glock_sc",
+   "name": "gui/livecam/glock_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gmachinegun",
+   "name": "gui/livecam/gmachinegun",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gmachinegun_sc",
+   "name": "gui/livecam/gmachinegun_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gmagnet",
+   "name": "gui/livecam/gmagnet",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gmagnet_sc",
+   "name": "gui/livecam/gmagnet_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__grocket",
+   "name": "gui/livecam/grocket",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__grocket_sc",
+   "name": "gui/livecam/grocket_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gshield",
+   "name": "gui/livecam/gshield",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gstorm",
+   "name": "gui/livecam/gstorm",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gstorm_sc",
+   "name": "gui/livecam/gstorm_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gteam1",
+   "name": "gui/livecam/gteam1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gteam2",
+   "name": "gui/livecam/gteam2",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gteam2_sc",
+   "name": "gui/livecam/gteam2_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gteam3",
+   "name": "gui/livecam/gteam3",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gufo",
+   "name": "gui/livecam/gufo",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gufo_sc",
+   "name": "gui/livecam/gufo_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gwaterFly",
+   "name": "gui/livecam/gwaterFly",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gwaterFly_sc",
+   "name": "gui/livecam/gwaterFly_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gwaterrocket",
+   "name": "gui/livecam/gwaterrocket",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__gwaterrocket_sc",
+   "name": "gui/livecam/gwaterrocket_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__help",
+   "name": "gui/livecam/help",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__help_sc",
+   "name": "gui/livecam/help_sc",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__hit",
+   "name": "gui/livecam/hit",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__pirate_in01",
+   "name": "gui/livecam/pirate_in01",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__pirate_in02",
+   "name": "gui/livecam/pirate_in02",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__red_text5_c62f6a6c",
+   "name": "gui/livecam/red text5",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__rocket-3",
+   "name": "gui/livecam/rocket-3",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__Shockwave_03",
+   "name": "gui/livecam/Shockwave_03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__smoke",
+   "name": "gui/livecam/smoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__ss",
+   "name": "gui/livecam/ss",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__ss_b",
+   "name": "gui/livecam/ss_b",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__warning",
+   "name": "gui/livecam/warning",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__winbimg",
+   "name": "gui/livecam/winbimg",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__livecam__winrimg",
+   "name": "gui/livecam/winrimg",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_17f4d600",
+   "name": "gui/maintray/종료1",
+   "sheet": {
+    "h": 53,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_1c3723f6",
+   "name": "gui/maintray/라이더찾기1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_6b58f8c2",
+   "name": "gui/maintray/옵션1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_99586641",
+   "name": "gui/maintray/파티1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_b4b4d9eb",
+   "name": "gui/maintray/메신져1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_c72fb226",
+   "name": "gui/maintray/퀘스트1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_f5a7633b",
+   "name": "gui/maintray/이벤트1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__1_ff508652",
+   "name": "gui/maintray/라이더수첩1",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_14cf9045",
+   "name": "gui/maintray/메신져2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_1558fc2c",
+   "name": "gui/maintray/종료2",
+   "sheet": {
+    "h": 53,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_2965fc3b",
+   "name": "gui/maintray/퀘스트2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_5a2cbd43",
+   "name": "gui/maintray/라이더수첩2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_66374a7c",
+   "name": "gui/maintray/옵션2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_78de42b0",
+   "name": "gui/maintray/파티2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_9684ddf9",
+   "name": "gui/maintray/라이더찾기2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__2_e21ce647",
+   "name": "gui/maintray/이벤트2",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_665126e7",
+   "name": "gui/maintray/옵션4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_6dfb5656",
+   "name": "gui/maintray/라이더찾기4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_98619ac9",
+   "name": "gui/maintray/메신져4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_9939c131",
+   "name": "gui/maintray/라이더수첩4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_a14a453a",
+   "name": "gui/maintray/파티4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_affd124c",
+   "name": "gui/maintray/이벤트4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_fad36d55",
+   "name": "gui/maintray/퀘스트4",
+   "sheet": {
+    "h": 40,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__4_feb3a54f",
+   "name": "gui/maintray/종료4",
+   "sheet": {
+    "h": 53,
+    "w": 53
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray____563ef1e8",
+   "name": "gui/maintray/메인메뉴구분선",
+   "sheet": {
+    "h": 30,
+    "w": 4
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray____83f4e8d4",
+   "name": "gui/maintray/슬롯_라운드",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__backButton1",
+   "name": "gui/maintray/backButton1",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__backButton2",
+   "name": "gui/maintray/backButton2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__bg1_59312e02",
+   "name": "gui/maintray/슬라이드메인메뉴_bg1",
+   "sheet": {
+    "h": 49,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__bg2_6be290e7",
+   "name": "gui/maintray/슬라이드메인메뉴_bg2",
+   "sheet": {
+    "h": 49,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__maintray__maximize",
+   "name": "gui/maintray/maximize",
+   "sheet": {
+    "h": 6,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__notice__notice_back1",
+   "name": "gui/notice/notice_back1",
+   "sheet": {
+    "h": 38,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__notice__notice_back2",
+   "name": "gui/notice/notice_back2",
+   "sheet": {
+    "h": 38,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__100_mission_772cf668",
+   "name": "gui/rankSlider/미션100_mission",
+   "sheet": {
+    "h": 108,
+    "w": 109
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__b1",
+   "name": "gui/rankSlider/b1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__b2",
+   "name": "gui/rankSlider/b2",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__digit",
+   "name": "gui/rankSlider/digit",
+   "sheet": {
+    "h": 128,
+    "w": 500
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__digitRevenge",
+   "name": "gui/rankSlider/digitRevenge",
+   "sheet": {
+    "h": 35,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__finish",
+   "name": "gui/rankSlider/finish",
+   "sheet": {
+    "h": 35,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__rank_me",
+   "name": "gui/rankSlider/rank_me",
+   "sheet": {
+    "h": 23,
+    "w": 112
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__rank_you",
+   "name": "gui/rankSlider/rank_you",
+   "sheet": {
+    "h": 18,
+    "w": 105
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__rankBar",
+   "name": "gui/rankSlider/rankBar",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__rankBarRevenge",
+   "name": "gui/rankSlider/rankBarRevenge",
+   "sheet": {
+    "h": 22,
+    "w": 98
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__wide_my",
+   "name": "gui/rankSlider/wide_my",
+   "sheet": {
+    "h": 45,
+    "w": 112
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__rankSlider__wide_other",
+   "name": "gui/rankSlider/wide_other",
+   "sheet": {
+    "h": 39,
+    "w": 105
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__1_5ecdc81a",
+   "name": "gui/resultWindow/시상대제목_1",
+   "sheet": {
+    "h": 45,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__2_5d362144",
+   "name": "gui/resultWindow/시상대제목_2",
+   "sheet": {
+    "h": 45,
+    "w": 459
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow____033a176f",
+   "name": "gui/resultWindow/긴게이지반사광",
+   "sheet": {
+    "h": 20,
+    "w": 293
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow____9d83abe0",
+   "name": "gui/resultWindow/결과창이미지",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow____dd384e58",
+   "name": "gui/resultWindow/긴게이지",
+   "sheet": {
+    "h": 20,
+    "w": 293
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__almostfinish",
+   "name": "gui/resultWindow/almostfinish",
+   "sheet": {
+    "h": 30,
+    "w": 124
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__arrow",
+   "name": "gui/resultWindow/arrow",
+   "sheet": {
+    "h": 20,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestairdrift",
+   "name": "gui/resultWindow/bestairdrift",
+   "sheet": {
+    "h": 24,
+    "w": 131
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestdefence",
+   "name": "gui/resultWindow/bestdefence",
+   "sheet": {
+    "h": 28,
+    "w": 92
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestdrive",
+   "name": "gui/resultWindow/bestdrive",
+   "sheet": {
+    "h": 26,
+    "w": 103
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestevasion",
+   "name": "gui/resultWindow/bestevasion",
+   "sheet": {
+    "h": 25,
+    "w": 104
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestphoenix",
+   "name": "gui/resultWindow/bestphoenix",
+   "sheet": {
+    "h": 30,
+    "w": 94
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestrevenge",
+   "name": "gui/resultWindow/bestrevenge",
+   "sheet": {
+    "h": 30,
+    "w": 97
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestshooting",
+   "name": "gui/resultWindow/bestshooting",
+   "sheet": {
+    "h": 30,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestslipstream",
+   "name": "gui/resultWindow/bestslipstream",
+   "sheet": {
+    "h": 30,
+    "w": 118
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__bestteamplay",
+   "name": "gui/resultWindow/bestteamplay",
+   "sheet": {
+    "h": 30,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__cruisemissile",
+   "name": "gui/resultWindow/cruisemissile",
+   "sheet": {
+    "h": 28,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__dp",
+   "name": "gui/resultWindow/dp",
+   "sheet": {
+    "h": 21,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__dp_5e0ba432",
+   "name": "gui/resultWindow/dp숫자",
+   "sheet": {
+    "h": 21,
+    "w": 191
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__dp_c218fba3",
+   "name": "gui/resultWindow/dp텍스트",
+   "sheet": {
+    "h": 13,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__leveluphash",
+   "name": "gui/resultWindow/leveluphash",
+   "sheet": {
+    "h": 30,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__lucci",
+   "name": "gui/resultWindow/lucci",
+   "sheet": {
+    "h": 16,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__lucci0",
+   "name": "gui/resultWindow/lucci0",
+   "sheet": {
+    "h": 22,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__luccix2",
+   "name": "gui/resultWindow/luccix2",
+   "sheet": {
+    "h": 26,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__luccix3",
+   "name": "gui/resultWindow/luccix3",
+   "sheet": {
+    "h": 26,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__mostteamkill",
+   "name": "gui/resultWindow/mostteamkill",
+   "sheet": {
+    "h": 30,
+    "w": 103
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__myLUCCI",
+   "name": "gui/resultWindow/myLUCCI",
+   "sheet": {
+    "h": 31,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__myRP",
+   "name": "gui/resultWindow/myRP",
+   "sheet": {
+    "h": 31,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__nomoreretire",
+   "name": "gui/resultWindow/nomoreretire",
+   "sheet": {
+    "h": 29,
+    "w": 115
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__perfect",
+   "name": "gui/resultWindow/perfect",
+   "sheet": {
+    "h": 30,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__rider",
+   "name": "gui/resultWindow/rider",
+   "sheet": {
+    "h": 25,
+    "w": 75
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__rp",
+   "name": "gui/resultWindow/rp",
+   "sheet": {
+    "h": 21,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__sp",
+   "name": "gui/resultWindow/sp",
+   "sheet": {
+    "h": 27,
+    "w": 34
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__sp_3f78c79f",
+   "name": "gui/resultWindow/sp아이콘",
+   "sheet": {
+    "h": 35,
+    "w": 510
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__sptitle",
+   "name": "gui/resultWindow/sptitle",
+   "sheet": {
+    "h": 20,
+    "w": 71
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__time",
+   "name": "gui/resultWindow/time",
+   "sheet": {
+    "h": 21,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__tp",
+   "name": "gui/resultWindow/tp",
+   "sheet": {
+    "h": 33,
+    "w": 35
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__TP__1_0f1763fc",
+   "name": "gui/resultWindow/TP합산제목_1",
+   "sheet": {
+    "h": 45,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__resultWindow__TP__2_0eae0ab4",
+   "name": "gui/resultWindow/TP합산제목_2",
+   "sheet": {
+    "h": 45,
+    "w": 219
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__tachometer__common____8ab1edc0",
+   "name": "gui/tachometer/common/타코미터",
+   "sheet": {
+    "h": 281,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "gui__tachometer__common__mask",
+   "name": "gui/tachometer/common/mask",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "010_gui",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "HUD, 게이지, 결과창"
+}

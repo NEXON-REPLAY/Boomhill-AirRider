@@ -1,0 +1,291 @@
+{
+ "category": "3d_character",
+ "game": "airrider",
+ "items": [
+  {
+   "bytes": 1053928,
+   "file": "020_character/bazzi.glb",
+   "id": "bazzi",
+   "label": "배찌",
+   "name": "bazzi",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/bazzi.webp"
+  },
+  {
+   "bytes": 941740,
+   "file": "020_character/dao.glb",
+   "id": "dao",
+   "label": "다오",
+   "name": "dao",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/dao.webp"
+  },
+  {
+   "bytes": 1054416,
+   "file": "020_character/dizni.glb",
+   "id": "dizni",
+   "label": "디지니",
+   "name": "dizni",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/dizni.webp"
+  },
+  {
+   "bytes": 783380,
+   "file": "020_character/doctorR.glb",
+   "id": "doctorR",
+   "label": "닥터R",
+   "name": "doctorR",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/doctorR.webp"
+  },
+  {
+   "bytes": 667612,
+   "file": "020_character/ethi.glb",
+   "id": "ethi",
+   "label": "에띠",
+   "name": "ethi",
+   "stats": {
+    "textures": 8
+   },
+   "thumb": "020_character/ethi.webp"
+  },
+  {
+   "bytes": 220840,
+   "file": "020_character/kephi.glb",
+   "id": "kephi",
+   "label": "케피",
+   "name": "kephi",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/kephi.webp"
+  },
+  {
+   "bytes": 1126076,
+   "file": "020_character/marid.glb",
+   "id": "marid",
+   "label": "마리드",
+   "name": "marid",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/marid.webp"
+  },
+  {
+   "bytes": 959400,
+   "file": "020_character/mobi.glb",
+   "id": "mobi",
+   "label": "모비",
+   "name": "mobi",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/mobi.webp"
+  },
+  {
+   "bytes": 919220,
+   "file": "020_character/mos.glb",
+   "id": "mos",
+   "label": "모스",
+   "name": "mos",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/mos.webp"
+  },
+  {
+   "bytes": 595928,
+   "file": "020_character/pirate_A.glb",
+   "id": "pirate_A",
+   "label": "쟁이",
+   "name": "pirate_A",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_A.webp"
+  },
+  {
+   "bytes": 596228,
+   "file": "020_character/pirate_A_B.glb",
+   "id": "pirate_A_B",
+   "name": "pirate_A_B",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_A_B.webp"
+  },
+  {
+   "bytes": 592276,
+   "file": "020_character/pirate_A_C.glb",
+   "id": "pirate_A_C",
+   "name": "pirate_A_C",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_A_C.webp"
+  },
+  {
+   "bytes": 602296,
+   "file": "020_character/pirate_A_D.glb",
+   "id": "pirate_A_D",
+   "name": "pirate_A_D",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_A_D.webp"
+  },
+  {
+   "bytes": 97788,
+   "file": "020_character/pirate_B.glb",
+   "id": "pirate_B",
+   "name": "pirate_B",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_B.webp"
+  },
+  {
+   "bytes": 107388,
+   "file": "020_character/pirate_B_B.glb",
+   "id": "pirate_B_B",
+   "name": "pirate_B_B",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_B_B.webp"
+  },
+  {
+   "bytes": 100364,
+   "file": "020_character/pirate_B_C.glb",
+   "id": "pirate_B_C",
+   "name": "pirate_B_C",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_B_C.webp"
+  },
+  {
+   "bytes": 96908,
+   "file": "020_character/pirate_B_D.glb",
+   "id": "pirate_B_D",
+   "name": "pirate_B_D",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_B_D.webp"
+  },
+  {
+   "bytes": 159484,
+   "file": "020_character/pirate_C.glb",
+   "id": "pirate_C",
+   "name": "pirate_C",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_C.webp"
+  },
+  {
+   "bytes": 148616,
+   "file": "020_character/pirate_C_C.glb",
+   "id": "pirate_C_C",
+   "name": "pirate_C_C",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_C_C.webp"
+  },
+  {
+   "bytes": 153380,
+   "file": "020_character/pirate_C_D.glb",
+   "id": "pirate_C_D",
+   "name": "pirate_C_D",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_C_D.webp"
+  },
+  {
+   "bytes": 522760,
+   "file": "020_character/pirate_D.glb",
+   "id": "pirate_D",
+   "label": "맨솔",
+   "name": "pirate_D",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_D.webp"
+  },
+  {
+   "bytes": 532988,
+   "file": "020_character/pirate_D_B.glb",
+   "id": "pirate_D_B",
+   "name": "pirate_D_B",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_D_B.webp"
+  },
+  {
+   "bytes": 505320,
+   "file": "020_character/pirate_D_C.glb",
+   "id": "pirate_D_C",
+   "name": "pirate_D_C",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_D_C.webp"
+  },
+  {
+   "bytes": 506664,
+   "file": "020_character/pirate_D_D.glb",
+   "id": "pirate_D_D",
+   "name": "pirate_D_D",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/pirate_D_D.webp"
+  },
+  {
+   "bytes": 254620,
+   "file": "020_character/saver.glb",
+   "id": "saver",
+   "label": "세이버",
+   "name": "saver",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/saver.webp"
+  },
+  {
+   "bytes": 1070376,
+   "file": "020_character/tutu.glb",
+   "id": "tutu",
+   "name": "tutu",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/tutu.webp"
+  },
+  {
+   "bytes": 615048,
+   "file": "020_character/uni.glb",
+   "id": "uni",
+   "label": "우니",
+   "name": "uni",
+   "stats": {
+    "textures": 7
+   },
+   "thumb": "020_character/uni.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "캐릭터"
+}

@@ -1,0 +1,6506 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__19",
+   "name": "stage/BaseTutorialGame/19",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__1_21fdd1a7",
+   "name": "stage/BaseTutorialGame/오른쪽으로가기1",
+   "sheet": {
+    "h": 79,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__2_efad6fc2",
+   "name": "stage/BaseTutorialGame/오른쪽으로가기2",
+   "sheet": {
+    "h": 79,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__3d_clear",
+   "name": "stage/BaseTutorialGame/3d_clear",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__3d_failed",
+   "name": "stage/BaseTutorialGame/3d_failed",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__3d_good",
+   "name": "stage/BaseTutorialGame/3d_good",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__80",
+   "name": "stage/BaseTutorialGame/80",
+   "sheet": {
+    "h": 157,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame____50a854c1",
+   "name": "stage/BaseTutorialGame/왼쪽으로가기",
+   "sheet": {
+    "h": 79,
+    "w": 447
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame____852f5685",
+   "name": "stage/BaseTutorialGame/상승하기",
+   "sheet": {
+    "h": 79,
+    "w": 307
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame____8dac9392",
+   "name": "stage/BaseTutorialGame/앞으로가기",
+   "sheet": {
+    "h": 79,
+    "w": 374
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame____a0f43e95",
+   "name": "stage/BaseTutorialGame/튜토리얼_스피드_키보드",
+   "sheet": {
+    "h": 89,
+    "w": 455
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame____dc28c4c1",
+   "name": "stage/BaseTutorialGame/빨강게이지",
+   "sheet": {
+    "h": 20,
+    "w": 19
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__air_t_stamp",
+   "name": "stage/BaseTutorialGame/air_t_stamp",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__air_t_stamp1-1",
+   "name": "stage/BaseTutorialGame/air_t_stamp1-1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__air_t_stamp1-2",
+   "name": "stage/BaseTutorialGame/air_t_stamp1-2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__bt_replay_1",
+   "name": "stage/BaseTutorialGame/bt_replay_1",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__bt_replay_2",
+   "name": "stage/BaseTutorialGame/bt_replay_2",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__bt_replay_3",
+   "name": "stage/BaseTutorialGame/bt_replay_3",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__button_next_4",
+   "name": "stage/BaseTutorialGame/button_next_4",
+   "sheet": {
+    "h": 61,
+    "w": 131
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__drift_left",
+   "name": "stage/BaseTutorialGame/drift_left",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__drift_right",
+   "name": "stage/BaseTutorialGame/drift_right",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__go_front",
+   "name": "stage/BaseTutorialGame/go_front",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__lift_up",
+   "name": "stage/BaseTutorialGame/lift_up",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__lucci_Number",
+   "name": "stage/BaseTutorialGame/lucci_Number",
+   "sheet": {
+    "h": 22,
+    "w": 220
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg1_0",
+   "name": "stage/BaseTutorialGame/msg1_0",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg1_1",
+   "name": "stage/BaseTutorialGame/msg1_1",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg2_0",
+   "name": "stage/BaseTutorialGame/msg2_0",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg2_1",
+   "name": "stage/BaseTutorialGame/msg2_1",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg3_0",
+   "name": "stage/BaseTutorialGame/msg3_0",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg3_1",
+   "name": "stage/BaseTutorialGame/msg3_1",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg4_0",
+   "name": "stage/BaseTutorialGame/msg4_0",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg4_1_hashSkip",
+   "name": "stage/BaseTutorialGame/msg4_1_hashSkip",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg5_0",
+   "name": "stage/BaseTutorialGame/msg5_0",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg5_1",
+   "name": "stage/BaseTutorialGame/msg5_1",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg6_0",
+   "name": "stage/BaseTutorialGame/msg6_0",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__msg6_1",
+   "name": "stage/BaseTutorialGame/msg6_1",
+   "sheet": {
+    "h": 510,
+    "w": 410
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__onemore2",
+   "name": "stage/BaseTutorialGame/onemore2",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__roll_left",
+   "name": "stage/BaseTutorialGame/roll_left",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__roll_right",
+   "name": "stage/BaseTutorialGame/roll_right",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__roll_up",
+   "name": "stage/BaseTutorialGame/roll_up",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__step_rollover",
+   "name": "stage/BaseTutorialGame/step_rollover",
+   "sheet": {
+    "h": 19,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__step_rollover3",
+   "name": "stage/BaseTutorialGame/step_rollover3",
+   "sheet": {
+    "h": 19,
+    "w": 147
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__turn_left",
+   "name": "stage/BaseTutorialGame/turn_left",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__turn_right",
+   "name": "stage/BaseTutorialGame/turn_right",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__tut",
+   "name": "stage/BaseTutorialGame/tut",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__BaseTutorialGame__tut02",
+   "name": "stage/BaseTutorialGame/tut02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__chaseCoupleGame__mission100",
+   "name": "stage/chaseCoupleGame/mission100",
+   "sheet": {
+    "h": 37,
+    "w": 511
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__chaseCoupleTutorialGame__left_aim_01",
+   "name": "stage/chaseCoupleTutorialGame/left_aim_01",
+   "sheet": {
+    "h": 140,
+    "w": 397
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__chaseCoupleTutorialGame__left_aim_02",
+   "name": "stage/chaseCoupleTutorialGame/left_aim_02",
+   "sheet": {
+    "h": 140,
+    "w": 397
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__chaseCoupleTutorialGame__right_aim_01",
+   "name": "stage/chaseCoupleTutorialGame/right_aim_01",
+   "sheet": {
+    "h": 140,
+    "w": 397
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__chaseCoupleTutorialGame__right_aim_02",
+   "name": "stage/chaseCoupleTutorialGame/right_aim_02",
+   "sheet": {
+    "h": 140,
+    "w": 397
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__chaseTutorialGame____9bb945ae",
+   "name": "stage/chaseTutorialGame/튜토_슈터_타겟가이드",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__1_8a6a2073",
+   "name": "stage/common/포인트아이콘1",
+   "sheet": {
+    "h": 34,
+    "w": 48
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____03e81ada",
+   "name": "stage/common/세이버_표정_굿잡",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____09881e4a",
+   "name": "stage/common/세이버_포즈_웃음",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____1f5c3dd6",
+   "name": "stage/common/세이버_표정_긁적",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____25d22835",
+   "name": "stage/common/세이버_포즈_넘버원",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____3c708a24",
+   "name": "stage/common/세이버_포즈_미소",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____4c5dbe21",
+   "name": "stage/common/카드번호리소스",
+   "sheet": {
+    "h": 23,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____63f7e7ba",
+   "name": "stage/common/세이버_포즈_윙크",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____6961dd8d",
+   "name": "stage/common/세이버_표정_기본",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____6aa732c5",
+   "name": "stage/common/세이버_포즈_놀람",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____7876b820",
+   "name": "stage/common/세이버_포즈_흑흑",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____7a869cd1",
+   "name": "stage/common/상단바_구분",
+   "sheet": {
+    "h": 23,
+    "w": 6
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____80e800a2",
+   "name": "stage/common/세이버_포즈_기본",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____89506c52",
+   "name": "stage/common/세이버_포즈_티칭",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____9a806c4d",
+   "name": "stage/common/제한시간",
+   "sheet": {
+    "h": 42,
+    "w": 330
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____a5449d89",
+   "name": "stage/common/칭호백이미지",
+   "sheet": {
+    "h": 232,
+    "w": 232
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____b0a4d146",
+   "name": "stage/common/라이더스쿨_카운트프레임",
+   "sheet": {
+    "h": 78,
+    "w": 359
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____c273ffc4",
+   "name": "stage/common/세이버_표정_버럭",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____c2b146b5",
+   "name": "stage/common/세이버_표정_흑흑",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____c394c9db",
+   "name": "stage/common/포인트아이콘",
+   "sheet": {
+    "h": 40,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____d83239a3",
+   "name": "stage/common/세이버_포즈_진지",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____d833bdf0",
+   "name": "stage/common/세이버_포즈_버럭",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____d8f5bee4",
+   "name": "stage/common/사용중",
+   "sheet": {
+    "h": 14,
+    "w": 40
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____d9b7b9aa",
+   "name": "stage/common/세이버_표정_하하",
+   "sheet": {
+    "h": 160,
+    "w": 160
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____e988e4c3",
+   "name": "stage/common/세이버_포즈_땀흘림",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____eb60b5b0",
+   "name": "stage/common/화살표",
+   "sheet": {
+    "h": 4,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common____fb1f95fb",
+   "name": "stage/common/세이버_포즈_어때",
+   "sheet": {
+    "h": 430,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__01",
+   "name": "stage/common/action/01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__02",
+   "name": "stage/common/action/02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__2lap",
+   "name": "stage/common/action/2lap",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action____cbc97f62",
+   "name": "stage/common/action/캐릭",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__b01",
+   "name": "stage/common/action/b01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__b02",
+   "name": "stage/common/action/b02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__b03",
+   "name": "stage/common/action/b03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__b3",
+   "name": "stage/common/action/b3",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__backgrid",
+   "name": "stage/common/action/backgrid",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__c_all",
+   "name": "stage/common/action/c_all",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__c_body",
+   "name": "stage/common/action/c_body",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__c_head",
+   "name": "stage/common/action/c_head",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__c_tail",
+   "name": "stage/common/action/c_tail",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__c_txt",
+   "name": "stage/common/action/c_txt",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__finallap",
+   "name": "stage/common/action/finallap",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__finish",
+   "name": "stage/common/action/finish",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_000",
+   "name": "stage/common/action/FW_000",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_001",
+   "name": "stage/common/action/FW_001",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_002",
+   "name": "stage/common/action/FW_002",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_003",
+   "name": "stage/common/action/FW_003",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_004",
+   "name": "stage/common/action/FW_004",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_005",
+   "name": "stage/common/action/FW_005",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_006",
+   "name": "stage/common/action/FW_006",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_007",
+   "name": "stage/common/action/FW_007",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_008",
+   "name": "stage/common/action/FW_008",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_009",
+   "name": "stage/common/action/FW_009",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_010",
+   "name": "stage/common/action/FW_010",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_011",
+   "name": "stage/common/action/FW_011",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_012",
+   "name": "stage/common/action/FW_012",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_013",
+   "name": "stage/common/action/FW_013",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_014",
+   "name": "stage/common/action/FW_014",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_015",
+   "name": "stage/common/action/FW_015",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_016",
+   "name": "stage/common/action/FW_016",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_017",
+   "name": "stage/common/action/FW_017",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_018",
+   "name": "stage/common/action/FW_018",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_019",
+   "name": "stage/common/action/FW_019",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_020",
+   "name": "stage/common/action/FW_020",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__FW_021",
+   "name": "stage/common/action/FW_021",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__glass_parti",
+   "name": "stage/common/action/glass_parti",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__glow_c_all",
+   "name": "stage/common/action/glow_c_all",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__glow_c_body",
+   "name": "stage/common/action/glow_c_body",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__glow_c_head",
+   "name": "stage/common/action/glow_c_head",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__glow_c_tail",
+   "name": "stage/common/action/glow_c_tail",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__HNB_spark",
+   "name": "stage/common/action/HNB_spark",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__item01",
+   "name": "stage/common/action/item01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__m_clear",
+   "name": "stage/common/action/m_clear",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__m_failed",
+   "name": "stage/common/action/m_failed",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__m_mission",
+   "name": "stage/common/action/m_mission",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__misson",
+   "name": "stage/common/action/misson",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__nrd",
+   "name": "stage/common/action/nrd",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__pang03",
+   "name": "stage/common/action/pang03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__perfect",
+   "name": "stage/common/action/perfect",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__pirate_box_g",
+   "name": "stage/common/action/pirate_box_g",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__pirate_box_s",
+   "name": "stage/common/action/pirate_box_s",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r01",
+   "name": "stage/common/action/r01",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r02",
+   "name": "stage/common/action/r02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r03",
+   "name": "stage/common/action/r03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r04",
+   "name": "stage/common/action/r04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r05",
+   "name": "stage/common/action/r05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r06",
+   "name": "stage/common/action/r06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r07",
+   "name": "stage/common/action/r07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r08",
+   "name": "stage/common/action/r08",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r09",
+   "name": "stage/common/action/r09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__r10",
+   "name": "stage/common/action/r10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__raceover",
+   "name": "stage/common/action/raceover",
+   "sheet": {
+    "h": 64,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__ray05",
+   "name": "stage/common/action/ray05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__respawn01",
+   "name": "stage/common/action/respawn01",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__respawn02",
+   "name": "stage/common/action/respawn02",
+   "sheet": {
+    "h": 32,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__restricted_area_9704cd86",
+   "name": "stage/common/action/restricted area",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__retire",
+   "name": "stage/common/action/retire",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__start",
+   "name": "stage/common/action/start",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__action__winner",
+   "name": "stage/common/action/winner",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__back1",
+   "name": "stage/common/back1",
+   "sheet": {
+    "h": 28,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__back2",
+   "name": "stage/common/back2",
+   "sheet": {
+    "h": 28,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bigO_20_1",
+   "name": "stage/common/bigO_20_1",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bigO_20_3",
+   "name": "stage/common/bigO_20_3",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bigPresent_20_1",
+   "name": "stage/common/bigPresent_20_1",
+   "sheet": {
+    "h": 22,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bigPresent_20_3",
+   "name": "stage/common/bigPresent_20_3",
+   "sheet": {
+    "h": 22,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bigX_20_1",
+   "name": "stage/common/bigX_20_1",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bigX_20_3",
+   "name": "stage/common/bigX_20_3",
+   "sheet": {
+    "h": 23,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bt___1_815e738a",
+   "name": "stage/common/bt_도전_1",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bt___1_8b095624",
+   "name": "stage/common/bt_확인_1",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bt___2_d3541fc8",
+   "name": "stage/common/bt_도전_2",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bt___2_dab986dd",
+   "name": "stage/common/bt_확인_2",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bt___3_a785747e",
+   "name": "stage/common/bt_도전_3",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bt___3_c984886f",
+   "name": "stage/common/bt_확인_3",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bullet01",
+   "name": "stage/common/bullet01",
+   "sheet": {
+    "h": 15,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__bullet_small",
+   "name": "stage/common/bullet_small",
+   "sheet": {
+    "h": 22,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_back1",
+   "name": "stage/common/button_back1",
+   "sheet": {
+    "h": 38,
+    "w": 52
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_back4",
+   "name": "stage/common/button_back4",
+   "sheet": {
+    "h": 38,
+    "w": 52
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_back_1",
+   "name": "stage/common/button_back_1",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_back_2",
+   "name": "stage/common/button_back_2",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_back_3",
+   "name": "stage/common/button_back_3",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_back_4",
+   "name": "stage/common/button_back_4",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_next4",
+   "name": "stage/common/button_next4",
+   "sheet": {
+    "h": 38,
+    "w": 52
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_next_1",
+   "name": "stage/common/button_next_1",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_next_2",
+   "name": "stage/common/button_next_2",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_next_3",
+   "name": "stage/common/button_next_3",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__button_next_4",
+   "name": "stage/common/button_next_4",
+   "sheet": {
+    "h": 27,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__cursor",
+   "name": "stage/common/cursor",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__detail_1378198d",
+   "name": "stage/common/detail_동",
+   "sheet": {
+    "h": 73,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__detail_3d754cf2",
+   "name": "stage/common/detail_은",
+   "sheet": {
+    "h": 73,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__detail_4d2bbff8",
+   "name": "stage/common/detail_금",
+   "sheet": {
+    "h": 73,
+    "w": 50
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__detail_frame",
+   "name": "stage/common/detail_frame",
+   "sheet": {
+    "h": 328,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__detail_line",
+   "name": "stage/common/detail_line",
+   "sheet": {
+    "h": 232,
+    "w": 232
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__dot_039c11eb",
+   "name": "stage/common/다이얼로그박스_dot",
+   "sheet": {
+    "h": 1,
+    "w": 3
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__dotline2",
+   "name": "stage/common/dotline2",
+   "sheet": {
+    "h": 1,
+    "w": 310
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__dr_r1",
+   "name": "stage/common/dr_r1",
+   "sheet": {
+    "h": 89,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__dr_r2",
+   "name": "stage/common/dr_r2",
+   "sheet": {
+    "h": 89,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__dr_r3",
+   "name": "stage/common/dr_r3",
+   "sheet": {
+    "h": 89,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__enable",
+   "name": "stage/common/enable",
+   "sheet": {
+    "h": 14,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__end",
+   "name": "stage/common/end",
+   "sheet": {
+    "h": 14,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__hot",
+   "name": "stage/common/hot",
+   "sheet": {
+    "h": 44,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__hot_3fed586e",
+   "name": "stage/common/hot_큰것",
+   "sheet": {
+    "h": 61,
+    "w": 61
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__025_1_07e0b4d6",
+   "name": "stage/common/icon/플레이025_1",
+   "sheet": {
+    "h": 41,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__025_2_6f6c72a1",
+   "name": "stage/common/icon/플레이025_2",
+   "sheet": {
+    "h": 41,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__025_3_0c2a7b52",
+   "name": "stage/common/icon/플레이025_3",
+   "sheet": {
+    "h": 41,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__025_4_bbb25cb2",
+   "name": "stage/common/icon/플레이025_4",
+   "sheet": {
+    "h": 41,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__05_1_96579448",
+   "name": "stage/common/icon/플레이05_1",
+   "sheet": {
+    "h": 41,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__05_2_fb81b62b",
+   "name": "stage/common/icon/플레이05_2",
+   "sheet": {
+    "h": 41,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__05_3_9115c599",
+   "name": "stage/common/icon/플레이05_3",
+   "sheet": {
+    "h": 41,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__05_4_10a6f1ad",
+   "name": "stage/common/icon/플레이05_4",
+   "sheet": {
+    "h": 41,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_00fd22ee",
+   "name": "stage/common/icon/종료_1",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_1_878806b7",
+   "name": "stage/common/icon/라이더1_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_1_95174f75",
+   "name": "stage/common/icon/플레이1_1",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_2_39c838cf",
+   "name": "stage/common/icon/라이더1_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_2_483a1009",
+   "name": "stage/common/icon/플레이1_2",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_3_5834acca",
+   "name": "stage/common/icon/라이더1_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_3_973e9498",
+   "name": "stage/common/icon/플레이1_3",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_4_5b60ec51",
+   "name": "stage/common/icon/플레이1_4",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_4_5ea8ac0a",
+   "name": "stage/common/icon/라이더1_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_8c700bf6",
+   "name": "stage/common/icon/플레이멈춤_1",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__1_c2e88a5c",
+   "name": "stage/common/icon/홈으로_1",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_0d7b4b20",
+   "name": "stage/common/icon/종료_2",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_1_a8a70dd7",
+   "name": "stage/common/icon/라이더2_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_2_7017ab67",
+   "name": "stage/common/icon/라이더2_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_3_36546a9b",
+   "name": "stage/common/icon/라이더2_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_4_1e542fe6",
+   "name": "stage/common/icon/라이더2_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_69a3c83b",
+   "name": "stage/common/icon/홈으로_2",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__2_d6705979",
+   "name": "stage/common/icon/플레이멈춤_2",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_1_15ae5d44",
+   "name": "stage/common/icon/라이더3_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_2_f8a4fe6d",
+   "name": "stage/common/icon/라이더3_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_3_1bc5981a",
+   "name": "stage/common/icon/라이더3_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_4_61d6d945",
+   "name": "stage/common/icon/라이더3_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_4e73f842",
+   "name": "stage/common/icon/홈으로_3",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_952180c8",
+   "name": "stage/common/icon/종료_3",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__3_9e79728f",
+   "name": "stage/common/icon/플레이멈춤_3",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_1_3aca0feb",
+   "name": "stage/common/icon/라이더4_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_2_53295db8",
+   "name": "stage/common/icon/라이더4_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_3_cdaeda5b",
+   "name": "stage/common/icon/라이더4_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_4_3b9a9dc4",
+   "name": "stage/common/icon/라이더4_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_53fb766a",
+   "name": "stage/common/icon/플레이멈춤_4",
+   "sheet": {
+    "h": 46,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_c71736ce",
+   "name": "stage/common/icon/종료_4",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__4_c7756e07",
+   "name": "stage/common/icon/홈으로_4",
+   "sheet": {
+    "h": 51,
+    "w": 51
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__5_1_36d4a2e7",
+   "name": "stage/common/icon/라이더5_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__5_2_1f2ef079",
+   "name": "stage/common/icon/라이더5_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__5_3_4e2d2404",
+   "name": "stage/common/icon/라이더5_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__5_4_1cdcb0e1",
+   "name": "stage/common/icon/라이더5_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__6_1_d6f32f30",
+   "name": "stage/common/icon/라이더6_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__6_2_fe5a98a2",
+   "name": "stage/common/icon/라이더6_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__6_3_70a96e14",
+   "name": "stage/common/icon/라이더6_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__6_4_bad908fd",
+   "name": "stage/common/icon/라이더6_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__7_1_824b3182",
+   "name": "stage/common/icon/라이더7_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__7_2_87a0c8ce",
+   "name": "stage/common/icon/라이더7_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__7_3_40ae1de3",
+   "name": "stage/common/icon/라이더7_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__7_4_f5f0853a",
+   "name": "stage/common/icon/라이더7_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__8_1_2e3a56ed",
+   "name": "stage/common/icon/라이더8_1",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__8_2_8f3f9e67",
+   "name": "stage/common/icon/라이더8_2",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__8_3_3688ad2b",
+   "name": "stage/common/icon/라이더8_3",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__8_4_7f2cd4bf",
+   "name": "stage/common/icon/라이더8_4",
+   "sheet": {
+    "h": 28,
+    "w": 29
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__A_1_bccecf40",
+   "name": "stage/common/icon/카메라A_1",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__A_2_8739d423",
+   "name": "stage/common/icon/카메라A_2",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__A_3_766f5f78",
+   "name": "stage/common/icon/카메라A_3",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__D_1_92ca9489",
+   "name": "stage/common/icon/카메라D_1",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__D_2_672ac4e1",
+   "name": "stage/common/icon/카메라D_2",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__D_3_d5772401",
+   "name": "stage/common/icon/카메라D_3",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__F_1_7b41a4c3",
+   "name": "stage/common/icon/카메라F_1",
+   "sheet": {
+    "h": 27,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__F_2_a845d2b9",
+   "name": "stage/common/icon/카메라F_2",
+   "sheet": {
+    "h": 27,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__F_3_6911739c",
+   "name": "stage/common/icon/카메라F_3",
+   "sheet": {
+    "h": 26,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_100_01",
+   "name": "stage/common/icon/fullroom_100_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_100_02",
+   "name": "stage/common/icon/fullroom_100_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_10_01",
+   "name": "stage/common/icon/fullroom_10_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_10_02",
+   "name": "stage/common/icon/fullroom_10_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_120_01",
+   "name": "stage/common/icon/fullroom_120_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_120_02",
+   "name": "stage/common/icon/fullroom_120_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_140_01",
+   "name": "stage/common/icon/fullroom_140_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_140_02",
+   "name": "stage/common/icon/fullroom_140_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_160_01",
+   "name": "stage/common/icon/fullroom_160_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_160_02",
+   "name": "stage/common/icon/fullroom_160_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_200_01",
+   "name": "stage/common/icon/fullroom_200_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_200_02",
+   "name": "stage/common/icon/fullroom_200_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_20_01",
+   "name": "stage/common/icon/fullroom_20_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_20_02",
+   "name": "stage/common/icon/fullroom_20_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_30_01",
+   "name": "stage/common/icon/fullroom_30_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_30_02",
+   "name": "stage/common/icon/fullroom_30_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_40_01",
+   "name": "stage/common/icon/fullroom_40_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_40_02",
+   "name": "stage/common/icon/fullroom_40_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_50_01",
+   "name": "stage/common/icon/fullroom_50_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_50_02",
+   "name": "stage/common/icon/fullroom_50_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_60_01",
+   "name": "stage/common/icon/fullroom_60_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_60_02",
+   "name": "stage/common/icon/fullroom_60_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_70_01",
+   "name": "stage/common/icon/fullroom_70_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_70_02",
+   "name": "stage/common/icon/fullroom_70_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_80_01",
+   "name": "stage/common/icon/fullroom_80_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_80_02",
+   "name": "stage/common/icon/fullroom_80_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_90_01",
+   "name": "stage/common/icon/fullroom_90_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__fullroom_90_02",
+   "name": "stage/common/icon/fullroom_90_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__icon_All",
+   "name": "stage/common/icon/icon_All",
+   "sheet": {
+    "h": 11,
+    "w": 25
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__icon_randomAll",
+   "name": "stage/common/icon/icon_randomAll",
+   "sheet": {
+    "h": 32,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__icon_themeForest",
+   "name": "stage/common/icon/icon_themeForest",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__icon_themeSea",
+   "name": "stage/common/icon/icon_themeSea",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__icon_themeSky",
+   "name": "stage/common/icon/icon_themeSky",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__m_rank1",
+   "name": "stage/common/icon/m_rank1",
+   "sheet": {
+    "h": 67,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__m_rank2",
+   "name": "stage/common/icon/m_rank2",
+   "sheet": {
+    "h": 67,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__m_rank3",
+   "name": "stage/common/icon/m_rank3",
+   "sheet": {
+    "h": 67,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__m_rank4",
+   "name": "stage/common/icon/m_rank4",
+   "sheet": {
+    "h": 67,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__m_rankRetire",
+   "name": "stage/common/icon/m_rankRetire",
+   "sheet": {
+    "h": 67,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__m_win",
+   "name": "stage/common/icon/m_win",
+   "sheet": {
+    "h": 67,
+    "w": 87
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__pirate_box_01",
+   "name": "stage/common/icon/pirate_box_01",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__pirate_box_02",
+   "name": "stage/common/icon/pirate_box_02",
+   "sheet": {
+    "h": 95,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__Q_1_7c16fc0a",
+   "name": "stage/common/icon/카메라Q_1",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__Q_2_e2ee43fc",
+   "name": "stage/common/icon/카메라Q_2",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__Q_3_3847d690",
+   "name": "stage/common/icon/카메라Q_3",
+   "sheet": {
+    "h": 21,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__S_1_ad7849a7",
+   "name": "stage/common/icon/카메라S_1",
+   "sheet": {
+    "h": 27,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__S_2_e9941d54",
+   "name": "stage/common/icon/카메라S_2",
+   "sheet": {
+    "h": 27,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__S_3_b3929a22",
+   "name": "stage/common/icon/카메라S_3",
+   "sheet": {
+    "h": 27,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__V_1_952598b2",
+   "name": "stage/common/icon/카메라V_1",
+   "sheet": {
+    "h": 27,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__V_2_9b3a9ee4",
+   "name": "stage/common/icon/카메라V_2",
+   "sheet": {
+    "h": 27,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon__V_3_af21b5f7",
+   "name": "stage/common/icon/카메라V_3",
+   "sheet": {
+    "h": 27,
+    "w": 27
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__icon_box",
+   "name": "stage/common/icon_box",
+   "sheet": {
+    "h": 42,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__info_guide",
+   "name": "stage/common/info_guide",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__info_Inquire",
+   "name": "stage/common/info_Inquire",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__info_warning",
+   "name": "stage/common/info_warning",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__ing",
+   "name": "stage/common/ing",
+   "sheet": {
+    "h": 14,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__kephi_quest",
+   "name": "stage/common/kephi_quest",
+   "sheet": {
+    "h": 89,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__line",
+   "name": "stage/common/line",
+   "sheet": {
+    "h": 1,
+    "w": 1
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__LongButtonN_1",
+   "name": "stage/common/LongButtonN_1",
+   "sheet": {
+    "h": 51,
+    "w": 139
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__LongButtonN_2",
+   "name": "stage/common/LongButtonN_2",
+   "sheet": {
+    "h": 51,
+    "w": 139
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__menu_a4c2ef28",
+   "name": "stage/common/menu구분선",
+   "sheet": {
+    "h": 6,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__mouse",
+   "name": "stage/common/mouse",
+   "sheet": {
+    "h": 25,
+    "w": 52
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__movieFrame1",
+   "name": "stage/common/movieFrame1",
+   "sheet": {
+    "h": 451,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__movieFrame2",
+   "name": "stage/common/movieFrame2",
+   "sheet": {
+    "h": 451,
+    "w": 121
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__namingtag",
+   "name": "stage/common/namingtag",
+   "sheet": {
+    "h": 17,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__new",
+   "name": "stage/common/new",
+   "sheet": {
+    "h": 44,
+    "w": 44
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__new_b2f91646",
+   "name": "stage/common/new_큰것",
+   "sheet": {
+    "h": 61,
+    "w": 61
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normal_2a60785c",
+   "name": "stage/common/normal_은",
+   "sheet": {
+    "h": 34,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normal_b010ab8e",
+   "name": "stage/common/normal_동",
+   "sheet": {
+    "h": 34,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normal_back",
+   "name": "stage/common/normal_back",
+   "sheet": {
+    "h": 151,
+    "w": 118
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normal_e87de960",
+   "name": "stage/common/normal_금",
+   "sheet": {
+    "h": 34,
+    "w": 23
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normal_frameD",
+   "name": "stage/common/normal_frameD",
+   "sheet": {
+    "h": 151,
+    "w": 118
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normal_line",
+   "name": "stage/common/normal_line",
+   "sheet": {
+    "h": 130,
+    "w": 108
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__normalz_back",
+   "name": "stage/common/normalz_back",
+   "sheet": {
+    "h": 62,
+    "w": 48
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__option_1",
+   "name": "stage/common/option_1",
+   "sheet": {
+    "h": 110,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__option_2",
+   "name": "stage/common/option_2",
+   "sheet": {
+    "h": 110,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pengi_quest",
+   "name": "stage/common/pengi_quest",
+   "sheet": {
+    "h": 89,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__point",
+   "name": "stage/common/point",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_challenge_1",
+   "name": "stage/common/pop_bt_challenge_1",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_challenge_2",
+   "name": "stage/common/pop_bt_challenge_2",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_challenge_3",
+   "name": "stage/common/pop_bt_challenge_3",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_exit_1",
+   "name": "stage/common/pop_bt_exit_1",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_exit_2",
+   "name": "stage/common/pop_bt_exit_2",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_exit_3",
+   "name": "stage/common/pop_bt_exit_3",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_replay_1",
+   "name": "stage/common/pop_bt_replay_1",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_replay_2",
+   "name": "stage/common/pop_bt_replay_2",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__pop_bt_replay_3",
+   "name": "stage/common/pop_bt_replay_3",
+   "sheet": {
+    "h": 60,
+    "w": 60
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__progress",
+   "name": "stage/common/progress",
+   "sheet": {
+    "h": 6,
+    "w": 208
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__quick_icon",
+   "name": "stage/common/quick_icon",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__quit_1",
+   "name": "stage/common/quit_1",
+   "sheet": {
+    "h": 110,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__quit_2",
+   "name": "stage/common/quit_2",
+   "sheet": {
+    "h": 110,
+    "w": 110
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__return",
+   "name": "stage/common/return",
+   "sheet": {
+    "h": 16,
+    "w": 22
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__saber_quest",
+   "name": "stage/common/saber_quest",
+   "sheet": {
+    "h": 89,
+    "w": 96
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__saver",
+   "name": "stage/common/saver",
+   "sheet": {
+    "h": 400,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__star1",
+   "name": "stage/common/star1",
+   "sheet": {
+    "h": 12,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__star2",
+   "name": "stage/common/star2",
+   "sheet": {
+    "h": 12,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__star_mini1",
+   "name": "stage/common/star_mini1",
+   "sheet": {
+    "h": 16,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__star_mini2",
+   "name": "stage/common/star_mini2",
+   "sheet": {
+    "h": 16,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__subwindow_line",
+   "name": "stage/common/subwindow_line",
+   "sheet": {
+    "h": 3,
+    "w": 1
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__thumb_2a3ab5fb",
+   "name": "stage/common/thumb_은",
+   "sheet": {
+    "h": 16,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__thumb_35e3a388",
+   "name": "stage/common/thumb_금",
+   "sheet": {
+    "h": 16,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__thumb_96c1c536",
+   "name": "stage/common/thumb_동",
+   "sheet": {
+    "h": 16,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__thumb_back",
+   "name": "stage/common/thumb_back",
+   "sheet": {
+    "h": 74,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__thumb_frame",
+   "name": "stage/common/thumb_frame",
+   "sheet": {
+    "h": 74,
+    "w": 58
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__thumb_line",
+   "name": "stage/common/thumb_line",
+   "sheet": {
+    "h": 64,
+    "w": 48
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__X_1",
+   "name": "stage/common/X_1",
+   "sheet": {
+    "h": 20,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__X_2",
+   "name": "stage/common/X_2",
+   "sheet": {
+    "h": 20,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__X_3",
+   "name": "stage/common/X_3",
+   "sheet": {
+    "h": 20,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__common__X_4",
+   "name": "stage/common/X_4",
+   "sheet": {
+    "h": 20,
+    "w": 20
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameFinalTeam__guild_cp_kr_c7e17064",
+   "name": "stage/gameFinalTeam/guild_cp@kr",
+   "sheet": {
+    "h": 24,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameFinalTeam__guild_id_kr_1f357d7f",
+   "name": "stage/gameFinalTeam/guild_id@kr",
+   "sheet": {
+    "h": 24,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameFinalTeam__guild_rp_kr_11572278",
+   "name": "stage/gameFinalTeam/guild_rp@kr",
+   "sheet": {
+    "h": 24,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__10b_ready_panel",
+   "name": "stage/gameReady/10b_ready_panel",
+   "sheet": {
+    "h": 42,
+    "w": 215
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__dawn01",
+   "name": "stage/gameReady/dawn01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__dawn02",
+   "name": "stage/gameReady/dawn02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__dawn03",
+   "name": "stage/gameReady/dawn03",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__dawn04",
+   "name": "stage/gameReady/dawn04",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__iocn_81135dd9",
+   "name": "stage/gameReady/입가리개_iocn",
+   "sheet": {
+    "h": 99,
+    "w": 139
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__km_ready",
+   "name": "stage/gameReady/km_ready",
+   "sheet": {
+    "h": 23,
+    "w": 150
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__master",
+   "name": "stage/gameReady/master",
+   "sheet": {
+    "h": 43,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__master_blink",
+   "name": "stage/gameReady/master_blink",
+   "sheet": {
+    "h": 43,
+    "w": 46
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__pitIn_me",
+   "name": "stage/gameReady/pitIn_me",
+   "sheet": {
+    "h": 100,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__pitIn_you",
+   "name": "stage/gameReady/pitIn_you",
+   "sheet": {
+    "h": 60,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__ready",
+   "name": "stage/gameReady/ready",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__ready_blue",
+   "name": "stage/gameReady/ready_blue",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__ready_circle",
+   "name": "stage/gameReady/ready_circle",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__ready_circle02",
+   "name": "stage/gameReady/ready_circle02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__ready_me",
+   "name": "stage/gameReady/ready_me",
+   "sheet": {
+    "h": 100,
+    "w": 200
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__ready_you",
+   "name": "stage/gameReady/ready_you",
+   "sheet": {
+    "h": 60,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__rider_card",
+   "name": "stage/gameReady/rider_card",
+   "sheet": {
+    "h": 251,
+    "w": 236
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__rider_card_me",
+   "name": "stage/gameReady/rider_card_me",
+   "sheet": {
+    "h": 251,
+    "w": 236
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__selected",
+   "name": "stage/gameReady/selected",
+   "sheet": {
+    "h": 251,
+    "w": 226
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__start",
+   "name": "stage/gameReady/start",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__startready_circle",
+   "name": "stage/gameReady/startready_circle",
+   "sheet": {
+    "h": 82,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__startready_circle02",
+   "name": "stage/gameReady/startready_circle02",
+   "sheet": {
+    "h": 82,
+    "w": 82
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__waitingroom_source",
+   "name": "stage/gameReady/waitingroom_source",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__gameReady__waitingroom_source2",
+   "name": "stage/gameReady/waitingroom_source2",
+   "sheet": {
+    "h": 175,
+    "w": 220
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemCoupleGame__1_f98f9f9d",
+   "name": "stage/itemCoupleGame/아래쪽스크린_1",
+   "sheet": {
+    "h": 277,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemCoupleGame__2_c47223a9",
+   "name": "stage/itemCoupleGame/아래쪽스크린_2",
+   "sheet": {
+    "h": 277,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemCoupleGame____07b380df",
+   "name": "stage/itemCoupleGame/아래쪽스크린_빽판",
+   "sheet": {
+    "h": 277,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemCoupleGame__drive",
+   "name": "stage/itemCoupleGame/drive",
+   "sheet": {
+    "h": 85,
+    "w": 135
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemCoupleGame__item",
+   "name": "stage/itemCoupleGame/item",
+   "sheet": {
+    "h": 85,
+    "w": 135
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__1_b5fe217b",
+   "name": "stage/itemGame/버튼1",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__2_5ffeb3aa",
+   "name": "stage/itemGame/버튼2",
+   "sheet": {
+    "h": 80,
+    "w": 80
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__cruise",
+   "name": "stage/itemGame/cruise",
+   "sheet": {
+    "h": 65,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item1_1",
+   "name": "stage/itemGame/item1_1",
+   "sheet": {
+    "h": 66,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item1_2",
+   "name": "stage/itemGame/item1_2",
+   "sheet": {
+    "h": 67,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item2_1",
+   "name": "stage/itemGame/item2_1",
+   "sheet": {
+    "h": 67,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item2_2",
+   "name": "stage/itemGame/item2_2",
+   "sheet": {
+    "h": 66,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item3_1",
+   "name": "stage/itemGame/item3_1",
+   "sheet": {
+    "h": 66,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item3_2",
+   "name": "stage/itemGame/item3_2",
+   "sheet": {
+    "h": 66,
+    "w": 43
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__item_back",
+   "name": "stage/itemGame/item_back",
+   "sheet": {
+    "h": 80,
+    "w": 259
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__txt1_313eadc1",
+   "name": "stage/itemGame/크루즈txt1",
+   "sheet": {
+    "h": 17,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__itemGame__txt2_269d44e4",
+   "name": "stage/itemGame/크루즈txt2",
+   "sheet": {
+    "h": 17,
+    "w": 78
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__10b_mainmenu_panel",
+   "name": "stage/mainMenu/10b_mainmenu_panel",
+   "sheet": {
+    "h": 63,
+    "w": 413
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_04f9b740",
+   "name": "stage/mainMenu/루키멀티플레이아이콘_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_380fde23",
+   "name": "stage/mainMenu/싱글플레이_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_38d6c67c",
+   "name": "stage/mainMenu/스피드팀1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_527ef5dd",
+   "name": "stage/mainMenu/체이싱개인1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_5a88dd83",
+   "name": "stage/mainMenu/업데이트아이콘_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_658551e1",
+   "name": "stage/mainMenu/아이템전바로가기_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_6bb80c07",
+   "name": "stage/mainMenu/격납고_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_713d51e8",
+   "name": "stage/mainMenu/상점_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_71b08c2a",
+   "name": "stage/mainMenu/체이싱전바로가기_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_73b09286",
+   "name": "stage/mainMenu/방만들기1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_882c2a87",
+   "name": "stage/mainMenu/캠페인_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_949a75db",
+   "name": "stage/mainMenu/아이템팀1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_b0ca8e77",
+   "name": "stage/mainMenu/광장_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_b57dca9f",
+   "name": "stage/mainMenu/라이더스쿨1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_c9bad4c3",
+   "name": "stage/mainMenu/스피드개인1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_d11082b6",
+   "name": "stage/mainMenu/멀티플레이_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__1_d7c880de",
+   "name": "stage/mainMenu/퀘스트_1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_1_a04eceb4",
+   "name": "stage/mainMenu/체이싱2인승1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_1f701f76",
+   "name": "stage/mainMenu/스피드팀2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_2_090c2406",
+   "name": "stage/mainMenu/체이싱2인승2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_5e0ef25d",
+   "name": "stage/mainMenu/퀘스트_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_787a55b2",
+   "name": "stage/mainMenu/상점_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_82740547",
+   "name": "stage/mainMenu/체이싱개인2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_83079049",
+   "name": "stage/mainMenu/격납고_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_95e1759b",
+   "name": "stage/mainMenu/아이템전바로가기_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_96ab569d",
+   "name": "stage/mainMenu/업데이트아이콘_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_9dd0aa23",
+   "name": "stage/mainMenu/캠페인_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_a339a60f",
+   "name": "stage/mainMenu/방만들기2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_c6dbdef9",
+   "name": "stage/mainMenu/싱글플레이_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_d1686ad9",
+   "name": "stage/mainMenu/바로가기아이콘2",
+   "sheet": {
+    "h": 18,
+    "w": 18
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_d30924b3",
+   "name": "stage/mainMenu/스피드개인2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_d9a6e09e",
+   "name": "stage/mainMenu/체이싱전바로가기_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_e29a26ba",
+   "name": "stage/mainMenu/라이더스쿨2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_ea74039e",
+   "name": "stage/mainMenu/루키멀티플레이아이콘_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_eb7d4fc1",
+   "name": "stage/mainMenu/광장_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_ed7546b8",
+   "name": "stage/mainMenu/아이템팀2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__2_f329edde",
+   "name": "stage/mainMenu/멀티플레이_2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_0dba620c",
+   "name": "stage/mainMenu/아이템전바로가기_4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_86c686eb",
+   "name": "stage/mainMenu/스피드개인4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_9aaf7650",
+   "name": "stage/mainMenu/싱글플레이_4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_aaefb55f",
+   "name": "stage/mainMenu/아이템팀4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_b6e8dd8c",
+   "name": "stage/mainMenu/스피드팀4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_b94bdb5f",
+   "name": "stage/mainMenu/체이싱전바로가기_4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_ba8ca134",
+   "name": "stage/mainMenu/체이싱개인4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__4_e10cc1f3",
+   "name": "stage/mainMenu/멀티플레이_4",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__info",
+   "name": "stage/mainMenu/info",
+   "sheet": {
+    "h": 23,
+    "w": 413
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__km_main",
+   "name": "stage/mainMenu/km_main",
+   "sheet": {
+    "h": 43,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__quest1",
+   "name": "stage/mainMenu/quest1",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__mainMenu__quest2",
+   "name": "stage/mainMenu/quest2",
+   "sheet": {
+    "h": 114,
+    "w": 114
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__1_1_dd770031",
+   "name": "stage/multiPlayReady16/1인승타기1",
+   "sheet": {
+    "h": 25,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__1_2_5ed398b8",
+   "name": "stage/multiPlayReady16/1인승타기2",
+   "sheet": {
+    "h": 25,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__1_b11cb0dc",
+   "name": "stage/multiPlayReady16/역할바꾸기1",
+   "sheet": {
+    "h": 25,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__2_1_784770dd",
+   "name": "stage/multiPlayReady16/2인승타기1",
+   "sheet": {
+    "h": 25,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__2_2_6e27c611",
+   "name": "stage/multiPlayReady16/2인승타기2",
+   "sheet": {
+    "h": 25,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__2_a93282d3",
+   "name": "stage/multiPlayReady16/역할바꾸기2",
+   "sheet": {
+    "h": 25,
+    "w": 99
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__link",
+   "name": "stage/multiPlayReady16/link",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__link2",
+   "name": "stage/multiPlayReady16/link2",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__saver_ex",
+   "name": "stage/multiPlayReady16/saver_ex",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__single_select_left",
+   "name": "stage/multiPlayReady16/single_select_left",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__single_select_right",
+   "name": "stage/multiPlayReady16/single_select_right",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__twin_left",
+   "name": "stage/multiPlayReady16/twin_left",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__twin_left_me",
+   "name": "stage/multiPlayReady16/twin_left_me",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__twin_right",
+   "name": "stage/multiPlayReady16/twin_right",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__twin_right_me",
+   "name": "stage/multiPlayReady16/twin_right_me",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__twin_select_left",
+   "name": "stage/multiPlayReady16/twin_select_left",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady16__twin_select_right",
+   "name": "stage/multiPlayReady16/twin_select_right",
+   "sheet": {
+    "h": 251,
+    "w": 156
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady4__1_f51d2d6c",
+   "name": "stage/multiPlayReady4/대기실_트랙카드이미지큰것1",
+   "sheet": {
+    "h": 139,
+    "w": 479
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady4__twin_left",
+   "name": "stage/multiPlayReady4/twin_left",
+   "sheet": {
+    "h": 251,
+    "w": 243
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady4__twin_left_me",
+   "name": "stage/multiPlayReady4/twin_left_me",
+   "sheet": {
+    "h": 251,
+    "w": 243
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady4__twin_right",
+   "name": "stage/multiPlayReady4/twin_right",
+   "sheet": {
+    "h": 251,
+    "w": 243
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__multiPlayReady4__twin_right_me",
+   "name": "stage/multiPlayReady4/twin_right_me",
+   "sheet": {
+    "h": 251,
+    "w": 243
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_152e2f32",
+   "name": "stage/myRoom/바로가기1",
+   "sheet": {
+    "h": 53,
+    "w": 121
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_1_6575423f",
+   "name": "stage/myRoom/화살표1_1",
+   "sheet": {
+    "h": 9,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_2160f240",
+   "name": "stage/myRoom/내정보1",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_2_26720f85",
+   "name": "stage/myRoom/화살표1_2",
+   "sheet": {
+    "h": 9,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_4_7542fe21",
+   "name": "stage/myRoom/화살표1_4",
+   "sheet": {
+    "h": 9,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_4b40daf3",
+   "name": "stage/myRoom/내아이템1",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_4fe05642",
+   "name": "stage/myRoom/선물함1",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_831a1001",
+   "name": "stage/myRoom/퀘스트_자세히1",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_ad69f455",
+   "name": "stage/myRoom/콜랙션버튼1",
+   "sheet": {
+    "h": 83,
+    "w": 187
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__1_b8e60a01",
+   "name": "stage/myRoom/자주하는트랙1",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_166a1ced",
+   "name": "stage/myRoom/콜랙션버튼2",
+   "sheet": {
+    "h": 83,
+    "w": 187
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_1_aac24390",
+   "name": "stage/myRoom/화살표2_1",
+   "sheet": {
+    "h": 9,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_2_72889c9e",
+   "name": "stage/myRoom/화살표2_2",
+   "sheet": {
+    "h": 9,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_4_41043db4",
+   "name": "stage/myRoom/화살표2_4",
+   "sheet": {
+    "h": 9,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_787cd5fa",
+   "name": "stage/myRoom/내아이템2",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_bb8c101c",
+   "name": "stage/myRoom/바로가기2",
+   "sheet": {
+    "h": 53,
+    "w": 121
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_d8fce728",
+   "name": "stage/myRoom/자주하는트랙2",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_df2863a3",
+   "name": "stage/myRoom/내정보2",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_e76795ef",
+   "name": "stage/myRoom/선물함2",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__2_ed68e4b8",
+   "name": "stage/myRoom/퀘스트_자세히2",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__3_5af33afb",
+   "name": "stage/myRoom/퀘스트_자세히3",
+   "sheet": {
+    "h": 13,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__3_fc156d24",
+   "name": "stage/myRoom/콜랙션버튼3",
+   "sheet": {
+    "h": 83,
+    "w": 187
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__4_457ff900",
+   "name": "stage/myRoom/콜랙션버튼4",
+   "sheet": {
+    "h": 83,
+    "w": 187
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__4_9ac24124",
+   "name": "stage/myRoom/자주하는트랙4",
+   "sheet": {
+    "h": 83,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__4_ef5ab09d",
+   "name": "stage/myRoom/콜랙션버튼4_",
+   "sheet": {
+    "h": 83,
+    "w": 187
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____009a52cc",
+   "name": "stage/myRoom/내용",
+   "sheet": {
+    "h": 68,
+    "w": 288
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____0f396cd2",
+   "name": "stage/myRoom/구분라운드",
+   "sheet": {
+    "h": 112,
+    "w": 8
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____2324713f",
+   "name": "stage/myRoom/스피드전",
+   "sheet": {
+    "h": 12,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____23b8863f",
+   "name": "stage/myRoom/라이더명",
+   "sheet": {
+    "h": 12,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____2b752676",
+   "name": "stage/myRoom/무제한슬롯",
+   "sheet": {
+    "h": 115,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____433efb74",
+   "name": "stage/myRoom/설명_기간과효과",
+   "sheet": {
+    "h": 125,
+    "w": 219
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____45e94a9d",
+   "name": "stage/myRoom/트랙슬롯설명",
+   "sheet": {
+    "h": 28,
+    "w": 100
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____496eb083",
+   "name": "stage/myRoom/완료",
+   "sheet": {
+    "h": 14,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____64eb6357",
+   "name": "stage/myRoom/현재랭킹점",
+   "sheet": {
+    "h": 7,
+    "w": 7
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____6f6076ab",
+   "name": "stage/myRoom/펭귄",
+   "sheet": {
+    "h": 173,
+    "w": 231
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____76ad94c3",
+   "name": "stage/myRoom/추가플러스",
+   "sheet": {
+    "h": 10,
+    "w": 10
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____785b6a75",
+   "name": "stage/myRoom/트랙슬롯",
+   "sheet": {
+    "h": 95,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____892a775d",
+   "name": "stage/myRoom/노티스",
+   "sheet": {
+    "h": 33,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____9a673f15",
+   "name": "stage/myRoom/삭제",
+   "sheet": {
+    "h": 9,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____aab89d6f",
+   "name": "stage/myRoom/타이틀",
+   "sheet": {
+    "h": 86,
+    "w": 260
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____c3dfc57b",
+   "name": "stage/myRoom/말풍선",
+   "sheet": {
+    "h": 81,
+    "w": 47
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____cda3d00c",
+   "name": "stage/myRoom/진행중",
+   "sheet": {
+    "h": 14,
+    "w": 38
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____d5835f1a",
+   "name": "stage/myRoom/내플레이정보",
+   "sheet": {
+    "h": 12,
+    "w": 67
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____ecd1d161",
+   "name": "stage/myRoom/추가화살표",
+   "sheet": {
+    "h": 21,
+    "w": 13
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____fbb4cbae",
+   "name": "stage/myRoom/아이템전",
+   "sheet": {
+    "h": 12,
+    "w": 55
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom____ff7bcc2a",
+   "name": "stage/myRoom/구분점",
+   "sheet": {
+    "h": 6,
+    "w": 6
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__ggim1",
+   "name": "stage/myRoom/ggim1",
+   "sheet": {
+    "h": 20,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__ggim2",
+   "name": "stage/myRoom/ggim2",
+   "sheet": {
+    "h": 20,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__ggim3",
+   "name": "stage/myRoom/ggim3",
+   "sheet": {
+    "h": 20,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__ggim4",
+   "name": "stage/myRoom/ggim4",
+   "sheet": {
+    "h": 20,
+    "w": 69
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__myRoom1",
+   "name": "stage/myRoom/myRoom1",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__myRoom2",
+   "name": "stage/myRoom/myRoom2",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__myRoom3",
+   "name": "stage/myRoom/myRoom3",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__myRoom4",
+   "name": "stage/myRoom/myRoom4",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__stamp1",
+   "name": "stage/myRoom/stamp1",
+   "sheet": {
+    "h": 16,
+    "w": 49
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__stamp2",
+   "name": "stage/myRoom/stamp2",
+   "sheet": {
+    "h": 16,
+    "w": 49
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__stamp3",
+   "name": "stage/myRoom/stamp3",
+   "sheet": {
+    "h": 16,
+    "w": 49
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__stamp4",
+   "name": "stage/myRoom/stamp4",
+   "sheet": {
+    "h": 16,
+    "w": 49
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__tooltip1",
+   "name": "stage/myRoom/tooltip1",
+   "sheet": {
+    "h": 21,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__myRoom__tooltip2",
+   "name": "stage/myRoom/tooltip2",
+   "sheet": {
+    "h": 21,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider____91be2df8",
+   "name": "stage/newRider/비활성버튼",
+   "sheet": {
+    "h": 44,
+    "w": 72
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__bazzi1",
+   "name": "stage/newRider/bazzi1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__bazzi2",
+   "name": "stage/newRider/bazzi2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__before",
+   "name": "stage/newRider/before",
+   "sheet": {
+    "h": 26,
+    "w": 89
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__black1",
+   "name": "stage/newRider/black1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__black2",
+   "name": "stage/newRider/black2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__blue1",
+   "name": "stage/newRider/blue1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__blue2",
+   "name": "stage/newRider/blue2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__bt_next_1",
+   "name": "stage/newRider/bt_next_1",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__bt_next_2",
+   "name": "stage/newRider/bt_next_2",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__bt_next_3",
+   "name": "stage/newRider/bt_next_3",
+   "sheet": {
+    "h": 31,
+    "w": 74
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__colorback1",
+   "name": "stage/newRider/colorback1",
+   "sheet": {
+    "h": 67,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__colorback2",
+   "name": "stage/newRider/colorback2",
+   "sheet": {
+    "h": 80,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__colorfront1",
+   "name": "stage/newRider/colorfront1",
+   "sheet": {
+    "h": 67,
+    "w": 68
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__colorfront2",
+   "name": "stage/newRider/colorfront2",
+   "sheet": {
+    "h": 80,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__d_type1",
+   "name": "stage/newRider/d_type1",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__d_type2",
+   "name": "stage/newRider/d_type2",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__dao1",
+   "name": "stage/newRider/dao1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__dao2",
+   "name": "stage/newRider/dao2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__dizini1",
+   "name": "stage/newRider/dizini1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__dizini2",
+   "name": "stage/newRider/dizini2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__ethi1",
+   "name": "stage/newRider/ethi1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__ethi2",
+   "name": "stage/newRider/ethi2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__green1",
+   "name": "stage/newRider/green1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__green2",
+   "name": "stage/newRider/green2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__h_type1",
+   "name": "stage/newRider/h_type1",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__h_type2",
+   "name": "stage/newRider/h_type2",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__marid1",
+   "name": "stage/newRider/marid1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__marid2",
+   "name": "stage/newRider/marid2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__mobi1",
+   "name": "stage/newRider/mobi1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__mobi2",
+   "name": "stage/newRider/mobi2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__mos1",
+   "name": "stage/newRider/mos1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__mos2",
+   "name": "stage/newRider/mos2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__next",
+   "name": "stage/newRider/next",
+   "sheet": {
+    "h": 26,
+    "w": 89
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__orange1",
+   "name": "stage/newRider/orange1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__orange2",
+   "name": "stage/newRider/orange2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__p_type1",
+   "name": "stage/newRider/p_type1",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__p_type2",
+   "name": "stage/newRider/p_type2",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__pink1",
+   "name": "stage/newRider/pink1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__pink2",
+   "name": "stage/newRider/pink2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__purple1",
+   "name": "stage/newRider/purple1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__purple2",
+   "name": "stage/newRider/purple2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__red1",
+   "name": "stage/newRider/red1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__red2",
+   "name": "stage/newRider/red2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__s_type1",
+   "name": "stage/newRider/s_type1",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__s_type2",
+   "name": "stage/newRider/s_type2",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__saver01",
+   "name": "stage/newRider/saver01",
+   "sheet": {
+    "h": 400,
+    "w": 300
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__sky1",
+   "name": "stage/newRider/sky1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__sky2",
+   "name": "stage/newRider/sky2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__uni1",
+   "name": "stage/newRider/uni1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__uni2",
+   "name": "stage/newRider/uni2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__validate",
+   "name": "stage/newRider/validate",
+   "sheet": {
+    "h": 32,
+    "w": 83
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__w_type1",
+   "name": "stage/newRider/w_type1",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__w_type2",
+   "name": "stage/newRider/w_type2",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__warning",
+   "name": "stage/newRider/warning",
+   "sheet": {
+    "h": 33,
+    "w": 36
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__white1",
+   "name": "stage/newRider/white1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__white2",
+   "name": "stage/newRider/white2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__yellow1",
+   "name": "stage/newRider/yellow1",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__yellow2",
+   "name": "stage/newRider/yellow2",
+   "sheet": {
+    "h": 117,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__z_type1",
+   "name": "stage/newRider/z_type1",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__newRider__z_type2",
+   "name": "stage/newRider/z_type2",
+   "sheet": {
+    "h": 158,
+    "w": 192
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__observerReady__bosschange",
+   "name": "stage/observerReady/bosschange",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__1_zz_4ed4337a",
+   "name": "stage/replay/나가기_1@zz",
+   "sheet": {
+    "h": 28,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__1_zz_63624cb3",
+   "name": "stage/replay/선수고정_활성_1@zz",
+   "sheet": {
+    "h": 25,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__1_zz_d26fb46b",
+   "name": "stage/replay/선수고정_비활성_1@zz",
+   "sheet": {
+    "h": 25,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__2_zz_1f2b1564",
+   "name": "stage/replay/나가기_2@zz",
+   "sheet": {
+    "h": 28,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__2_zz_1fc77d50",
+   "name": "stage/replay/선수고정_비활성_2@zz",
+   "sheet": {
+    "h": 25,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__2_zz_c32a4768",
+   "name": "stage/replay/선수고정_활성_2@zz",
+   "sheet": {
+    "h": 25,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__3_zz_34ff943e",
+   "name": "stage/replay/선수고정_비활성_3@zz",
+   "sheet": {
+    "h": 25,
+    "w": 70
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__3_zz_5a9d8c79",
+   "name": "stage/replay/나가기_3@zz",
+   "sheet": {
+    "h": 28,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay____343382cd",
+   "name": "stage/replay/나누기",
+   "sheet": {
+    "h": 79,
+    "w": 2
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay____6d0dfe02",
+   "name": "stage/replay/카메라시야",
+   "sheet": {
+    "h": 39,
+    "w": 15
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__displayOff_1_zz_c8d1164a",
+   "name": "stage/replay/displayOff_1@zz",
+   "sheet": {
+    "h": 28,
+    "w": 116
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__displayOff_2_zz_a8f1a628",
+   "name": "stage/replay/displayOff_2@zz",
+   "sheet": {
+    "h": 28,
+    "w": 116
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__displayOff_3_zz_78a676ac",
+   "name": "stage/replay/displayOff_3@zz",
+   "sheet": {
+    "h": 28,
+    "w": 116
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__displayOn_1_zz_add760b7",
+   "name": "stage/replay/displayOn_1@zz",
+   "sheet": {
+    "h": 28,
+    "w": 116
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__displayOn_3_zz_6cadd707",
+   "name": "stage/replay/displayOn_3@zz",
+   "sheet": {
+    "h": 28,
+    "w": 116
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__help_1_zz_4c82b776",
+   "name": "stage/replay/help_1@zz",
+   "sheet": {
+    "h": 28,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__help_2_zz_72dc0ed0",
+   "name": "stage/replay/help_2@zz",
+   "sheet": {
+    "h": 28,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__help_3_zz_099bb282",
+   "name": "stage/replay/help_3@zz",
+   "sheet": {
+    "h": 28,
+    "w": 62
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__help__1_zz_b91a7db6",
+   "name": "stage/replay/help닫기_1@zz",
+   "sheet": {
+    "h": 20,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__help__2_zz_83e1315e",
+   "name": "stage/replay/help닫기_2@zz",
+   "sheet": {
+    "h": 20,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__help__3_zz_0e2f76f4",
+   "name": "stage/replay/help닫기_3@zz",
+   "sheet": {
+    "h": 20,
+    "w": 56
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__zz_1a4c7509",
+   "name": "stage/replay/라이더뷰@zz",
+   "sheet": {
+    "h": 23,
+    "w": 91
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__zz_b1b77500",
+   "name": "stage/replay/카메라시점틀@zz",
+   "sheet": {
+    "h": 77,
+    "w": 193
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replay__zz_ffe89e79",
+   "name": "stage/replay/카메라정보표시@zz",
+   "sheet": {
+    "h": 38,
+    "w": 250
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__1_zz_09655db7",
+   "name": "stage/replayReady/리플레이시작_1@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__1_zz_48e2e9d9",
+   "name": "stage/replayReady/가상대결일반시작_1@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__1_zz_c4224c89",
+   "name": "stage/replayReady/가상대결시작_1@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__2_zz_30b6c8ee",
+   "name": "stage/replayReady/가상대결일반시작_2@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__2_zz_8b72ffc7",
+   "name": "stage/replayReady/리플레이시작_2@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__2_zz_da81366a",
+   "name": "stage/replayReady/가상대결시작_2@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__3_zz_0fc1ca70",
+   "name": "stage/replayReady/가상대결시작_3@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__3_zz_3b087f76",
+   "name": "stage/replayReady/리플레이시작_3@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__3_zz_3def9d33",
+   "name": "stage/replayReady/가상대결일반시작_3@zz",
+   "sheet": {
+    "h": 83,
+    "w": 184
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady____6bbb4f58",
+   "name": "stage/replayReady/뚜껑",
+   "sheet": {
+    "h": 40,
+    "w": 293
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__back_1d88bf40",
+   "name": "stage/replayReady/데이터설명_back",
+   "sheet": {
+    "h": 254,
+    "w": 303
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__back_fc0fa901",
+   "name": "stage/replayReady/프리미엄설명_back",
+   "sheet": {
+    "h": 60,
+    "w": 141
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__zz_2aa90e54",
+   "name": "stage/replayReady/루찌숫자@zz",
+   "sheet": {
+    "h": 21,
+    "w": 163
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replayReady__zz_63f575c1",
+   "name": "stage/replayReady/루찌카운터@zz",
+   "sheet": {
+    "h": 23,
+    "w": 236
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__1_a82e6a19",
+   "name": "stage/replaySelect/리플다른것_1",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__1_c56da01d",
+   "name": "stage/replaySelect/리플내것_1",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__1_d538f789",
+   "name": "stage/replaySelect/리플전체_1",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__1_zz_685e0a1f",
+   "name": "stage/replaySelect/리플레이_비공식_1@zz",
+   "sheet": {
+    "h": 78,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__1_zz_7ed4effd",
+   "name": "stage/replaySelect/리플레이_공식_1@zz",
+   "sheet": {
+    "h": 78,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__2_2a5eeb4c",
+   "name": "stage/replaySelect/리플다른것_2",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__2_a603face",
+   "name": "stage/replaySelect/리플내것_2",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__2_a77fa108",
+   "name": "stage/replaySelect/리플전체_2",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__2_zz_0dc6e3a7",
+   "name": "stage/replaySelect/리플레이_공식_2@zz",
+   "sheet": {
+    "h": 78,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__2_zz_a327a72e",
+   "name": "stage/replaySelect/리플레이_비공식_2@zz",
+   "sheet": {
+    "h": 78,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__3_55378e8c",
+   "name": "stage/replaySelect/리플전체_3",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__3_83f0a268",
+   "name": "stage/replaySelect/리플다른것_3",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__3_a6bc014f",
+   "name": "stage/replaySelect/리플내것_3",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__3_zz_554c7d2a",
+   "name": "stage/replaySelect/리플레이_비공식_3@zz",
+   "sheet": {
+    "h": 78,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__3_zz_a0ad1a23",
+   "name": "stage/replaySelect/리플레이_공식_3@zz",
+   "sheet": {
+    "h": 78,
+    "w": 207
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__4_04fcd2b4",
+   "name": "stage/replaySelect/리플전체_4",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__4_6b8c766a",
+   "name": "stage/replaySelect/리플다른것_4",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__4_9d1efdda",
+   "name": "stage/replaySelect/리플내것_4",
+   "sheet": {
+    "h": 28,
+    "w": 204
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__normal1",
+   "name": "stage/replaySelect/normal1",
+   "sheet": {
+    "h": 32,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__normal2",
+   "name": "stage/replaySelect/normal2",
+   "sheet": {
+    "h": 32,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__normal3",
+   "name": "stage/replaySelect/normal3",
+   "sheet": {
+    "h": 32,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__replaySelect__normal4",
+   "name": "stage/replaySelect/normal4",
+   "sheet": {
+    "h": 32,
+    "w": 37
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__1_0962e62a",
+   "name": "stage/riderSchoolHDrive/왼쪽에어드리프트1",
+   "sheet": {
+    "h": 79,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__1_3d0599ac",
+   "name": "stage/riderSchoolHDrive/오른쪽으로회피1",
+   "sheet": {
+    "h": 79,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__1_aa1893d8",
+   "name": "stage/riderSchoolHDrive/오른쪽에어드리프트1",
+   "sheet": {
+    "h": 79,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__2_242295ff",
+   "name": "stage/riderSchoolHDrive/오른쪽으로회피2",
+   "sheet": {
+    "h": 79,
+    "w": 9
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__2_96e5c826",
+   "name": "stage/riderSchoolHDrive/왼쪽에어드리프트2",
+   "sheet": {
+    "h": 79,
+    "w": 73
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__2_b2c52957",
+   "name": "stage/riderSchoolHDrive/오른쪽에어드리프트2",
+   "sheet": {
+    "h": 79,
+    "w": 146
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive____05800780",
+   "name": "stage/riderSchoolHDrive/게이지_레드화살표",
+   "sheet": {
+    "h": 23,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive____222a756d",
+   "name": "stage/riderSchoolHDrive/게이지_레드프레임",
+   "sheet": {
+    "h": 13,
+    "w": 57
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive____3efb95b3",
+   "name": "stage/riderSchoolHDrive/게이지_프레임",
+   "sheet": {
+    "h": 51,
+    "w": 355
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive____42cc9d6d",
+   "name": "stage/riderSchoolHDrive/왼쪽으로회피",
+   "sheet": {
+    "h": 79,
+    "w": 447
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive____9e772c55",
+   "name": "stage/riderSchoolHDrive/상승회피",
+   "sheet": {
+    "h": 79,
+    "w": 307
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive____f50ace20",
+   "name": "stage/riderSchoolHDrive/게이지_기본화살표",
+   "sheet": {
+    "h": 23,
+    "w": 31
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__roll_left",
+   "name": "stage/riderSchoolHDrive/roll_left",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__roll_lift_up",
+   "name": "stage/riderSchoolHDrive/roll_lift_up",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__roll_right",
+   "name": "stage/riderSchoolHDrive/roll_right",
+   "sheet": {
+    "h": 240,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__riderSchoolHDrive__step_rollover2",
+   "name": "stage/riderSchoolHDrive/step_rollover2",
+   "sheet": {
+    "h": 19,
+    "w": 180
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__1_ed5a4305",
+   "name": "stage/shop/바로가기버튼1",
+   "sheet": {
+    "h": 53,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__2_e94dd15b",
+   "name": "stage/shop/바로가기버튼2",
+   "sheet": {
+    "h": 53,
+    "w": 33
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop____d1a4d315",
+   "name": "stage/shop/무제한슬롯",
+   "sheet": {
+    "h": 115,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop____e8e7d247",
+   "name": "stage/shop/블릿",
+   "sheet": {
+    "h": 6,
+    "w": 6
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__hott",
+   "name": "stage/shop/hott",
+   "sheet": {
+    "h": 14,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__newt",
+   "name": "stage/shop/newt",
+   "sheet": {
+    "h": 14,
+    "w": 42
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__price_bar_lucci",
+   "name": "stage/shop/price_bar_lucci",
+   "sheet": {
+    "h": 14,
+    "w": 109
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__shop01",
+   "name": "stage/shop/shop01",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__shop02",
+   "name": "stage/shop/shop02",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__shop03",
+   "name": "stage/shop/shop03",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__shop04",
+   "name": "stage/shop/shop04",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__slot_back_lucci",
+   "name": "stage/shop/slot_back_lucci",
+   "sheet": {
+    "h": 115,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__shop__slot_inifBack_lucci",
+   "name": "stage/shop/slot_inifBack_lucci",
+   "sheet": {
+    "h": 115,
+    "w": 117
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__1_12feada5",
+   "name": "stage/square/버튼1",
+   "sheet": {
+    "h": 35,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__1_69493df8",
+   "name": "stage/square/접기버튼1",
+   "sheet": {
+    "h": 10,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__1_6c9e8b56",
+   "name": "stage/square/지도확대1",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__1_e92a1b08",
+   "name": "stage/square/지도축소1",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__1_facbaec8",
+   "name": "stage/square/상대정보창1",
+   "sheet": {
+    "h": 37,
+    "w": 145
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__2_045ea8a1",
+   "name": "stage/square/지도축소2",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__2_42ebcc76",
+   "name": "stage/square/접기버튼2",
+   "sheet": {
+    "h": 10,
+    "w": 11
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__2_52b6fac7",
+   "name": "stage/square/지도확대2",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__2_ca676d2e",
+   "name": "stage/square/버튼2",
+   "sheet": {
+    "h": 35,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__2_d4dda975",
+   "name": "stage/square/상대정보창2",
+   "sheet": {
+    "h": 37,
+    "w": 145
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__3_00573897",
+   "name": "stage/square/지도축소3",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__3_219f63ce",
+   "name": "stage/square/지도확대3",
+   "sheet": {
+    "h": 26,
+    "w": 26
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__3_245fa67e",
+   "name": "stage/square/상대정보창3",
+   "sheet": {
+    "h": 37,
+    "w": 145
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__3_286d89fb",
+   "name": "stage/square/버튼3",
+   "sheet": {
+    "h": 35,
+    "w": 79
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square____5f9ae539",
+   "name": "stage/square/방장",
+   "sheet": {
+    "h": 17,
+    "w": 17
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square____915c01ac",
+   "name": "stage/square/지도틀",
+   "sheet": {
+    "h": 155,
+    "w": 240
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square____c11ebc79",
+   "name": "stage/square/자기자신",
+   "sheet": {
+    "h": 50,
+    "w": 197
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__button_end_1",
+   "name": "stage/square/button_end_1",
+   "sheet": {
+    "h": 57,
+    "w": 131
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__button_end_3",
+   "name": "stage/square/button_end_3",
+   "sheet": {
+    "h": 57,
+    "w": 131
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__button_end_4",
+   "name": "stage/square/button_end_4",
+   "sheet": {
+    "h": 57,
+    "w": 131
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__complete",
+   "name": "stage/square/complete",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__ctrl",
+   "name": "stage/square/ctrl",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__f00",
+   "name": "stage/square/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__la",
+   "name": "stage/square/la",
+   "sheet": {
+    "h": 10,
+    "w": 10
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__newquest",
+   "name": "stage/square/newquest",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__progress",
+   "name": "stage/square/progress",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__square__repeat",
+   "name": "stage/square/repeat",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "stage__timeAttack____d413e4fe",
+   "name": "stage/timeAttack/기록경신",
+   "sheet": {
+    "h": 64,
+    "w": 512
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "020_stage",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "화면(로비, 방, 상점, 튜토리얼)"
+}

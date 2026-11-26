@@ -1,0 +1,1223 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "effect__airwall__awall01",
+   "name": "effect/airwall/awall01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small01__6buster001",
+   "name": "effect/booster/w00_small01/6buster001",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small01__6buster004_01",
+   "name": "effect/booster/w00_small01/6buster004_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small01__buster",
+   "name": "effect/booster/w00_small01/buster",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__1",
+   "name": "effect/booster/w00_small/1",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__1_bd6666af",
+   "name": "effect/booster/w00_small/팀부스터1",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__2",
+   "name": "effect/booster/w00_small/2",
+   "sheet": {
+    "h": 64,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__2_b2bd7482",
+   "name": "effect/booster/w00_small/팀부스터2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__3",
+   "name": "effect/booster/w00_small/3",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__3_6db81813",
+   "name": "effect/booster/w00_small/팀부스터3",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__4",
+   "name": "effect/booster/w00_small/4",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__4_7e8c2ec6",
+   "name": "effect/booster/w00_small/팀부스터4",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster001",
+   "name": "effect/booster/w00_small/6buster001",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster002",
+   "name": "effect/booster/w00_small/6buster002",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster002_02",
+   "name": "effect/booster/w00_small/6buster002_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster003",
+   "name": "effect/booster/w00_small/6buster003",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster003_01",
+   "name": "effect/booster/w00_small/6buster003_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster004",
+   "name": "effect/booster/w00_small/6buster004",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__6buster004_01",
+   "name": "effect/booster/w00_small/6buster004_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__aa_005",
+   "name": "effect/booster/w00_small/aa_005",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__b_buster_01",
+   "name": "effect/booster/w00_small/b_buster_01",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__buster",
+   "name": "effect/booster/w00_small/buster",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__buster_01",
+   "name": "effect/booster/w00_small/buster_01",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__booster__w00_small__exp_parti012",
+   "name": "effect/booster/w00_small/exp_parti012",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__Feather02",
+   "name": "effect/boosterWave/Feather02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__line_exp_G",
+   "name": "effect/boosterWave/line_exp_G",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__rin",
+   "name": "effect/boosterWave/rin",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__ro-boom-1-G",
+   "name": "effect/boosterWave/ro-boom-1-G",
+   "sheet": {
+    "h": 128,
+    "w": 16
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__sonicboom",
+   "name": "effect/boosterWave/sonicboom",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__sonicboom_01",
+   "name": "effect/boosterWave/sonicboom_01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__sonicboom_02",
+   "name": "effect/boosterWave/sonicboom_02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__sonicboom_f9609ddd",
+   "name": "effect/boosterWave/sonicboom_빛",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__wave04_83976803",
+   "name": "effect/boosterWave/부스터wave04",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__boosterWave__wave_03_3adb3cc9",
+   "name": "effect/boosterWave/부스터wave_03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__crash",
+   "name": "effect/crash/crash",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__crash1",
+   "name": "effect/crash/crash1",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__crash2",
+   "name": "effect/crash/crash2",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__crash512",
+   "name": "effect/crash/crash512",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__crash_line",
+   "name": "effect/crash/crash_line",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__crash_Ray",
+   "name": "effect/crash/crash_Ray",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__drag",
+   "name": "effect/crash/drag",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__drag_water",
+   "name": "effect/crash/drag_water",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__grass01",
+   "name": "effect/crash/grass01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__grass02",
+   "name": "effect/crash/grass02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__hit3_01",
+   "name": "effect/crash/hit3_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__hit3_02",
+   "name": "effect/crash/hit3_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__pang",
+   "name": "effect/crash/pang",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__smoke",
+   "name": "effect/crash/smoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__stone01",
+   "name": "effect/crash/stone01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__stone02",
+   "name": "effect/crash/stone02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__wood01",
+   "name": "effect/crash/wood01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__crash__wood02",
+   "name": "effect/crash/wood02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__drift__beetrail",
+   "name": "effect/drift/beetrail",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__drift__drift",
+   "name": "effect/drift/drift",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__drift__flytrail",
+   "name": "effect/drift/flytrail",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__01_14890e8e",
+   "name": "effect/dust/물이팩_01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__01_9890572c",
+   "name": "effect/dust/풀_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__01_99a776bb",
+   "name": "effect/dust/먼지_01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__02-02_0e3dba84",
+   "name": "effect/dust/물이팩_02-02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__02_24d7c53f",
+   "name": "effect/dust/물이팩_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__02_be68494a",
+   "name": "effect/dust/풀_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__03-02_592c0e1e",
+   "name": "effect/dust/물이팩_03-02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__03_53c6d333",
+   "name": "effect/dust/물이팩_03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__04_9c2d7086",
+   "name": "effect/dust/물이팩_04",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__05-03_b5462c29",
+   "name": "effect/dust/물이팩_05-03",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__05_3f891f12",
+   "name": "effect/dust/물이팩_05",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust____44b71400",
+   "name": "effect/dust/풀",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust____bd5b2a71",
+   "name": "effect/dust/먼지",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__boilmap",
+   "name": "effect/dust/boilmap",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__busterwav01",
+   "name": "effect/dust/busterwav01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__desertdust",
+   "name": "effect/dust/desertdust",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__desertdust02",
+   "name": "effect/dust/desertdust02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__waterspark",
+   "name": "effect/dust/waterspark",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__waterspark3",
+   "name": "effect/dust/waterspark3",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__dust__wpak01",
+   "name": "effect/dust/wpak01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__air_parti",
+   "name": "effect/fan/air_parti",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__III_30",
+   "name": "effect/fan/III_30",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__III_60",
+   "name": "effect/fan/III_60",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__III_70",
+   "name": "effect/fan/III_70",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__line",
+   "name": "effect/fan/line",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__water01",
+   "name": "effect/fan/water01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__water02",
+   "name": "effect/fan/water02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__whirlp70",
+   "name": "effect/fan/whirlp70",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__wood03",
+   "name": "effect/fan/wood03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__fan__wsmoke",
+   "name": "effect/fan/wsmoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__force____03c5a5b4",
+   "name": "effect/force/뽁뽁이",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__02_54361227",
+   "name": "effect/inwater/물벼락02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__b02",
+   "name": "effect/inwater/b02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__b03",
+   "name": "effect/inwater/b03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__b04",
+   "name": "effect/inwater/b04",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__b05",
+   "name": "effect/inwater/b05",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__w03",
+   "name": "effect/inwater/w03",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__inwater__wdropset",
+   "name": "effect/inwater/wdropset",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun__00_0028a2b0",
+   "name": "effect/machineGun/발사00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun__00_02_f9823d9f",
+   "name": "effect/machineGun/발사00_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun__01_02_a4989a21",
+   "name": "effect/machineGun/발사01_02",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun__01_e203e76a",
+   "name": "effect/machineGun/발사01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun__02_9eb5bb6f",
+   "name": "effect/machineGun/탄02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun____1867cc88",
+   "name": "effect/machineGun/탄",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun____2a88c84a",
+   "name": "effect/machineGun/발사",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun____2f516262",
+   "name": "effect/machineGun/퍼짐",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__machineGun____b02945b5",
+   "name": "effect/machineGun/탄피",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__CloudToon",
+   "name": "effect/particle/CloudToon",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__explo_flame",
+   "name": "effect/particle/explo_flame",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__Particle03",
+   "name": "effect/particle/Particle03",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__poza",
+   "name": "effect/particle/poza",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__roadDust",
+   "name": "effect/particle/roadDust",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__SmokeToon01",
+   "name": "effect/particle/SmokeToon01",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__particle__water00",
+   "name": "effect/particle/water00",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__bombbomb",
+   "name": "effect/petchSmoke/bombbomb",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__forestDust",
+   "name": "effect/petchSmoke/forestDust",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__gunHit",
+   "name": "effect/petchSmoke/gunHit",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__PhoenixGlow",
+   "name": "effect/petchSmoke/PhoenixGlow",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__smoke",
+   "name": "effect/petchSmoke/smoke",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__smokeT",
+   "name": "effect/petchSmoke/smokeT",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__smokeT_rage",
+   "name": "effect/petchSmoke/smokeT_rage",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__petchSmoke__waterSmoke",
+   "name": "effect/petchSmoke/waterSmoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__rain__dust",
+   "name": "effect/rain/dust",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__rain__white",
+   "name": "effect/rain/white",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__shockWave__smoke",
+   "name": "effect/shockWave/smoke",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__bubbles_02",
+   "name": "effect/skidMark/bubbles_02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__bubbles_03",
+   "name": "effect/skidMark/bubbles_03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__Htrail",
+   "name": "effect/skidMark/Htrail",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__skidMark",
+   "name": "effect/skidMark/skidMark",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__trail",
+   "name": "effect/skidMark/trail",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__trail4",
+   "name": "effect/skidMark/trail4",
+   "sheet": {
+    "h": 128,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__wtrail",
+   "name": "effect/skidMark/wtrail",
+   "sheet": {
+    "h": 128,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__skidMark__wtrail2",
+   "name": "effect/skidMark/wtrail2",
+   "sheet": {
+    "h": 32,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__slipstream__04_930dc4bc",
+   "name": "effect/slipstream/별04",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__slipstream__mySlipEffect",
+   "name": "effect/slipstream/mySlipEffect",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__slipstream__otherSlipEffect",
+   "name": "effect/slipstream/otherSlipEffect",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__spin__spin",
+   "name": "effect/spin/spin",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__zetAir__zetAir",
+   "name": "effect/zetAir/zetAir",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__zetAir__zetAir_blue",
+   "name": "effect/zetAir/zetAir_blue",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "effect__zetAir__zetAir_red",
+   "name": "effect/zetAir/zetAir_red",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "070_effect",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "효과"
+}

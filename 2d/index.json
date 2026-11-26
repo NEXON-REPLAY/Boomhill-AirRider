@@ -1,0 +1,84 @@
+{
+ "about": "PC 온라인 비행 레이싱 게임 에어라이더의 2D 이미지: HUD, 화면 UI, 대화 상자, 캐릭터와 에어모빌 텍스처, 아이템, 효과, 수집 카드.",
+ "game": "airrider",
+ "groups": [
+  {
+   "bytes": 7493477,
+   "count": 519,
+   "frames": 519,
+   "id": "010_gui",
+   "title": "HUD, 게이지, 결과창"
+  },
+  {
+   "bytes": 9694437,
+   "count": 722,
+   "frames": 722,
+   "id": "020_stage",
+   "title": "화면(로비, 방, 상점, 튜토리얼)"
+  },
+  {
+   "bytes": 2877603,
+   "count": 360,
+   "frames": 360,
+   "id": "030_dialog",
+   "title": "대화 상자"
+  },
+  {
+   "bytes": 7053019,
+   "count": 491,
+   "frames": 491,
+   "id": "040_character",
+   "title": "캐릭터 텍스처"
+  },
+  {
+   "bytes": 6695584,
+   "count": 254,
+   "frames": 254,
+   "id": "050_airmobile",
+   "title": "에어모빌 텍스처"
+  },
+  {
+   "bytes": 2707830,
+   "count": 168,
+   "frames": 168,
+   "id": "060_item",
+   "title": "아이템"
+  },
+  {
+   "bytes": 1975859,
+   "count": 135,
+   "frames": 135,
+   "id": "070_effect",
+   "title": "효과"
+  },
+  {
+   "bytes": 8376333,
+   "count": 47,
+   "frames": 47,
+   "id": "080_myroom",
+   "title": "마이룸"
+  },
+  {
+   "bytes": 14307292,
+   "count": 582,
+   "frames": 582,
+   "id": "090_card",
+   "title": "수집 카드, 상점, 로딩"
+  },
+  {
+   "bytes": 2124702,
+   "count": 147,
+   "frames": 147,
+   "id": "100_etc",
+   "title": "기타"
+  }
+ ],
+ "schema": "boomhill-open-assets/game/v1",
+ "source_kind": "클라이언트 데이터(평문 자산과 배포본 아카이브 병합)의 PNG, DDS, TGA",
+ "title": "에어라이더",
+ "title_en": "AirRider",
+ "totals": {
+  "assets": 3425,
+  "frames": 3425
+ }
+}

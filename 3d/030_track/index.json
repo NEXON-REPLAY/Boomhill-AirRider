@@ -1,0 +1,329 @@
+{
+ "category": "3d_track",
+ "game": "airrider",
+ "items": [
+  {
+   "bytes": 750660,
+   "file": "030_track/__0d3f7962.glb",
+   "id": "__0d3f7962",
+   "name": "급류",
+   "stats": {
+    "textures": 81,
+    "triangles": 56235
+   },
+   "thumb": "030_track/__0d3f7962.webp"
+  },
+  {
+   "bytes": 1038728,
+   "file": "030_track/__11bc6c63.glb",
+   "id": "__11bc6c63",
+   "name": "협곡",
+   "stats": {
+    "textures": 53,
+    "triangles": 44638
+   },
+   "thumb": "030_track/__11bc6c63.webp"
+  },
+  {
+   "bytes": 1180684,
+   "file": "030_track/__164912de.glb",
+   "id": "__164912de",
+   "label": "에어 포트",
+   "name": "에어포트",
+   "stats": {
+    "textures": 92,
+    "triangles": 74707
+   },
+   "thumb": "030_track/__164912de.webp"
+  },
+  {
+   "bytes": 985712,
+   "file": "030_track/__171d3a52.glb",
+   "id": "__171d3a52",
+   "label": "두개의 탑",
+   "name": "두개의탑",
+   "stats": {
+    "textures": 37,
+    "triangles": 56823
+   },
+   "thumb": "030_track/__171d3a52.webp"
+  },
+  {
+   "bytes": 1421324,
+   "file": "030_track/__1b4fa140.glb",
+   "id": "__1b4fa140",
+   "label": "이상한 관문",
+   "name": "이상한관문",
+   "stats": {
+    "textures": 62,
+    "triangles": 53125
+   },
+   "thumb": "030_track/__1b4fa140.webp"
+  },
+  {
+   "bytes": 1002488,
+   "file": "030_track/__23d7573d.glb",
+   "id": "__23d7573d",
+   "label": "바람의 계곡",
+   "name": "바람의계곡",
+   "stats": {
+    "textures": 75,
+    "triangles": 64289
+   },
+   "thumb": "030_track/__23d7573d.webp"
+  },
+  {
+   "bytes": 1107936,
+   "file": "030_track/__29eaf9e2.glb",
+   "id": "__29eaf9e2",
+   "label": "빛의 정원",
+   "name": "빛의정원",
+   "stats": {
+    "textures": 76,
+    "triangles": 57051
+   },
+   "thumb": "030_track/__29eaf9e2.webp"
+  },
+  {
+   "bytes": 1092380,
+   "file": "030_track/__3809992d.glb",
+   "id": "__3809992d",
+   "label": "고래 동굴",
+   "name": "고래동굴",
+   "stats": {
+    "textures": 66,
+    "triangles": 56503
+   },
+   "thumb": "030_track/__3809992d.webp"
+  },
+  {
+   "bytes": 966720,
+   "file": "030_track/__3e734168.glb",
+   "id": "__3e734168",
+   "name": "크라켄의보물",
+   "stats": {
+    "textures": 57,
+    "triangles": 40102
+   },
+   "thumb": "030_track/__3e734168.webp"
+  },
+  {
+   "bytes": 1121404,
+   "file": "030_track/__4205aa78.glb",
+   "id": "__4205aa78",
+   "label": "제나 익스프레스",
+   "name": "제나익스프레스",
+   "stats": {
+    "textures": 57,
+    "triangles": 51774
+   },
+   "thumb": "030_track/__4205aa78.webp"
+  },
+  {
+   "bytes": 947028,
+   "file": "030_track/__5c264ada.glb",
+   "id": "__5c264ada",
+   "label": "유령 항구",
+   "name": "유령항구",
+   "stats": {
+    "textures": 53,
+    "triangles": 49066
+   },
+   "thumb": "030_track/__5c264ada.webp"
+  },
+  {
+   "bytes": 658840,
+   "file": "030_track/__5d363e1b.glb",
+   "id": "__5d363e1b",
+   "label": "어둠의 등대",
+   "name": "어둠의등대",
+   "stats": {
+    "textures": 40,
+    "triangles": 31315
+   },
+   "thumb": "030_track/__5d363e1b.webp"
+  },
+  {
+   "bytes": 642532,
+   "file": "030_track/__6250b34c.glb",
+   "id": "__6250b34c",
+   "name": "용암동굴",
+   "stats": {
+    "textures": 79,
+    "triangles": 51074
+   },
+   "thumb": "030_track/__6250b34c.webp"
+  },
+  {
+   "bytes": 700804,
+   "file": "030_track/__86cb45d6.glb",
+   "id": "__86cb45d6",
+   "label": "모험의 시작",
+   "name": "모험의시작",
+   "stats": {
+    "textures": 79,
+    "triangles": 47642
+   },
+   "thumb": "030_track/__86cb45d6.webp"
+  },
+  {
+   "bytes": 975600,
+   "file": "030_track/__8cb397f6.glb",
+   "id": "__8cb397f6",
+   "name": "고속터널",
+   "stats": {
+    "textures": 61,
+    "triangles": 55574
+   },
+   "thumb": "030_track/__8cb397f6.webp"
+  },
+  {
+   "bytes": 865444,
+   "file": "030_track/__9a15a8ad.glb",
+   "id": "__9a15a8ad",
+   "label": "상어들의 위협",
+   "name": "상어들의위협",
+   "stats": {
+    "textures": 46,
+    "triangles": 34718
+   },
+   "thumb": "030_track/__9a15a8ad.webp"
+  },
+  {
+   "bytes": 986848,
+   "file": "030_track/__a564cf26.glb",
+   "id": "__a564cf26",
+   "name": "소용돌이",
+   "stats": {
+    "textures": 52,
+    "triangles": 51105
+   },
+   "thumb": "030_track/__a564cf26.webp"
+  },
+  {
+   "bytes": 748416,
+   "file": "030_track/__dff3de7c.glb",
+   "id": "__dff3de7c",
+   "label": "비밀의 숲",
+   "name": "비밀의숲",
+   "stats": {
+    "textures": 63,
+    "triangles": 58233
+   },
+   "thumb": "030_track/__dff3de7c.webp"
+  },
+  {
+   "bytes": 709280,
+   "file": "030_track/__e0d1bd7b.glb",
+   "id": "__e0d1bd7b",
+   "name": "공중폭포",
+   "stats": {
+    "textures": 61,
+    "triangles": 50090
+   },
+   "thumb": "030_track/__e0d1bd7b.webp"
+  },
+  {
+   "bytes": 848892,
+   "file": "030_track/__e0d74fc6.glb",
+   "id": "__e0d74fc6",
+   "label": "제나의 방",
+   "name": "제나의방",
+   "stats": {
+    "textures": 43,
+    "triangles": 39320
+   },
+   "thumb": "030_track/__e0d74fc6.webp"
+  },
+  {
+   "bytes": 742224,
+   "file": "030_track/forest__100_a2102a97.glb",
+   "id": "forest__100_a2102a97",
+   "name": "forest_미션100",
+   "stats": {
+    "textures": 67,
+    "triangles": 68546
+   },
+   "thumb": "030_track/forest__100_a2102a97.webp"
+  },
+  {
+   "bytes": 929008,
+   "file": "030_track/sea__100_198b7404.glb",
+   "id": "sea__100_198b7404",
+   "name": "sea_미션100",
+   "stats": {
+    "textures": 48,
+    "triangles": 41972
+   },
+   "thumb": "030_track/sea__100_198b7404.webp"
+  },
+  {
+   "bytes": 960052,
+   "file": "030_track/sky__100_32faee46.glb",
+   "id": "sky__100_32faee46",
+   "name": "sky_미션100",
+   "stats": {
+    "textures": 43,
+    "triangles": 53849
+   },
+   "thumb": "030_track/sky__100_32faee46.webp"
+  },
+  {
+   "bytes": 7116,
+   "file": "030_track/sv_tutorial01.glb",
+   "id": "sv_tutorial01",
+   "name": "sv_tutorial01",
+   "stats": {
+    "textures": 1,
+    "triangles": 470
+   },
+   "thumb": "030_track/sv_tutorial01.webp"
+  },
+  {
+   "bytes": 4020,
+   "file": "030_track/sv_tutorial02.glb",
+   "id": "sv_tutorial02",
+   "name": "sv_tutorial02",
+   "stats": {
+    "textures": 1,
+    "triangles": 207
+   },
+   "thumb": "030_track/sv_tutorial02.webp"
+  },
+  {
+   "bytes": 636816,
+   "file": "030_track/sv_tutorial03.glb",
+   "id": "sv_tutorial03",
+   "name": "sv_tutorial03",
+   "stats": {
+    "textures": 64,
+    "triangles": 47906
+   },
+   "thumb": "030_track/sv_tutorial03.webp"
+  },
+  {
+   "bytes": 679580,
+   "file": "030_track/sv_tutorial04.glb",
+   "id": "sv_tutorial04",
+   "name": "sv_tutorial04",
+   "stats": {
+    "textures": 71,
+    "triangles": 49728
+   },
+   "thumb": "030_track/sv_tutorial04.webp"
+  },
+  {
+   "bytes": 642392,
+   "file": "030_track/sv_tutorial05.glb",
+   "id": "sv_tutorial05",
+   "name": "sv_tutorial05",
+   "stats": {
+    "textures": 65,
+    "triangles": 48022
+   },
+   "thumb": "030_track/sv_tutorial05.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "트랙"
+}

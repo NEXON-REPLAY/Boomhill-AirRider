@@ -1,0 +1,41 @@
+{
+ "category": "3d_boss",
+ "game": "airrider",
+ "items": [
+  {
+   "bytes": 14356,
+   "file": "040_boss/giantrobot.glb",
+   "id": "giantrobot",
+   "name": "giantrobot",
+   "stats": {
+    "textures": 1,
+    "triangles": 1336
+   },
+   "thumb": "040_boss/giantrobot.webp"
+  },
+  {
+   "bytes": 11420,
+   "file": "040_boss/kraken.glb",
+   "id": "kraken",
+   "name": "kraken",
+   "stats": {
+    "textures": 1,
+    "triangles": 1310
+   },
+   "thumb": "040_boss/kraken.webp"
+  },
+  {
+   "bytes": 6472,
+   "file": "040_boss/phoenix.glb",
+   "id": "phoenix",
+   "name": "phoenix",
+   "stats": {
+    "textures": 1,
+    "triangles": 704
+   },
+   "thumb": "040_boss/phoenix.webp"
+  }
+ ],
+ "schema": "boomhill-open-assets/model-list/v1",
+ "title": "보스"
+}

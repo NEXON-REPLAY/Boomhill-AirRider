@@ -1,0 +1,4427 @@
+{
+ "assets": [
+  {
+   "frames": 1,
+   "id": "character__bazzi__body__def_magddo_0",
+   "name": "character/bazzi/body/def_magddo_0",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__body__def_magddo_1",
+   "name": "character/bazzi/body/def_magddo_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f00",
+   "name": "character/bazzi/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f01",
+   "name": "character/bazzi/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f02",
+   "name": "character/bazzi/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f03",
+   "name": "character/bazzi/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f04",
+   "name": "character/bazzi/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f05",
+   "name": "character/bazzi/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f06",
+   "name": "character/bazzi/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f07",
+   "name": "character/bazzi/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f09",
+   "name": "character/bazzi/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f10",
+   "name": "character/bazzi/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f12",
+   "name": "character/bazzi/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f13",
+   "name": "character/bazzi/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f14",
+   "name": "character/bazzi/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f15",
+   "name": "character/bazzi/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f16",
+   "name": "character/bazzi/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f17",
+   "name": "character/bazzi/face/f17",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f20",
+   "name": "character/bazzi/face/f20",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f30",
+   "name": "character/bazzi/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f31",
+   "name": "character/bazzi/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f32",
+   "name": "character/bazzi/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f33",
+   "name": "character/bazzi/face/f33",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f34",
+   "name": "character/bazzi/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f35",
+   "name": "character/bazzi/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f36",
+   "name": "character/bazzi/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f37",
+   "name": "character/bazzi/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f38",
+   "name": "character/bazzi/face/f38",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f40",
+   "name": "character/bazzi/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f41",
+   "name": "character/bazzi/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__face__f42",
+   "name": "character/bazzi/face/f42",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__handL__default_0",
+   "name": "character/bazzi/handL/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__handL__default_1",
+   "name": "character/bazzi/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__head__default_0",
+   "name": "character/bazzi/head/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__head__default_1",
+   "name": "character/bazzi/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__head__default_2",
+   "name": "character/bazzi/head/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__bazzi__legL__default_1",
+   "name": "character/bazzi/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__body__F_default01_1",
+   "name": "character/common/body/F_default01_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__body__F_default01_2",
+   "name": "character/common/body/F_default01_2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__body__F_default02_1",
+   "name": "character/common/body/F_default02_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__body__F_default03_1",
+   "name": "character/common/body/F_default03_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__body__F_default_1",
+   "name": "character/common/body/F_default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons__01_2fcb3436",
+   "name": "character/common/emoticons/룰루01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons__01_3c3e6f9f",
+   "name": "character/common/emoticons/뚫어뻥01",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons__02_5f036c2e",
+   "name": "character/common/emoticons/룰루02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons__02_6e0465c4",
+   "name": "character/common/emoticons/뚫어뻥02",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons____462cf7b3",
+   "name": "character/common/emoticons/놀람",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons____82081901",
+   "name": "character/common/emoticons/화남",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons____c52ac3b3",
+   "name": "character/common/emoticons/땀삐질",
+   "sheet": {
+    "h": 64,
+    "w": 64
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons____caffef9d",
+   "name": "character/common/emoticons/초조",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons____f8d6458a",
+   "name": "character/common/emoticons/아싸",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons____fefe0751",
+   "name": "character/common/emoticons/당함",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons__hit_rage1",
+   "name": "character/common/emoticons/hit_rage1",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__emoticons__scream",
+   "name": "character/common/emoticons/scream",
+   "sheet": {
+    "h": 256,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__handL__F_default01_1",
+   "name": "character/common/handL/F_default01_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__handL__F_default01_2",
+   "name": "character/common/handL/F_default01_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__handL__F_default02_1",
+   "name": "character/common/handL/F_default02_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__handL__F_default03_1",
+   "name": "character/common/handL/F_default03_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__handL__F_default_1",
+   "name": "character/common/handL/F_default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__legL__F_default02_1",
+   "name": "character/common/legL/F_default02_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__legL__F_default03_1",
+   "name": "character/common/legL/F_default03_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__legL__F_default_1",
+   "name": "character/common/legL/F_default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__null",
+   "name": "character/common/null",
+   "sheet": {
+    "h": 2,
+    "w": 2
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__common__sd",
+   "name": "character/common/sd",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__body__default_1",
+   "name": "character/dao/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f00",
+   "name": "character/dao/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f01",
+   "name": "character/dao/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f02",
+   "name": "character/dao/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f03",
+   "name": "character/dao/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f04",
+   "name": "character/dao/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f05",
+   "name": "character/dao/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f06",
+   "name": "character/dao/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f07",
+   "name": "character/dao/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f09",
+   "name": "character/dao/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f10",
+   "name": "character/dao/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f12",
+   "name": "character/dao/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f13",
+   "name": "character/dao/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f14",
+   "name": "character/dao/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f15",
+   "name": "character/dao/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f16",
+   "name": "character/dao/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f30",
+   "name": "character/dao/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f31",
+   "name": "character/dao/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f32",
+   "name": "character/dao/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f33",
+   "name": "character/dao/face/f33",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f34",
+   "name": "character/dao/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f35",
+   "name": "character/dao/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f36",
+   "name": "character/dao/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f37",
+   "name": "character/dao/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f38",
+   "name": "character/dao/face/f38",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f40",
+   "name": "character/dao/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__face__f41",
+   "name": "character/dao/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__handL__default_1",
+   "name": "character/dao/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__handL__default_2",
+   "name": "character/dao/handL/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__head__default_0",
+   "name": "character/dao/head/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__head__default_1",
+   "name": "character/dao/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__legL__default_1",
+   "name": "character/dao/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dao__legL__default_2",
+   "name": "character/dao/legL/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__body__default_1",
+   "name": "character/dizni/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__body__default_2",
+   "name": "character/dizni/body/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f00",
+   "name": "character/dizni/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f01",
+   "name": "character/dizni/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f02",
+   "name": "character/dizni/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f03",
+   "name": "character/dizni/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f04",
+   "name": "character/dizni/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f05",
+   "name": "character/dizni/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f06",
+   "name": "character/dizni/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f07",
+   "name": "character/dizni/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f09",
+   "name": "character/dizni/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f10",
+   "name": "character/dizni/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f12",
+   "name": "character/dizni/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f13",
+   "name": "character/dizni/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f14",
+   "name": "character/dizni/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f15",
+   "name": "character/dizni/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f16",
+   "name": "character/dizni/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f30",
+   "name": "character/dizni/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f31",
+   "name": "character/dizni/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f32",
+   "name": "character/dizni/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f35",
+   "name": "character/dizni/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f36",
+   "name": "character/dizni/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f37",
+   "name": "character/dizni/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f40",
+   "name": "character/dizni/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__face__f41",
+   "name": "character/dizni/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__handL__default_1",
+   "name": "character/dizni/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__handL__default_2",
+   "name": "character/dizni/handL/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__head__default_1",
+   "name": "character/dizni/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__head__default_2",
+   "name": "character/dizni/head/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__legL__default_0",
+   "name": "character/dizni/legL/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__dizni__legL__default_1",
+   "name": "character/dizni/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__body__default_0",
+   "name": "character/doctorR/body/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__body__default_1",
+   "name": "character/doctorR/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f00",
+   "name": "character/doctorR/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f00_0",
+   "name": "character/doctorR/face/f00_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f00_1",
+   "name": "character/doctorR/face/f00_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f00_2",
+   "name": "character/doctorR/face/f00_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f01",
+   "name": "character/doctorR/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f01_1",
+   "name": "character/doctorR/face/f01_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f01_2",
+   "name": "character/doctorR/face/f01_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f02",
+   "name": "character/doctorR/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f03",
+   "name": "character/doctorR/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f03_1",
+   "name": "character/doctorR/face/f03_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f03_2",
+   "name": "character/doctorR/face/f03_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f04",
+   "name": "character/doctorR/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f04_1",
+   "name": "character/doctorR/face/f04_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f04_2",
+   "name": "character/doctorR/face/f04_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f05",
+   "name": "character/doctorR/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f06",
+   "name": "character/doctorR/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f07",
+   "name": "character/doctorR/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f09",
+   "name": "character/doctorR/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f10",
+   "name": "character/doctorR/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f11",
+   "name": "character/doctorR/face/f11",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f12",
+   "name": "character/doctorR/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f13",
+   "name": "character/doctorR/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f14",
+   "name": "character/doctorR/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f15",
+   "name": "character/doctorR/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f16",
+   "name": "character/doctorR/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f30",
+   "name": "character/doctorR/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f31",
+   "name": "character/doctorR/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f32",
+   "name": "character/doctorR/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f36",
+   "name": "character/doctorR/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f37",
+   "name": "character/doctorR/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f38",
+   "name": "character/doctorR/face/f38",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f40",
+   "name": "character/doctorR/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f41",
+   "name": "character/doctorR/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__face__f42",
+   "name": "character/doctorR/face/f42",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__handL__default_1",
+   "name": "character/doctorR/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__head__default_0",
+   "name": "character/doctorR/head/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__head__default_1",
+   "name": "character/doctorR/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__legL__default_0",
+   "name": "character/doctorR/legL/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__doctorR__legL__default_1",
+   "name": "character/doctorR/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__body__default_1",
+   "name": "character/ethi/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__a00_0",
+   "name": "character/ethi/face/a00_0",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__a00_1",
+   "name": "character/ethi/face/a00_1",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__a00_2",
+   "name": "character/ethi/face/a00_2",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f00",
+   "name": "character/ethi/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f01",
+   "name": "character/ethi/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f02",
+   "name": "character/ethi/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f03",
+   "name": "character/ethi/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f04",
+   "name": "character/ethi/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f05",
+   "name": "character/ethi/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f06",
+   "name": "character/ethi/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f07",
+   "name": "character/ethi/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f09",
+   "name": "character/ethi/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f10",
+   "name": "character/ethi/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f12",
+   "name": "character/ethi/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f13",
+   "name": "character/ethi/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f14",
+   "name": "character/ethi/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f15",
+   "name": "character/ethi/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f16",
+   "name": "character/ethi/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f30",
+   "name": "character/ethi/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f31",
+   "name": "character/ethi/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f32",
+   "name": "character/ethi/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f33",
+   "name": "character/ethi/face/f33",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f34",
+   "name": "character/ethi/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f36",
+   "name": "character/ethi/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f40",
+   "name": "character/ethi/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__f41",
+   "name": "character/ethi/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__face__m",
+   "name": "character/ethi/face/m",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__handL__default_1",
+   "name": "character/ethi/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__head__default_1",
+   "name": "character/ethi/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__head__default_2",
+   "name": "character/ethi/head/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__ethi__legL__default_1",
+   "name": "character/ethi/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__body__default_1",
+   "name": "character/kephi/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f00",
+   "name": "character/kephi/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f01",
+   "name": "character/kephi/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f02",
+   "name": "character/kephi/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f03",
+   "name": "character/kephi/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f04",
+   "name": "character/kephi/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f05",
+   "name": "character/kephi/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f06",
+   "name": "character/kephi/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f07",
+   "name": "character/kephi/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f09",
+   "name": "character/kephi/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f10",
+   "name": "character/kephi/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f12",
+   "name": "character/kephi/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f13",
+   "name": "character/kephi/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f14",
+   "name": "character/kephi/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f15",
+   "name": "character/kephi/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f16",
+   "name": "character/kephi/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f30",
+   "name": "character/kephi/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f31",
+   "name": "character/kephi/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f32",
+   "name": "character/kephi/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f35",
+   "name": "character/kephi/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f36",
+   "name": "character/kephi/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f37",
+   "name": "character/kephi/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f40",
+   "name": "character/kephi/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__face__f41",
+   "name": "character/kephi/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__handL__default_1",
+   "name": "character/kephi/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__head__default_1",
+   "name": "character/kephi/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kephi__legL__default_1",
+   "name": "character/kephi/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kraken__body__kraken_1",
+   "name": "character/kraken/body/kraken_1",
+   "sheet": {
+    "h": 512,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__kraken__body__kraken_2",
+   "name": "character/kraken/body/kraken_2",
+   "sheet": {
+    "h": 512,
+    "w": 1024
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__body__default_1",
+   "name": "character/marid/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__body__default_2",
+   "name": "character/marid/body/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__body__F_default_1",
+   "name": "character/marid/body/F_default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__body__F_default_2",
+   "name": "character/marid/body/F_default_2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f00",
+   "name": "character/marid/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f01",
+   "name": "character/marid/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f02",
+   "name": "character/marid/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f03",
+   "name": "character/marid/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f04",
+   "name": "character/marid/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f05",
+   "name": "character/marid/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f06",
+   "name": "character/marid/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f07",
+   "name": "character/marid/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f09",
+   "name": "character/marid/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f10",
+   "name": "character/marid/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f12",
+   "name": "character/marid/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f13",
+   "name": "character/marid/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f14",
+   "name": "character/marid/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f15",
+   "name": "character/marid/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f16",
+   "name": "character/marid/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f30",
+   "name": "character/marid/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f31",
+   "name": "character/marid/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f32",
+   "name": "character/marid/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f34",
+   "name": "character/marid/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f35",
+   "name": "character/marid/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__face__f37",
+   "name": "character/marid/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__handL__default_1",
+   "name": "character/marid/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__handL__F_default_1",
+   "name": "character/marid/handL/F_default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__handL__F_default_2",
+   "name": "character/marid/handL/F_default_2",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__head__default_1",
+   "name": "character/marid/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__head__default_2",
+   "name": "character/marid/head/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__legL__default_1",
+   "name": "character/marid/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__marid__legL__F_default_1",
+   "name": "character/marid/legL/F_default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__body__default_1",
+   "name": "character/mobi/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f00",
+   "name": "character/mobi/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f01",
+   "name": "character/mobi/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f02",
+   "name": "character/mobi/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f03",
+   "name": "character/mobi/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f04",
+   "name": "character/mobi/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f05",
+   "name": "character/mobi/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f06",
+   "name": "character/mobi/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f07",
+   "name": "character/mobi/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f09",
+   "name": "character/mobi/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f10",
+   "name": "character/mobi/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f12",
+   "name": "character/mobi/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f13",
+   "name": "character/mobi/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f14",
+   "name": "character/mobi/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f15",
+   "name": "character/mobi/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f16",
+   "name": "character/mobi/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f30",
+   "name": "character/mobi/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f31",
+   "name": "character/mobi/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f32",
+   "name": "character/mobi/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f33",
+   "name": "character/mobi/face/f33",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f34",
+   "name": "character/mobi/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f35",
+   "name": "character/mobi/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f36",
+   "name": "character/mobi/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f37",
+   "name": "character/mobi/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f38",
+   "name": "character/mobi/face/f38",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f40",
+   "name": "character/mobi/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f41",
+   "name": "character/mobi/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f42",
+   "name": "character/mobi/face/f42",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__face__f43",
+   "name": "character/mobi/face/f43",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__handL__default_0",
+   "name": "character/mobi/handL/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__handL__default_1",
+   "name": "character/mobi/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__head__default_0",
+   "name": "character/mobi/head/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__head__default_1",
+   "name": "character/mobi/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__legL__default_0",
+   "name": "character/mobi/legL/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mobi__legL__default_1",
+   "name": "character/mobi/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__body__default_1",
+   "name": "character/mos/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f00",
+   "name": "character/mos/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f01",
+   "name": "character/mos/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f02",
+   "name": "character/mos/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f03",
+   "name": "character/mos/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f04",
+   "name": "character/mos/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f05",
+   "name": "character/mos/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f06",
+   "name": "character/mos/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f07",
+   "name": "character/mos/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f09",
+   "name": "character/mos/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f10",
+   "name": "character/mos/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f12",
+   "name": "character/mos/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f13",
+   "name": "character/mos/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f14",
+   "name": "character/mos/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f15",
+   "name": "character/mos/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f16",
+   "name": "character/mos/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f30",
+   "name": "character/mos/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f31",
+   "name": "character/mos/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f32",
+   "name": "character/mos/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f33",
+   "name": "character/mos/face/f33",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f34",
+   "name": "character/mos/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f36",
+   "name": "character/mos/face/f36",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f37",
+   "name": "character/mos/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f38",
+   "name": "character/mos/face/f38",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f40",
+   "name": "character/mos/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__face__f41",
+   "name": "character/mos/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__handL__default_1",
+   "name": "character/mos/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__head__default_1",
+   "name": "character/mos/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__mos__legL__default_1",
+   "name": "character/mos/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__NPC__giantrobot__1",
+   "name": "character/NPC/giantrobot/1",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__NPC__phoenix__1",
+   "name": "character/NPC/phoenix/1",
+   "sheet": {
+    "h": 512,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__body__default_0",
+   "name": "character/pirate_A/body/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__body__default_1",
+   "name": "character/pirate_A/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__face__f00",
+   "name": "character/pirate_A/face/f00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__handL__default_1",
+   "name": "character/pirate_A/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__handR__default_1",
+   "name": "character/pirate_A/handR/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__head__default_0",
+   "name": "character/pirate_A/head/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__head__default_1",
+   "name": "character/pirate_A/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A__legL__default_1",
+   "name": "character/pirate_A/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A_B__head__default_1",
+   "name": "character/pirate_A_B/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A_C__head__default_1",
+   "name": "character/pirate_A_C/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A_D__body__default_1",
+   "name": "character/pirate_A_D/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A_D__face__f00",
+   "name": "character/pirate_A_D/face/f00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A_D__handL__default_1",
+   "name": "character/pirate_A_D/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_A_D__head__default_1",
+   "name": "character/pirate_A_D/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B__body__default_1",
+   "name": "character/pirate_B/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B__face__f00",
+   "name": "character/pirate_B/face/f00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B__face__f02",
+   "name": "character/pirate_B/face/f02",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B__handL__default_1",
+   "name": "character/pirate_B/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B__head__default_1",
+   "name": "character/pirate_B/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B__legL__default_1",
+   "name": "character/pirate_B/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_B__body__default_1",
+   "name": "character/pirate_B_B/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_B__face__f00",
+   "name": "character/pirate_B_B/face/f00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_B__handL__default_1",
+   "name": "character/pirate_B_B/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_B__head__default_1",
+   "name": "character/pirate_B_B/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_C__head__default_1",
+   "name": "character/pirate_B_C/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_D__body__default_1",
+   "name": "character/pirate_B_D/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_D__face__f00",
+   "name": "character/pirate_B_D/face/f00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_D__handL__default_1",
+   "name": "character/pirate_B_D/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_B_D__head__default_1",
+   "name": "character/pirate_B_D/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__body__default_1",
+   "name": "character/pirate_C/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f00",
+   "name": "character/pirate_C/face/f00",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f01",
+   "name": "character/pirate_C/face/f01",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f02",
+   "name": "character/pirate_C/face/f02",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f03",
+   "name": "character/pirate_C/face/f03",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f04",
+   "name": "character/pirate_C/face/f04",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f07",
+   "name": "character/pirate_C/face/f07",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f14",
+   "name": "character/pirate_C/face/f14",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f16",
+   "name": "character/pirate_C/face/f16",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f41",
+   "name": "character/pirate_C/face/f41",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__face__f42",
+   "name": "character/pirate_C/face/f42",
+   "sheet": {
+    "h": 64,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__handL__default_1",
+   "name": "character/pirate_C/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__head__default_1",
+   "name": "character/pirate_C/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C__legL__leg00_1",
+   "name": "character/pirate_C/legL/leg00_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C_C__head__default_1",
+   "name": "character/pirate_C_C/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C_D__body__default_1",
+   "name": "character/pirate_C_D/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_C_D__handL__default_1",
+   "name": "character/pirate_C_D/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__body__default_0",
+   "name": "character/pirate_D/body/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__body__default_1",
+   "name": "character/pirate_D/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__body__default_2",
+   "name": "character/pirate_D/body/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f00",
+   "name": "character/pirate_D/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f01",
+   "name": "character/pirate_D/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f02",
+   "name": "character/pirate_D/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f03",
+   "name": "character/pirate_D/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f04",
+   "name": "character/pirate_D/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f05",
+   "name": "character/pirate_D/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f06",
+   "name": "character/pirate_D/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f07",
+   "name": "character/pirate_D/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f09",
+   "name": "character/pirate_D/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f10",
+   "name": "character/pirate_D/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f11",
+   "name": "character/pirate_D/face/f11",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f12",
+   "name": "character/pirate_D/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f13",
+   "name": "character/pirate_D/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f14",
+   "name": "character/pirate_D/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f15",
+   "name": "character/pirate_D/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f16",
+   "name": "character/pirate_D/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f17",
+   "name": "character/pirate_D/face/f17",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f30",
+   "name": "character/pirate_D/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f31",
+   "name": "character/pirate_D/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f32",
+   "name": "character/pirate_D/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f33",
+   "name": "character/pirate_D/face/f33",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f34",
+   "name": "character/pirate_D/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f40",
+   "name": "character/pirate_D/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f41",
+   "name": "character/pirate_D/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__face__f42",
+   "name": "character/pirate_D/face/f42",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__handL__default_1",
+   "name": "character/pirate_D/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__head__default_1",
+   "name": "character/pirate_D/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D__legL__default_1",
+   "name": "character/pirate_D/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D_B__face__f00",
+   "name": "character/pirate_D_B/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D_B__handL__default_1",
+   "name": "character/pirate_D_B/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D_B__head__default_1",
+   "name": "character/pirate_D_B/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D_C__head__default_1",
+   "name": "character/pirate_D_C/head/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__pirate_D_D__body__default_1",
+   "name": "character/pirate_D_D/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__body__default_0",
+   "name": "character/saver/body/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__body__default_1",
+   "name": "character/saver/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f00",
+   "name": "character/saver/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f01",
+   "name": "character/saver/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f02",
+   "name": "character/saver/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f04",
+   "name": "character/saver/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f10",
+   "name": "character/saver/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f12",
+   "name": "character/saver/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f13",
+   "name": "character/saver/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f14",
+   "name": "character/saver/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f15",
+   "name": "character/saver/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f16",
+   "name": "character/saver/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f30",
+   "name": "character/saver/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f31",
+   "name": "character/saver/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f32",
+   "name": "character/saver/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f34",
+   "name": "character/saver/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f37",
+   "name": "character/saver/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__face__f40",
+   "name": "character/saver/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__handL__default_1",
+   "name": "character/saver/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__head__default_0",
+   "name": "character/saver/head/default_0",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__head__default_1",
+   "name": "character/saver/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__head__default_2",
+   "name": "character/saver/head/default_2",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__saver__legL__default_1",
+   "name": "character/saver/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__body__default_1",
+   "name": "character/tutu/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__body__default_2",
+   "name": "character/tutu/body/default_2",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f00",
+   "name": "character/tutu/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f01",
+   "name": "character/tutu/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f02",
+   "name": "character/tutu/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f03",
+   "name": "character/tutu/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f04",
+   "name": "character/tutu/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f05",
+   "name": "character/tutu/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f06",
+   "name": "character/tutu/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f07",
+   "name": "character/tutu/face/f07",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f09",
+   "name": "character/tutu/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f10",
+   "name": "character/tutu/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f12",
+   "name": "character/tutu/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f13",
+   "name": "character/tutu/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f14",
+   "name": "character/tutu/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f15",
+   "name": "character/tutu/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f16",
+   "name": "character/tutu/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f30",
+   "name": "character/tutu/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f31",
+   "name": "character/tutu/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f32",
+   "name": "character/tutu/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f34",
+   "name": "character/tutu/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f35",
+   "name": "character/tutu/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f37",
+   "name": "character/tutu/face/f37",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f38",
+   "name": "character/tutu/face/f38",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f40",
+   "name": "character/tutu/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__face__f41",
+   "name": "character/tutu/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__handL__default_1",
+   "name": "character/tutu/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__handR__default_1",
+   "name": "character/tutu/handR/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__head__default_1",
+   "name": "character/tutu/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__tutu__legL__default_1",
+   "name": "character/tutu/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__body__default_1",
+   "name": "character/uni/body/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 256
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f00",
+   "name": "character/uni/face/f00",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f01",
+   "name": "character/uni/face/f01",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f02",
+   "name": "character/uni/face/f02",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f03",
+   "name": "character/uni/face/f03",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f04",
+   "name": "character/uni/face/f04",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f05",
+   "name": "character/uni/face/f05",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f06",
+   "name": "character/uni/face/f06",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f09",
+   "name": "character/uni/face/f09",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f10",
+   "name": "character/uni/face/f10",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f12",
+   "name": "character/uni/face/f12",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f13",
+   "name": "character/uni/face/f13",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f14",
+   "name": "character/uni/face/f14",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f15",
+   "name": "character/uni/face/f15",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f16",
+   "name": "character/uni/face/f16",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f30",
+   "name": "character/uni/face/f30",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f31",
+   "name": "character/uni/face/f31",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f32",
+   "name": "character/uni/face/f32",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f34",
+   "name": "character/uni/face/f34",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f35",
+   "name": "character/uni/face/f35",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f40",
+   "name": "character/uni/face/f40",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f41",
+   "name": "character/uni/face/f41",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f42",
+   "name": "character/uni/face/f42",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__face__f43",
+   "name": "character/uni/face/f43",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__handL__default_1",
+   "name": "character/uni/handL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__head__default_1",
+   "name": "character/uni/head/default_1",
+   "sheet": {
+    "h": 256,
+    "w": 512
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__legL__default_0",
+   "name": "character/uni/legL/default_0",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  },
+  {
+   "frames": 1,
+   "id": "character__uni__legL__default_1",
+   "name": "character/uni/legL/default_1",
+   "sheet": {
+    "h": 128,
+    "w": 128
+   }
+  }
+ ],
+ "game": "airrider",
+ "group": "040_character",
+ "schema": "boomhill-open-assets/index/v1",
+ "title": "캐릭터 텍스처"
+}

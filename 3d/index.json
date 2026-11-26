@@ -1,0 +1,48 @@
+{
+ "categories": [
+  {
+   "bytes": 3694713,
+   "count": 27,
+   "dir": "010_airmobile",
+   "id": "3d_airmobile",
+   "list": "010_airmobile/index.json",
+   "title": "에어모빌"
+  },
+  {
+   "bytes": 15062640,
+   "count": 27,
+   "dir": "020_character",
+   "id": "3d_character",
+   "list": "020_character/index.json",
+   "title": "캐릭터"
+  },
+  {
+   "bytes": 23423129,
+   "count": 28,
+   "dir": "030_track",
+   "id": "3d_track",
+   "list": "030_track/index.json",
+   "title": "트랙"
+  },
+  {
+   "bytes": 41116,
+   "count": 3,
+   "dir": "040_boss",
+   "id": "3d_boss",
+   "list": "040_boss/index.json",
+   "title": "보스"
+  },
+  {
+   "bytes": 15252019,
+   "count": 643,
+   "dir": "050_model",
+   "id": "3d_model",
+   "list": "050_model/index.json",
+   "title": "부품, 기타 모델"
+  }
+ ],
+ "game": "airrider",
+ "plugin": null,
+ "render": {},
+ "schema": "boomhill-open-assets/models/v1"
+}
